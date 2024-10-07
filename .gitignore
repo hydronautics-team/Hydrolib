@@ -1,9 +1,15 @@
-*.*
-!*Hydrolib*
-_Previews/
+__Previews
 History/
 *Logs*/
 *Outputs*/
+*.zip
+*.Prj*
+*.Harness
+*.SchDoc
+*.PcbDoc
+*.gitignore
+
+
 
 
 
