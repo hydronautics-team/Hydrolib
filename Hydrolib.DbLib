@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\Sea_Jackal\Gidro\Pioneer\Boards\Libraries\Hydrolib\Database\Hydrolib_bd.xlsm;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\1\Desktop\Платы\manipulator1\Database\Hydrolib_bd.xlsm;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=2
 UpdateMode=2
@@ -12,23 +12,20 @@ QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Excel
-LibraryDatabasePath=D:\Sea_Jackal\Gidro\Pioneer\Boards\Libraries\Hydrolib\Database\Hydrolib_bd.xlsm
+LibraryDatabasePath=C:\Users\1\Desktop\Платы\manipulator1\Database\Hydrolib_bd.xlsm
 DatabasePathRelative=0
 TopPanelCollapsed=0
 LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Chips$
+LastFocusedTable=Zener$
 [Table1]
 SchemaName=
 TableName=Capacitors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=197|Library Path0=220|Library Ref0=129|Footprint Path 10=353|Footprint Ref 10=153|Footprint Path 20=353|Footprint Ref 20=153|Footprint Path 30=353|Footprint Ref 30=153|Footprint Path 40=353|Footprint Ref 40=153|Footprint Path 50=353|Footprint Ref 50=153|Footprint Path 60=347|Footprint Ref 60=153|Footprint Path 70=347|Footprint Ref 70=153|Value0=83|Part Number0=139|Comment0=129
 [Table2]
 SchemaName=
 TableName=Chips$
@@ -37,7 +34,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=139|Description0=281|Library Path0=309|Library Ref0=137|Footprint Path 10=213|Footprint Ref 10=153|Comment0=137|F80=57|F90=57|F100=66|F110=66|F120=66|F130=66|F140=66|F150=66|F160=66|F170=66|F180=66|F190=66|F200=66
+BrowserOrder_Visible=Part Number0=125|Description0=356|Library Path0=254|Library Ref0=125|Footprint Path 10=187|Footprint Ref 10=117|Comment0=125|F80=40|F90=40|F100=48|F110=48|F120=48|F130=48|F140=48|F150=48|F160=48|F170=48|F180=48|F190=48|F200=48
 [Table3]
 SchemaName=
 TableName=Connectors$
@@ -46,37 +43,55 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=139|Description0=249|Library Path0=315|Library Ref0=120|Footprint Path 10=315|Footprint Ref 10=153|Comment0=116|F80=57|F90=57
+BrowserOrder_Visible=Part Number0=104|Description0=203|Library Path0=256|Library Ref0=90|Footprint Path 10=259|Footprint Ref 10=117|Comment0=86|F80=40|F90=40
 [Table4]
+SchemaName=
+TableName=Inductance$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=104|Description0=162|Library Path0=185|Library Ref0=90|Footprint Path 10=232|Footprint Ref 10=117|Footprint Path 20=232|Footprint Ref 20=117|Footprint Path 30=232|Footprint Ref 30=117|Footprint Path 40=281|Footprint Ref 40=117|Comment0=86
+[Table5]
 SchemaName=
 TableName=Other$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table5]
+[Table6]
 SchemaName=
 TableName=Resistors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table6]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=104|Description0=94|Library Path0=166|Library Ref0=90|Footprint Path 10=205|Footprint Ref 10=117|Footprint Path 20=205|Footprint Ref 20=117|Footprint Path 30=205|Footprint Ref 30=117|Footprint Path 40=205|Footprint Ref 40=117|Comment0=86|Value0=59|F150=48|F160=48|F170=48|F180=48|F190=48|F200=48
+[Table7]
 SchemaName=
 TableName=TVS$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table7]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=104|Description0=373|Library Path0=213|Library Ref0=90|Footprint Path 10=176|Footprint Ref 10=117|Comment0=86|Value0=59|Voltage nominal (V)0=146|Power (W)0=88|Interface0=78
+[Table8]
 SchemaName=
 TableName=Transistors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table8]
+[Table9]
 SchemaName=
 TableName=Zener$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=104|Description0=348|Library Path0=153|Library Ref0=90|Footprint Path 10=179|Footprint Ref 10=117|Comment0=89|Value0=59|Voltage nominal (V)0=146|Current nominal (mA)0=158|Power (W)0=88
 [FieldMap1]
 Options=FieldName=Capacitors$.Description|TableNameOnly=Capacitors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -142,92 +157,124 @@ Options=FieldName=Connectors$.Footprint Ref 1|TableNameOnly=Connectors$|FieldNam
 [FieldMap32]
 Options=FieldName=Connectors$.Comment|TableNameOnly=Connectors$|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap33]
-Options=FieldName=Other$.Part Number|TableNameOnly=Other$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Inductance$.Part Number|TableNameOnly=Inductance$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap34]
-Options=FieldName=Other$.Description|TableNameOnly=Other$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Inductance$.Description|TableNameOnly=Inductance$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap35]
-Options=FieldName=Other$.Library Path|TableNameOnly=Other$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Inductance$.Library Path|TableNameOnly=Inductance$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap36]
-Options=FieldName=Other$.Library Ref|TableNameOnly=Other$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Inductance$.Library Ref|TableNameOnly=Inductance$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap37]
-Options=FieldName=Other$.Footprint Path 1|TableNameOnly=Other$|FieldNameOnly=Footprint Path 1|FieldType=1|ParameterName=[Footprint Path 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Inductance$.Footprint Path 1|TableNameOnly=Inductance$|FieldNameOnly=Footprint Path 1|FieldType=1|ParameterName=[Footprint Path 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap38]
-Options=FieldName=Other$.Footprint Ref 1|TableNameOnly=Other$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Inductance$.Footprint Ref 1|TableNameOnly=Inductance$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap39]
-Options=FieldName=Other$.Footprint Path 2|TableNameOnly=Other$|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Inductance$.Footprint Path 2|TableNameOnly=Inductance$|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap40]
-Options=FieldName=Other$.Footprint Ref 2|TableNameOnly=Other$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Inductance$.Footprint Ref 2|TableNameOnly=Inductance$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap41]
-Options=FieldName=Resistors$.Part Number|TableNameOnly=Resistors$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Inductance$.Footprint Path 3|TableNameOnly=Inductance$|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap42]
-Options=FieldName=Resistors$.Description|TableNameOnly=Resistors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Inductance$.Footprint Ref 3|TableNameOnly=Inductance$|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap43]
-Options=FieldName=Resistors$.Library Path|TableNameOnly=Resistors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Inductance$.Footprint Path 4|TableNameOnly=Inductance$|FieldNameOnly=Footprint Path 4|FieldType=1|ParameterName=[Footprint Path 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap44]
-Options=FieldName=Resistors$.Library Ref|TableNameOnly=Resistors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Inductance$.Footprint Ref 4|TableNameOnly=Inductance$|FieldNameOnly=Footprint Ref 4|FieldType=1|ParameterName=[Footprint Ref 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap45]
-Options=FieldName=Resistors$.Footprint Path 1|TableNameOnly=Resistors$|FieldNameOnly=Footprint Path 1|FieldType=1|ParameterName=[Footprint Path 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Other$.Part Number|TableNameOnly=Other$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap46]
-Options=FieldName=Resistors$.Footprint Ref 1|TableNameOnly=Resistors$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Other$.Description|TableNameOnly=Other$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap47]
-Options=FieldName=Resistors$.Footprint Path 2|TableNameOnly=Resistors$|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Other$.Library Path|TableNameOnly=Other$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap48]
-Options=FieldName=Resistors$.Footprint Ref 2|TableNameOnly=Resistors$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Other$.Library Ref|TableNameOnly=Other$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap49]
-Options=FieldName=Resistors$.Footprint Path 3|TableNameOnly=Resistors$|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Other$.Footprint Path 1|TableNameOnly=Other$|FieldNameOnly=Footprint Path 1|FieldType=1|ParameterName=[Footprint Path 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap50]
-Options=FieldName=Resistors$.Footprint Ref 3|TableNameOnly=Resistors$|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Other$.Footprint Ref 1|TableNameOnly=Other$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap51]
-Options=FieldName=Resistors$.Footprint Path 4|TableNameOnly=Resistors$|FieldNameOnly=Footprint Path 4|FieldType=1|ParameterName=[Footprint Path 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Other$.Footprint Path 2|TableNameOnly=Other$|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap52]
-Options=FieldName=Resistors$.Footprint Ref 4|TableNameOnly=Resistors$|FieldNameOnly=Footprint Ref 4|FieldType=1|ParameterName=[Footprint Ref 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Other$.Footprint Ref 2|TableNameOnly=Other$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap53]
-Options=FieldName=TVS$.Part Number|TableNameOnly=TVS$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Other$.Footprint Path 3|TableNameOnly=Other$|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap54]
-Options=FieldName=TVS$.Description|TableNameOnly=TVS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Other$.Footprint Ref 3|TableNameOnly=Other$|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap55]
-Options=FieldName=TVS$.Library Path|TableNameOnly=TVS$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Other$.Footprint Path 4|TableNameOnly=Other$|FieldNameOnly=Footprint Path 4|FieldType=1|ParameterName=[Footprint Path 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap56]
-Options=FieldName=TVS$.Library Ref|TableNameOnly=TVS$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Other$.Footprint Ref 4|TableNameOnly=Other$|FieldNameOnly=Footprint Ref 4|FieldType=1|ParameterName=[Footprint Ref 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap57]
-Options=FieldName=TVS$.Footprint Path 1|TableNameOnly=TVS$|FieldNameOnly=Footprint Path 1|FieldType=1|ParameterName=[Footprint Path 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistors$.Part Number|TableNameOnly=Resistors$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap58]
-Options=FieldName=TVS$.Footprint Ref 1|TableNameOnly=TVS$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistors$.Description|TableNameOnly=Resistors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap59]
-Options=FieldName=TVS$.Comment|TableNameOnly=TVS$|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistors$.Library Path|TableNameOnly=Resistors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap60]
-Options=FieldName=TVS$.Value|TableNameOnly=TVS$|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistors$.Library Ref|TableNameOnly=Resistors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap61]
-Options=FieldName=Transistors$.Part Number|TableNameOnly=Transistors$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistors$.Footprint Path 1|TableNameOnly=Resistors$|FieldNameOnly=Footprint Path 1|FieldType=1|ParameterName=[Footprint Path 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap62]
-Options=FieldName=Transistors$.Description|TableNameOnly=Transistors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistors$.Footprint Ref 1|TableNameOnly=Resistors$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap63]
-Options=FieldName=Transistors$.Library Path|TableNameOnly=Transistors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistors$.Footprint Path 2|TableNameOnly=Resistors$|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap64]
-Options=FieldName=Transistors$.Library Ref|TableNameOnly=Transistors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistors$.Footprint Ref 2|TableNameOnly=Resistors$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap65]
-Options=FieldName=Transistors$.Footprint Path 1|TableNameOnly=Transistors$|FieldNameOnly=Footprint Path 1|FieldType=1|ParameterName=[Footprint Path 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistors$.Footprint Path 3|TableNameOnly=Resistors$|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap66]
-Options=FieldName=Transistors$.Footprint Ref 1|TableNameOnly=Transistors$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistors$.Footprint Ref 3|TableNameOnly=Resistors$|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap67]
-Options=FieldName=Transistors$.Footprint Path 2|TableNameOnly=Transistors$|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistors$.Footprint Path 4|TableNameOnly=Resistors$|FieldNameOnly=Footprint Path 4|FieldType=1|ParameterName=[Footprint Path 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap68]
-Options=FieldName=Transistors$.Footprint Ref 2|TableNameOnly=Transistors$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistors$.Footprint Ref 4|TableNameOnly=Resistors$|FieldNameOnly=Footprint Ref 4|FieldType=1|ParameterName=[Footprint Ref 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap69]
-Options=FieldName=Transistors$.Comment|TableNameOnly=Transistors$|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=TVS$.Part Number|TableNameOnly=TVS$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap70]
-Options=FieldName=Zener$.Part Number|TableNameOnly=Zener$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=TVS$.Description|TableNameOnly=TVS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap71]
-Options=FieldName=Zener$.Description|TableNameOnly=Zener$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=TVS$.Library Path|TableNameOnly=TVS$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap72]
-Options=FieldName=Zener$.Library Path|TableNameOnly=Zener$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=TVS$.Library Ref|TableNameOnly=TVS$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap73]
-Options=FieldName=Zener$.Library Ref|TableNameOnly=Zener$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=TVS$.Footprint Path 1|TableNameOnly=TVS$|FieldNameOnly=Footprint Path 1|FieldType=1|ParameterName=[Footprint Path 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap74]
-Options=FieldName=Zener$.Footprint Path 1|TableNameOnly=Zener$|FieldNameOnly=Footprint Path 1|FieldType=1|ParameterName=[Footprint Path 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=TVS$.Footprint Ref 1|TableNameOnly=TVS$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap75]
-Options=FieldName=Zener$.Footprint Ref 1|TableNameOnly=Zener$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=TVS$.Comment|TableNameOnly=TVS$|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap76]
-Options=FieldName=Zener$.Comment|TableNameOnly=Zener$|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=TVS$.Value|TableNameOnly=TVS$|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap77]
+Options=FieldName=Transistors$.Part Number|TableNameOnly=Transistors$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap78]
+Options=FieldName=Transistors$.Description|TableNameOnly=Transistors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap79]
+Options=FieldName=Transistors$.Library Path|TableNameOnly=Transistors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap80]
+Options=FieldName=Transistors$.Library Ref|TableNameOnly=Transistors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap81]
+Options=FieldName=Transistors$.Footprint Path 1|TableNameOnly=Transistors$|FieldNameOnly=Footprint Path 1|FieldType=1|ParameterName=[Footprint Path 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap82]
+Options=FieldName=Transistors$.Footprint Ref 1|TableNameOnly=Transistors$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap83]
+Options=FieldName=Transistors$.Footprint Path 2|TableNameOnly=Transistors$|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap84]
+Options=FieldName=Transistors$.Footprint Ref 2|TableNameOnly=Transistors$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap85]
+Options=FieldName=Transistors$.Comment|TableNameOnly=Transistors$|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap86]
+Options=FieldName=Zener$.Part Number|TableNameOnly=Zener$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap87]
+Options=FieldName=Zener$.Description|TableNameOnly=Zener$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap88]
+Options=FieldName=Zener$.Library Path|TableNameOnly=Zener$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap89]
+Options=FieldName=Zener$.Library Ref|TableNameOnly=Zener$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap90]
+Options=FieldName=Zener$.Footprint Path 1|TableNameOnly=Zener$|FieldNameOnly=Footprint Path 1|FieldType=1|ParameterName=[Footprint Path 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap91]
+Options=FieldName=Zener$.Footprint Ref 1|TableNameOnly=Zener$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap92]
+Options=FieldName=Zener$.Comment|TableNameOnly=Zener$|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap93]
 Options=FieldName=Zener$.Value|TableNameOnly=Zener$|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
