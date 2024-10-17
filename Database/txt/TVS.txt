@@ -1,0 +1,3 @@
+Part Number	Description	Comment	Library Path	Library Ref	Footprint Path 1	Footprint Ref 1	Voltage nominal (V)	Power (W)	Value	Interface
+SMBJ24A	"Защитный диод на 24 В, рассеиваемая мощность 600 Вт"	SMBJ24A	Schematic\TVS\TVS_1_1dir.SchLib	TVS_1_1dir	Footprints\SOT23-3.PcbLib	SOT23-3	24	600	24 В	
+PSM712	Защитный диод для линии RS-485	PSM712	Schematic\TVS\TVS_2_2dir.SchLib	TVS_2_2dir	Footprints\SOT23-3.PcbLib	SOT23-3				RS-485

@@ -1,0 +1,5 @@
+Part Number	Description	Comment	Library Path	Library Ref	Footprint Path 1	Footprint Ref 1	Footprint Path 2	Footprint Ref 2											
+Tact_button	Тактовая кнопка	Tact_button	Schematic\Tact_button.SchLib	Tact_button	Footprints\Buttons\Button_SMD_10mm.PcbLib	Button_SMD_10mm	Footprints\Buttons\Button_SMD_6x6.PcbLib	Button_SMD_6x6											
+LED	Светодиод	LED	Schematic\LED.SchLib	LED	Footprints\LED_SMD.PcbLib	LED_SMD													
+XTAL	Кварцевый резонатор	XTAL	Schematic\XTAL.SchLib	XTAL															
+XTAL_GND	Кварцевый резонатор с входом земли	XTAL_GND	Schematic\XTAL_GND.SchLib	XTAL_GND	Footprints\QSMD3.2x2.5.PcbLib	QSMD3.2x2.5													

@@ -1,0 +1,2 @@
+Part Number	Description	Comment	Library Path	Library Ref	Footprint Path 1	Footprint Ref 1	Voltage nominal (V)	Current nominal (mA)	Power (W)	Value
+BZX384-C12	"Стабилитрон на 12 В, рассеиваемая мощность 0.3 Вт"	BZX384-C12	Schematic\Zener.SchLib	Zener	Footprints\SOD-323.PcbLib	SOD-323	12	5	0.3	12 В

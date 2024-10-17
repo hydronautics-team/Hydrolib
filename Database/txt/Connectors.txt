@@ -1,0 +1,3 @@
+Part Number	Description	Comment	Library Path	Library Ref	Footprint Path 1	Footprint Ref 1		
+IDC-10	10-пиновый разъём с ключём	IDC-10	Schematic\Connectors\IDC-10.SchLib	IDC-10	Footprints\Connectors\IDC-10.PcbLib	IDC-10		
+D-SUB-26	10-пиновый разъём с ключём	D-SUB-26	Schematic\Connectors\D-SUB-26.SchLib	D-SUB-26	Footprints\Connectors\D-SUB-26.PcbLib	D-SUB-26		

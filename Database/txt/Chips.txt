@@ -1,0 +1,4 @@
+Part Number	Description	Comment	Library Path	Library Ref	Footprint Path 1	Footprint Ref 1													
+STM32F407VGT6	Микроконтроллер	STM32F407VGT6	Schematic\TVS\STM32F407VGT6.SchLib	STM32F407VGT6	Footprints\LQFP100.PcbLib	LQFP100													
+USBLC6-4	Сборка защитных диодов для USB	USBLC6-4	Schematic\USBLC6-4.SchLib	USBLC6-4	Footprints\SOT23-6.PcbLib	SOT23-6													
+MAX485CSA	RS-485 приёмопередатчик	MAX485CSA	Schematic\MAX485CSA.SchLib	MAX485CSA	Footprints\SOIC-8.PcbLib	SOIC-8													
