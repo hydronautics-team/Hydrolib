@@ -1,0 +1,6 @@
+Part Number	Description	Comment	Library Path	Library Ref		Footprint Path 1	Footprint Ref 1	Footprint Path 2	Footprint Ref 2										
+50N06	N-канальный MOSFET	50N06	Schematic\MOSFET N-channel.SchLib	MOSFET N-channel 1		Footprints\DPAK.PcbLib	DPAK	Footprints\DPAK_termopad.PcbLib	DPAK_termopad										
+100N03A	N-канальный MOSFET	100N03A	Schematic\MOSFET N-channel.SchLib	MOSFET N-channel 1		Footprints\DPAK.PcbLib	DPAK	Footprints\DPAK_termopad.PcbLib	DPAK_termopad										
+AO3400A	N-канальный MOSFET	AO3400A	Schematic\MOSFET N-channel.SchLib	MOSFET N-channel 2		Footprints\SOT23-3.PcbLib	SOT23-3												
+AO3401A	P-канальный MOSFET	AO3401A	Schematic\MOSFET P-channel.SchLib	MOSFET P-channel 2		Footprints\SOT23-3.PcbLib	SOT23-3												
+SUD50P06-15	P-канальный MOSFET	SUD50P06-15	Schematic\MOSFET P-channel.SchLib	MOSFET P-channel 1		Footprints\DPAK.PcbLib	DPAK	Footprints\DPAK_termopad.PcbLib	DPAK_termopad										

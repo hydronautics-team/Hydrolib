@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\Sea_Jackal\Gidro\Pioneer\Boards\Libraries\Hydrolib\Hydrolib_bd.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\Sea_Jackal\Gidro\Pioneer\Boards\Libraries\Hydrolib\Database\Hydrolib_bd.xlsm;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=2
 UpdateMode=2
@@ -12,32 +12,41 @@ QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Excel
-LibraryDatabasePath=D:\Sea_Jackal\Gidro\Pioneer\Boards\Libraries\Hydrolib\Hydrolib_bd.xls
+LibraryDatabasePath=D:\Sea_Jackal\Gidro\Pioneer\Boards\Libraries\Hydrolib\Database\Hydrolib_bd.xlsm
 DatabasePathRelative=0
 TopPanelCollapsed=0
 LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Capacitors$
+LastFocusedTable=Chips$
 [Table1]
 SchemaName=
 TableName=Capacitors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=197|Library Path0=220|Library Ref0=129|Footprint Path 10=353|Footprint Ref 10=153|Footprint Path 20=353|Footprint Ref 20=153|Footprint Path 30=353|Footprint Ref 30=153|Footprint Path 40=353|Footprint Ref 40=153|Footprint Path 50=353|Footprint Ref 50=153|Footprint Path 60=347|Footprint Ref 60=153|Footprint Path 70=347|Footprint Ref 70=153|Value0=83|Part Number0=139|Comment0=129
 [Table2]
 SchemaName=
 TableName=Chips$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=139|Description0=281|Library Path0=309|Library Ref0=137|Footprint Path 10=213|Footprint Ref 10=153|Comment0=137|F80=57|F90=57|F100=66|F110=66|F120=66|F130=66|F140=66|F150=66|F160=66|F170=66|F180=66|F190=66|F200=66
 [Table3]
 SchemaName=
 TableName=Connectors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=139|Description0=249|Library Path0=315|Library Ref0=120|Footprint Path 10=315|Footprint Ref 10=153|Comment0=116|F80=57|F90=57
 [Table4]
 SchemaName=
 TableName=Other$
