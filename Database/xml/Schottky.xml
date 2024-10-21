@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Schottky xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Part>
+		<PartNumber>SK33</PartNumber>
+		<Description>Диод шоттки на 30 В, номинальный ток 3 А</Description>
+		<Comment>SK33</Comment>
+		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
+		<LibraryRef>Schottky_diode</LibraryRef>
+		<FootprintPath1>Footprints\SMC.PcbLib</FootprintPath1>
+		<FootprintRef1>SMC</FootprintRef1>
+		<VoltageNominal_V>30</VoltageNominal_V>
+		<Current_A>3</Current_A>
+	</Part>
+</Schottky>

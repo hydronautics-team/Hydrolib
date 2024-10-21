@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Inductance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Part>
+		<PartNumber>Inductance</PartNumber>
+		<Description>Катушка индуктивности</Description>
+		<Comment>Inductance</Comment>
+		<LibraryPath>Schematic\Inductance.SchLib</LibraryPath>
+		<LibraryRef>Inductance</LibraryRef>
+		<FootprintPath1>Footprints\Inductance\0603L.PcbLib</FootprintPath1>
+		<FootprintRef1>0603L</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\1210L.PcbLib</FootprintPath2>
+		<FootprintRef2>1210L</FootprintRef2>
+		<FootprintPath3>Footprints\Inductance\1212L.PcbLib</FootprintPath3>
+		<FootprintRef3>1212L</FootprintRef3>
+		<FootprintPath4>Footprints\Inductance\12.8x12.8.PcbLib</FootprintPath4>
+		<FootprintRef4>12.8x12.8</FootprintRef4>
+	</Part>
+</Inductance>

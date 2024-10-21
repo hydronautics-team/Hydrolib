@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TVS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Part>
+		<PartNumber>SMBJ24A</PartNumber>
+		<Description>Защитный диод на 24 В, рассеиваемая мощность 600 Вт</Description>
+		<Comment>SMBJ24A</Comment>
+		<LibraryPath>Schematic\TVS\TVS_1_1dir.SchLib</LibraryPath>
+		<LibraryRef>TVS_1_1dir</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-3.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-3</FootprintRef1>
+		<VoltageNominal>24</VoltageNominal>
+		<Power>600</Power>
+		<Value>24 В</Value>
+	</Part>
+	<Part>
+		<PartNumber>PSM712</PartNumber>
+		<Description>Защитный диод для линии RS-485</Description>
+		<Comment>PSM712</Comment>
+		<LibraryPath>Schematic\TVS\TVS_2_2dir.SchLib</LibraryPath>
+		<LibraryRef>TVS_2_2dir</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-3.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-3</FootprintRef1>
+		<Inteface>RS-485</Inteface>
+	</Part>
+</TVS>
