@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Chips xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Part>
+		<PartNumber>STM32F407VGT6</PartNumber>
+		<Description>Микроконтроллер</Description>
+		<Comment>STM32F407VGT6</Comment>
+		<LibraryPath>Schematic\TVS\STM32F407VGT6.SchLib</LibraryPath>
+		<LibraryRef>STM32F407VGT6</LibraryRef>
+		<FootprintPath1>Footprints\LQFP100.PcbLib</FootprintPath1>
+		<FootprintRef1>LQFP100</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>USBLC6-4</PartNumber>
+		<Description>Сборка защитных диодов для USB</Description>
+		<Comment>USBLC6-4</Comment>
+		<LibraryPath>Schematic\USBLC6-4.SchLib</LibraryPath>
+		<LibraryRef>USBLC6-4</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-6.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-6</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>MAX485CSA</PartNumber>
+		<Description>RS-485 приёмопередатчик</Description>
+		<Comment>MAX485CSA</Comment>
+		<LibraryPath>Schematic\MAX485CSA.SchLib</LibraryPath>
+		<LibraryRef>MAX485CSA</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-8</FootprintRef1>
+	</Part>
+</Chips>

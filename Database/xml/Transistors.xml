@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Transistors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Part>
+		<PartNumber>50N06</PartNumber>
+		<Description>N-канальный MOSFET</Description>
+		<Comment>50N06</Comment>
+		<LibraryPath>Schematic\MOSFET N-channel.SchLib</LibraryPath>
+		<LibraryRef>MOSFET N-channel 1</LibraryRef>
+		<FootprintPath1>Footprints\DPAK.PcbLib</FootprintPath1>
+		<FootprintRef1>DPAK</FootprintRef1>
+		<FootprintPath2>Footprints\DPAK_termopad.PcbLib</FootprintPath2>
+		<FootprintRef2>DPAK_termopad</FootprintRef2>
+	</Part>
+	<Part>
+		<PartNumber>100N03A</PartNumber>
+		<Description>N-канальный MOSFET</Description>
+		<Comment>100N03A</Comment>
+		<LibraryPath>Schematic\MOSFET N-channel.SchLib</LibraryPath>
+		<LibraryRef>MOSFET N-channel 1</LibraryRef>
+		<FootprintPath1>Footprints\DPAK.PcbLib</FootprintPath1>
+		<FootprintRef1>DPAK</FootprintRef1>
+		<FootprintPath2>Footprints\DPAK_termopad.PcbLib</FootprintPath2>
+		<FootprintRef2>DPAK_termopad</FootprintRef2>
+	</Part>
+	<Part>
+		<PartNumber>AO3400A</PartNumber>
+		<Description>N-канальный MOSFET</Description>
+		<Comment>AO3400A</Comment>
+		<LibraryPath>Schematic\MOSFET N-channel.SchLib</LibraryPath>
+		<LibraryRef>MOSFET N-channel 2</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-3.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-3</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>AO3401A</PartNumber>
+		<Description>P-канальный MOSFET</Description>
+		<Comment>AO3401A</Comment>
+		<LibraryPath>Schematic\MOSFET P-channel.SchLib</LibraryPath>
+		<LibraryRef>MOSFET P-channel 2</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-3.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-3</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>SUD50P06-15</PartNumber>
+		<Description>P-канальный MOSFET</Description>
+		<Comment>SUD50P06-15</Comment>
+		<LibraryPath>Schematic\MOSFET P-channel.SchLib</LibraryPath>
+		<LibraryRef>MOSFET P-channel 1</LibraryRef>
+		<FootprintPath1>Footprints\DPAK.PcbLib</FootprintPath1>
+		<FootprintRef1>DPAK</FootprintRef1>
+		<FootprintPath2>Footprints\DPAK_termopad.PcbLib</FootprintPath2>
+		<FootprintRef2>DPAK_termopad</FootprintRef2>
+	</Part>
+</Transistors>

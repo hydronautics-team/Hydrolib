@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Capacitors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Part>
+		<PartNumber>Capacitor</PartNumber>
+		<Description>Конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
+		<LibraryRef>Capacitor</LibraryRef>
+		<Value>0,1 мк</Value>
+		<FootprintPath1>Footprints/Capacitor_Ceramic_SMD.PcdLib</FootprintPath1>
+		<FootprintRef1>0603C</FootprintRef1>
+		<FootprintPath2>Footprints/Capacitor_Ceramic_SMD.PcdLib</FootprintPath2>
+		<FootprintRef2>0805C</FootprintRef2>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_polar</PartNumber>
+		<Description>Полярный конденсатор</Description>
+		<Comment>Capacitor_polar</Comment>
+		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>4,7 мк</Value>
+		<FootprintPath1>Footprints/Capacitor_Electrolytic_SMD.PcbLib</FootprintPath1>
+		<FootprintRef1>TC_A (3216)</FootprintRef1>
+		<FootprintPath2>Footprints/Capacitor_Electrolytic_SMD.PcbLib</FootprintPath2>
+		<FootprintRef2>TC_B (3528)</FootprintRef2>
+		<FootprintPath3>Footprints/Capacitor_Electrolytic_SMD.PcbLib</FootprintPath3>
+		<FootprintRef3>TC_C (6032)</FootprintRef3>
+		<FootprintPath4>Footprints/Capacitor_Electrolytic_SMD.PcbLib</FootprintPath4>
+		<FootprintRef4>TC_D (7343)</FootprintRef4>
+		<FootprintPath5>Footprints/Capacitor_Electrolytic_SMD.PcbLib</FootprintPath5>
+		<FootprintRef5>TC_E (7343H)</FootprintRef5>
+		<FootprintPath6>Footprints/Capacitor_Electrolytic_THT.PcbLib</FootprintPath6>
+		<FootprintRef6>RADIAL-2 8mm</FootprintRef6>
+		<FootprintPath7>Footprints/Capacitor_Electrolytic_THT.PcbLib</FootprintPath7>
+		<FootprintRef7>RADIAL-2 10mm</FootprintRef7>
+	</Part>
+</Capacitors>

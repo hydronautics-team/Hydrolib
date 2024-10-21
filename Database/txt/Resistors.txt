@@ -1,2 +1,0 @@
-Part Number	Description	Comment	Library Path	Library Ref	Value	Footprint Path 1	Footprint Ref 1	Footprint Path 2	Footprint Ref 2	Footprint Path 3	Footprint Ref 3	Footprint Path 4	Footprint Ref 4						
-Resistor	Резистор	Resistor	Schematic\Resistor.SchLib	Resistor	1 к	Footprints/Resistor_SMD.PcbLib	0603R	Footprints/Resistor_SMD.PcbLib	0805R	Footprints/Resistor_SMD.PcbLib	1206R	Footprints/Resistor_SMD.PcbLib	2512R						
