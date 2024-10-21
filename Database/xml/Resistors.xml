@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Resistors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Part>
+		<PartNumber>Resistor</PartNumber>
+		<Description>Резистор</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1 к</Value>
+		<FootprintPath1>Footprints/Resistor_SMD.PcbLib</FootprintPath1>
+		<FootprintRef1>0603R</FootprintRef1>
+		<FootprintPath2>Footprints/Resistor_SMD.PcbLib</FootprintPath2>
+		<FootprintRef2>0805R</FootprintRef2>
+		<FootprintPath3>Footprints/Resistor_SMD.PcbLib</FootprintPath3>
+		<FootprintRef3>1206R</FootprintRef3>
+		<FootprintPath4>Footprints/Resistor_SMD.PcbLib</FootprintPath4>
+		<FootprintRef4>2512R</FootprintRef4>
+	</Part>
+</Resistors>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Zener xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Part>
+		<PartNumber>BZX384-C12</PartNumber>
+		<Description>Стабилитрон на 12 В, рассеиваемая мощность 0.3 Вт</Description>
+		<Comment>BZX384-C12</Comment>
+		<LibraryPath>Schematic\Zener.SchLib</LibraryPath>
+		<LibraryRef>Zener</LibraryRef>
+		<FootprintPath1>Footprints\SOD-323.PcbLib</FootprintPath1>
+		<FootprintRef1>SOD-323</FootprintRef1>
+		<VoltageNominal>12</VoltageNominal>
+		<CurrentNominal>5</CurrentNominal>
+		<Power>0.3</Power>
+		<Value>12 В</Value>
+	</Part>
+</Zener>

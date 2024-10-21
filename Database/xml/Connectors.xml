@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Connectors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Part>
+		<PartNumber>IDC-10</PartNumber>
+		<Description>10-пиновый разъём с ключём</Description>
+		<Comment>IDC-10</Comment>
+		<LibraryPath>Schematic\Connectors\IDC-10.SchLib</LibraryPath>
+		<LibraryRef>IDC-10</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\IDC-10.PcbLib</FootprintPath1>
+		<FootprintRef1>IDC-10</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>D-SUB-26</PartNumber>
+		<Description>10-пиновый разъём с ключём</Description>
+		<Comment>D-SUB-26</Comment>
+		<LibraryPath>Schematic\Connectors\D-SUB-26.SchLib</LibraryPath>
+		<LibraryRef>D-SUB-26</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\D-SUB-26.PcbLib</FootprintPath1>
+		<FootprintRef1>D-SUB-26</FootprintRef1>
+	</Part>
+</Connectors>
