@@ -1,3 +1,5 @@
 Part Number	Description	Comment	Library Path	Library Ref	Footprint Path 1	Footprint Ref 1		
 IDC-10	10-пиновый разъём с ключём	IDC-10	Schematic\Connectors\IDC-10.SchLib	IDC-10	Footprints\Connectors\IDC-10.PcbLib	IDC-10		
 D-SUB-26	10-пиновый разъём с ключём	D-SUB-26	Schematic\Connectors\D-SUB-26.SchLib	D-SUB-26	Footprints\Connectors\D-SUB-26.PcbLib	D-SUB-26		
+PLS4	Гребенка 4 пина		Schematic\Connectors\PLS\PLS4.SchLib	PLS4	Footprints\Connectors\PLS\PLS4.PcbLib	PLS4		
+CWF-5	5-пиновый разъем с ключом		Schematic\Connectors\CWF\CWF-5.SchLib	CWF-5	Footprints\Connectors\CWF\CWF-5.PcbLib	CWF-5		
