@@ -1,2 +1,2 @@
 Part Number	Description	Comment	Library Path	Library Ref	Footprint Path 1	Footprint Ref 1	Footprint Path 2	Footprint Ref 2	Footprint Path 3	Footprint Ref 3	Footprint Path 4	Footprint Ref 4
-Inductance	Катушка индуктивности	Inductance	Schematic\Inductance.SchLib	Inductance	Footprints\Inductance\0603L.PcbLib	0603L	Footprints\Inductance\1210L.PcbLib	1210L	Footprints\Inductance\1212L.PcbLib	1212L	Footprints\Inductance\IND_B82477G.PcbLib	IND_B82477G
+Inductance	Катушка индуктивности	Inductance	Schematic\Inductance.SchLib	Inductance	Footprints\Inductance\0603L.PcbLib	0603L	Footprints\Inductance\1210L.PcbLib	1210L	Footprints\Inductance\1212L.PcbLib	1212L	"Footprints\Inductance\12,8x12,8.PcbLib"	"12,8x12,8"
