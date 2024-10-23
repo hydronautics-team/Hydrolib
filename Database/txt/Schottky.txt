@@ -1,2 +1,0 @@
-Part Number	Description	Comment	Library Path	Library Ref	Footprint Path 1	Footprint Ref 1	Voltage nominal (V)	Current (A)
-SK33	"Диод шоттки на 30 В, номинальный ток 3 А"	SK33	Schematic\Schottky_diode.schLib	Schottky_diode	Footprints\SMC.PcbLib	SMC	30	3
