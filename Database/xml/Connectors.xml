@@ -45,4 +45,13 @@
 		<FootprintPath1>Footprints\Connectors\CWF\CWF-3.PcbLib</FootprintPath1>
 		<FootprintRef1>CWF-3</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>XT30</PartNumber>
+		<Description>2-пиновый разъем с ключом</Description>
+		<Comment>XT30</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_2pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_2pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\XT30.PcbLib</FootprintPath1>
+		<FootprintRef1>XT30</FootprintRef1>
+	</Part>
 </Connectors>
