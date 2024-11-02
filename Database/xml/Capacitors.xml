@@ -29,9 +29,9 @@
 		<FootprintRef4>TC_D</FootprintRef4>
 		<FootprintPath5>Footprints\Capacitors\TC_E.PcbLib</FootprintPath5>
 		<FootprintRef5>TC_E</FootprintRef5>
-		<FootprintPath6>Footprints\Capacitors\RADIAL-2 8mm.PcbLib</FootprintPath6>
-		<FootprintRef6>RADIAL-2 8mm</FootprintRef6>
+		<FootprintPath6>Footprints\Capacitors\RADIAL-2_8mm.PcbLib</FootprintPath6>
+		<FootprintRef6>RADIAL-2_8mm</FootprintRef6>
 		<FootprintPath7>Footprints/Capacitor_Electrolytic_THT.PcbLib</FootprintPath7>
-		<FootprintRef7>RADIAL-2 10mm</FootprintRef7>
+		<FootprintRef7>RADIAL-2_10mm</FootprintRef7>
 	</Part>
 </Capacitors>
