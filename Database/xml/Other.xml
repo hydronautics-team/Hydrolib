@@ -17,8 +17,8 @@
 		<Comment>LED</Comment>
 		<LibraryPath>Schematic\LED.SchLib</LibraryPath>
 		<LibraryRef>LED</LibraryRef>
-		<FootprintPath1>Footprints\LED_SMD.PcbLib</FootprintPath1>
-		<FootprintRef1>LED_SMD</FootprintRef1>
+		<FootprintPath1>Footprints\0805D.PcbLib</FootprintPath1>
+		<FootprintRef1>0805D</FootprintRef1>
 	</Part>
 	<Part>
 		<PartNumber>XTAL</PartNumber>
