@@ -4,7 +4,7 @@
 		<PartNumber>STM32F407VGT6</PartNumber>
 		<Description>Микроконтроллер</Description>
 		<Comment>STM32F407VGT6</Comment>
-		<LibraryPath>Schematic\TVS\STM32F407VGT6.SchLib</LibraryPath>
+		<LibraryPath>Schematic\STM32F407VGT6.SchLib</LibraryPath>
 		<LibraryRef>STM32F407VGT6</LibraryRef>
 		<FootprintPath1>Footprints\LQFP100.PcbLib</FootprintPath1>
 		<FootprintRef1>LQFP100</FootprintRef1>

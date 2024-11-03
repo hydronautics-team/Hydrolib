@@ -7,9 +7,9 @@
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
 		<Value>0,1 мк</Value>
-		<FootprintPath1>Footprints/Capacitor_Ceramic_SMD.PcdLib</FootprintPath1>
+		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
 		<FootprintRef1>0603C</FootprintRef1>
-		<FootprintPath2>Footprints/Capacitor_Ceramic_SMD.PcdLib</FootprintPath2>
+		<FootprintPath2>Footprints\Capacitors\0805C.PcbLib</FootprintPath2>
 		<FootprintRef2>0805C</FootprintRef2>
 	</Part>
 	<Part>
@@ -19,19 +19,19 @@
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor_polar</LibraryRef>
 		<Value>4,7 мк</Value>
-		<FootprintPath1>Footprints/Capacitor_Electrolytic_SMD.PcbLib</FootprintPath1>
-		<FootprintRef1>TC_A (3216)</FootprintRef1>
-		<FootprintPath2>Footprints/Capacitor_Electrolytic_SMD.PcbLib</FootprintPath2>
-		<FootprintRef2>TC_B (3528)</FootprintRef2>
-		<FootprintPath3>Footprints/Capacitor_Electrolytic_SMD.PcbLib</FootprintPath3>
-		<FootprintRef3>TC_C (6032)</FootprintRef3>
-		<FootprintPath4>Footprints/Capacitor_Electrolytic_SMD.PcbLib</FootprintPath4>
-		<FootprintRef4>TC_D (7343)</FootprintRef4>
-		<FootprintPath5>Footprints/Capacitor_Electrolytic_SMD.PcbLib</FootprintPath5>
-		<FootprintRef5>TC_E (7343H)</FootprintRef5>
-		<FootprintPath6>Footprints/Capacitor_Electrolytic_THT.PcbLib</FootprintPath6>
-		<FootprintRef6>RADIAL-2 8mm</FootprintRef6>
+		<FootprintPath1>Footprints\Capacitors\TC_A.PcbLib</FootprintPath1>
+		<FootprintRef1>TC_A</FootprintRef1>
+		<FootprintPath2>Footprints\Capacitors\TC_B.PcbLib</FootprintPath2>
+		<FootprintRef2>TC_B</FootprintRef2>
+		<FootprintPath3>Footprints\Capacitors\TC_C.PcbLib</FootprintPath3>
+		<FootprintRef3>TC_C</FootprintRef3>
+		<FootprintPath4>Footprints\Capacitors\TC_D.PcbLib</FootprintPath4>
+		<FootprintRef4>TC_D</FootprintRef4>
+		<FootprintPath5>Footprints\Capacitors\TC_E.PcbLib</FootprintPath5>
+		<FootprintRef5>TC_E</FootprintRef5>
+		<FootprintPath6>Footprints\Capacitors\RADIAL-2_8mm.PcbLib</FootprintPath6>
+		<FootprintRef6>RADIAL-2_8mm</FootprintRef6>
 		<FootprintPath7>Footprints/Capacitor_Electrolytic_THT.PcbLib</FootprintPath7>
-		<FootprintRef7>RADIAL-2 10mm</FootprintRef7>
+		<FootprintRef7>RADIAL-2_10mm</FootprintRef7>
 	</Part>
 </Capacitors>
