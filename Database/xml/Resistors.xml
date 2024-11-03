@@ -1,19 +1,1862 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Resistors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Part>
-		<PartNumber>Resistor</PartNumber>
-		<Description>Резистор</Description>
+		<PartNumber>Resistor_1.0_1_0603</PartNumber>
+		<Description>Резистор номиналом 1,0Ом и точностью1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
-		<Value>1 к</Value>
-		<FootprintPath1>Footprints/Resistor_SMD.PcbLib</FootprintPath1>
-		<FootprintRef1>0603R</FootprintRef1>
-		<FootprintPath2>Footprints/Resistor_SMD.PcbLib</FootprintPath2>
-		<FootprintRef2>0805R</FootprintRef2>
-		<FootprintPath3>Footprints/Resistor_SMD.PcbLib</FootprintPath3>
-		<FootprintRef3>1206R</FootprintRef3>
-		<FootprintPath4>Footprints/Resistor_SMD.PcbLib</FootprintPath4>
-		<FootprintRef4>2512R</FootprintRef4>
+		<Value>1,0</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_1.1_1_0603</PartNumber>
+		<Description>Резистор номиналом 1,1Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1,1</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_1.2_1_0603</PartNumber>
+		<Description>Резистор номиналом 1,2Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1,2</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_1.3_1_0603</PartNumber>
+		<Description>Резистор номиналом 1,3Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1,3</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_1.5_1_0603</PartNumber>
+		<Description>Резистор номиналом 1,5Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1,5</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_1.6_1_0603</PartNumber>
+		<Description>Резистор номиналом 1,6Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1,6</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_1.8_1_0603</PartNumber>
+		<Description>Резистор номиналом 1,8Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1,8</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_2.0_1_0603</PartNumber>
+		<Description>Резистор номиналом 2,0Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>2,0</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_2.2_1_0603</PartNumber>
+		<Description>Резистор номиналом 2,2Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>2,2</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_2.4_1_0603</PartNumber>
+		<Description>Резистор номиналом 2,4Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>2,4</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_2.6_1_0603</PartNumber>
+		<Description>Резистор номиналом 2,6Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>2,6</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_2.9_1_0603</PartNumber>
+		<Description>Резистор номиналом 2,9Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>2,9</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_3.2_1_0603</PartNumber>
+		<Description>Резистор номиналом 3,2Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>3,2</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_3.5_1_0603</PartNumber>
+		<Description>Резистор номиналом 3,5Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>3,5</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_3.8_1_0603</PartNumber>
+		<Description>Резистор номиналом 3,8Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>3,8</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_4.2_1_0603</PartNumber>
+		<Description>Резистор номиналом 4,2Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>4,2</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_4.6_1_0603</PartNumber>
+		<Description>Резистор номиналом 4,6Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>4,6</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_5.1_1_0603</PartNumber>
+		<Description>Резистор номиналом 5,1Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>5,1</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_5.6_1_0603</PartNumber>
+		<Description>Резистор номиналом 5,6Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>5,6</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_6.2_1_0603</PartNumber>
+		<Description>Резистор номиналом 6,2Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>6,2</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_6.8_1_0603</PartNumber>
+		<Description>Резистор номиналом 6,8Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>6,8</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_7.5_1_0603</PartNumber>
+		<Description>Резистор номиналом 7,5Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>7,5</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_8.3_1_0603</PartNumber>
+		<Description>Резистор номиналом 8,3Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>8,3</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_9.1_1_0603</PartNumber>
+		<Description>Резистор номиналом 9,1Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>9,1</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_10_1_0603</PartNumber>
+		<Description>Резистор номиналом 10Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>10</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_11_1_0603</PartNumber>
+		<Description>Резистор номиналом 11Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>11</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_12_1_0603</PartNumber>
+		<Description>Резистор номиналом 12Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>12</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_13_1_0603</PartNumber>
+		<Description>Резистор номиналом 13Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>13</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_15_1_0603</PartNumber>
+		<Description>Резистор номиналом 15Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>15</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_16_1_0603</PartNumber>
+		<Description>Резистор номиналом 16Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>16</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_18_1_0603</PartNumber>
+		<Description>Резистор номиналом 18Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>18</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_20_1_0603</PartNumber>
+		<Description>Резистор номиналом 20Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>20</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_22_1_0603</PartNumber>
+		<Description>Резистор номиналом 22Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>22</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_24_1_0603</PartNumber>
+		<Description>Резистор номиналом 24Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>24</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_26_1_0603</PartNumber>
+		<Description>Резистор номиналом 26Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>26</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_29_1_0603</PartNumber>
+		<Description>Резистор номиналом 29Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>29</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_32_1_0603</PartNumber>
+		<Description>Резистор номиналом 32Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>32</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_35_1_0603</PartNumber>
+		<Description>Резистор номиналом 35Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>35</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_38_1_0603</PartNumber>
+		<Description>Резистор номиналом 38Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>38</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_42_1_0603</PartNumber>
+		<Description>Резистор номиналом 42Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>42</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_46_1_0603</PartNumber>
+		<Description>Резистор номиналом 46Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>46</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_51_1_0603</PartNumber>
+		<Description>Резистор номиналом 51Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>51</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_56_1_0603</PartNumber>
+		<Description>Резистор номиналом 56Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>56</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_62_1_0603</PartNumber>
+		<Description>Резистор номиналом 62Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>62</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_68_1_0603</PartNumber>
+		<Description>Резистор номиналом 68Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>68</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_75_1_0603</PartNumber>
+		<Description>Резистор номиналом 75Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>75</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_83_1_0603</PartNumber>
+		<Description>Резистор номиналом 83Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>83</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_91_1_0603</PartNumber>
+		<Description>Резистор номиналом 91Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>91</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_100_1_0603</PartNumber>
+		<Description>Резистор номиналом 100Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>100</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_110_1_0603</PartNumber>
+		<Description>Резистор номиналом 110Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>110</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_120_1_0603</PartNumber>
+		<Description>Резистор номиналом 120Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>120</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_130_1_0603</PartNumber>
+		<Description>Резистор номиналом 130Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>130</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_150_1_0603</PartNumber>
+		<Description>Резистор номиналом 150Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>150</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_160_1_0603</PartNumber>
+		<Description>Резистор номиналом 160Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>160</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_180_1_0603</PartNumber>
+		<Description>Резистор номиналом 180Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>180</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_200_1_0603</PartNumber>
+		<Description>Резистор номиналом 200Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>200</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_220_1_0603</PartNumber>
+		<Description>Резистор номиналом 220Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>220</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_240_1_0603</PartNumber>
+		<Description>Резистор номиналом 240Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>240</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_260_1_0603</PartNumber>
+		<Description>Резистор номиналом 260Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>260</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_290_1_0603</PartNumber>
+		<Description>Резистор номиналом 290Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>290</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_320_1_0603</PartNumber>
+		<Description>Резистор номиналом 320Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>320</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_350_1_0603</PartNumber>
+		<Description>Резистор номиналом 350Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>350</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_380_1_0603</PartNumber>
+		<Description>Резистор номиналом 380Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>380</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_420_1_0603</PartNumber>
+		<Description>Резистор номиналом 420Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>420</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_460_1_0603</PartNumber>
+		<Description>Резистор номиналом 460Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>460</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_510_1_0603</PartNumber>
+		<Description>Резистор номиналом 510Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>510</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_560_1_0603</PartNumber>
+		<Description>Резистор номиналом 560Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>560</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_620_1_0603</PartNumber>
+		<Description>Резистор номиналом 620Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>620</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_680_1_0603</PartNumber>
+		<Description>Резистор номиналом 680Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>680</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_750_1_0603</PartNumber>
+		<Description>Резистор номиналом 750Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>750</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_830_1_0603</PartNumber>
+		<Description>Резистор номиналом 830Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>830</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_910_1_0603</PartNumber>
+		<Description>Резистор номиналом 910Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>910</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_1.0k _1_0603</PartNumber>
+		<Description>Резистор номиналом 1,0 к Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1,0 к </Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_1.1k_1_0603</PartNumber>
+		<Description>Резистор номиналом 1,1 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1,1 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_1.2k_1_0603</PartNumber>
+		<Description>Резистор номиналом 1,2 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1,2 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_1.3k_1_0603</PartNumber>
+		<Description>Резистор номиналом 1,3 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1,3 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_1.5k_1_0603</PartNumber>
+		<Description>Резистор номиналом 1,5 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1,5 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_1.6k_1_0603</PartNumber>
+		<Description>Резистор номиналом 1,6 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1,6 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_1.8k_1_0603</PartNumber>
+		<Description>Резистор номиналом 1,8 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1,8 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_2k_1_0603</PartNumber>
+		<Description>Резистор номиналом 2 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>2 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_2.2k_1_0603</PartNumber>
+		<Description>Резистор номиналом 2,2 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>2,2 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_2.4k_1_0603</PartNumber>
+		<Description>Резистор номиналом 2,4 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>2,4 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_2.6k_1_0603</PartNumber>
+		<Description>Резистор номиналом 2,6 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>2,6 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_2.9k_1_0603</PartNumber>
+		<Description>Резистор номиналом 2,9 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>2,9 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_3.2k_1_0603</PartNumber>
+		<Description>Резистор номиналом 3,2 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>3,2 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_3.5k_1_0603</PartNumber>
+		<Description>Резистор номиналом 3,5 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>3,5 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_3.8k_1_0603</PartNumber>
+		<Description>Резистор номиналом 3,8 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>3,8 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_4.2k_1_0603</PartNumber>
+		<Description>Резистор номиналом 4,2 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>4,2 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_4.6k_1_0603</PartNumber>
+		<Description>Резистор номиналом 4,6 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>4,6 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_5.1k_1_0603</PartNumber>
+		<Description>Резистор номиналом 5,1 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>5,1 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_5.6k_1_0603</PartNumber>
+		<Description>Резистор номиналом 5,6 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>5,6 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_6.2k_1_0603</PartNumber>
+		<Description>Резистор номиналом 6,2 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>6,2 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_6.8k_1_0603</PartNumber>
+		<Description>Резистор номиналом 6,8 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>6,8 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_7.5k_1_0603</PartNumber>
+		<Description>Резистор номиналом 7,5 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>7,5 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_8.3k_1_0603</PartNumber>
+		<Description>Резистор номиналом 8,3 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>8,3 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_9.1k_1_0603</PartNumber>
+		<Description>Резистор номиналом 9,1 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>9,1 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_10k_1_0603</PartNumber>
+		<Description>Резистор номиналом 10 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>10 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_11k_1_0603</PartNumber>
+		<Description>Резистор номиналом 11 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>11 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_1.0k _1_0603</PartNumber>
+		<Description>Резистор номиналом 1,0 к Ом и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1,0 к </Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_13k_1_0603</PartNumber>
+		<Description>Резистор номиналом 13 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>13 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_15k_1_0603</PartNumber>
+		<Description>Резистор номиналом 15 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>15 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_16k_1_0603</PartNumber>
+		<Description>Резистор номиналом 16 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>16 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_18k_1_0603</PartNumber>
+		<Description>Резистор номиналом 18 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>18 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_20k_1_0603</PartNumber>
+		<Description>Резистор номиналом 20 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>20 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_22k_1_0603</PartNumber>
+		<Description>Резистор номиналом 22 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>22 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_24k_1_0603</PartNumber>
+		<Description>Резистор номиналом 24 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>24 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_26k_1_0603</PartNumber>
+		<Description>Резистор номиналом 26 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>26 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_29k_1_0603</PartNumber>
+		<Description>Резистор номиналом 29 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>29 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_32k_1_0603</PartNumber>
+		<Description>Резистор номиналом 32 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>32 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_35k_1_0603</PartNumber>
+		<Description>Резистор номиналом 35 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>35 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_38k_1_0603</PartNumber>
+		<Description>Резистор номиналом 38 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>38 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_42k_1_0603</PartNumber>
+		<Description>Резистор номиналом 42 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>42 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_46k_1_0603</PartNumber>
+		<Description>Резистор номиналом 46 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>46 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_51k_1_0603</PartNumber>
+		<Description>Резистор номиналом 51 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>51 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_56k_1_0603</PartNumber>
+		<Description>Резистор номиналом 56 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>56 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_62k_1_0603</PartNumber>
+		<Description>Резистор номиналом 62 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>62 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_68k_1_0603</PartNumber>
+		<Description>Резистор номиналом 68 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>68 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_75k_1_0603</PartNumber>
+		<Description>Резистор номиналом 75 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>75 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_83k_1_0603</PartNumber>
+		<Description>Резистор номиналом 83 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>83 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_91k_1_0603</PartNumber>
+		<Description>Резистор номиналом 91 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>91 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_100k_1_0603</PartNumber>
+		<Description>Резистор номиналом 100 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>100 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_110k_1_0603</PartNumber>
+		<Description>Резистор номиналом 110 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>110 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_120k_1_0603</PartNumber>
+		<Description>Резистор номиналом 120 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>120 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_130k_1_0603</PartNumber>
+		<Description>Резистор номиналом 130 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>130 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_150k_1_0603</PartNumber>
+		<Description>Резистор номиналом 150 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>150 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_160k_1_0603</PartNumber>
+		<Description>Резистор номиналом 160 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>160 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_180k_1_0603</PartNumber>
+		<Description>Резистор номиналом 180 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>180 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_200k_1_0603</PartNumber>
+		<Description>Резистор номиналом 200 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>200 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_220k_1_0603</PartNumber>
+		<Description>Резистор номиналом 220 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>220 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_240k_1_0603</PartNumber>
+		<Description>Резистор номиналом 240 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>240 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_260k_1_0603</PartNumber>
+		<Description>Резистор номиналом 260 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>260 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_290k_1_0603</PartNumber>
+		<Description>Резистор номиналом 290 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>290 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_320k_1_0603</PartNumber>
+		<Description>Резистор номиналом 320 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>320 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_350k_1_0603</PartNumber>
+		<Description>Резистор номиналом 350 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>350 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_380k_1_0603</PartNumber>
+		<Description>Резистор номиналом 380 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>380 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_420k_1_0603</PartNumber>
+		<Description>Резистор номиналом 420 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>420 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_460k_1_0603</PartNumber>
+		<Description>Резистор номиналом 460 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>460 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_510k_1_0603</PartNumber>
+		<Description>Резистор номиналом 510 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>510 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_560k_1_0603</PartNumber>
+		<Description>Резистор номиналом 560 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>560 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_620k_1_0603</PartNumber>
+		<Description>Резистор номиналом 620 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>620 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_680k_1_0603</PartNumber>
+		<Description>Резистор номиналом 680 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>680 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_750k_1_0603</PartNumber>
+		<Description>Резистор номиналом 750 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>750 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_830k_1_0603</PartNumber>
+		<Description>Резистор номиналом 830 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>830 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_910k_1_0603</PartNumber>
+		<Description>Резистор номиналом 910 кОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>910 к</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_1.0M_1_0603</PartNumber>
+		<Description>Резистор номиналом 1,0 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1,0 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_1.1M_1_0603</PartNumber>
+		<Description>Резистор номиналом 1,1 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1,1 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_1.2M_1_0603</PartNumber>
+		<Description>Резистор номиналом 1,2 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1,2 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_1.3M_1_0603</PartNumber>
+		<Description>Резистор номиналом 1,3 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1,3 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_1.5M_1_0603</PartNumber>
+		<Description>Резистор номиналом 1,5 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1,5 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_1.6M_1_0603</PartNumber>
+		<Description>Резистор номиналом 1,6 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1,6 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_1.8M_1_0603</PartNumber>
+		<Description>Резистор номиналом 1,8 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1,8 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_2M_1_0603</PartNumber>
+		<Description>Резистор номиналом 2 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>2 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_2.2M_1_0603</PartNumber>
+		<Description>Резистор номиналом 2,2 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>2,2 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_2.4M_1_0603</PartNumber>
+		<Description>Резистор номиналом 2,4 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>2,4 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_2.6M_1_0603</PartNumber>
+		<Description>Резистор номиналом 2,6 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>2,6 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_2.9M_1_0603</PartNumber>
+		<Description>Резистор номиналом 2,9 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>2,9 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_3.2M_1_0603</PartNumber>
+		<Description>Резистор номиналом 3,2 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>3,2 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_3.5M_1_0603</PartNumber>
+		<Description>Резистор номиналом 3,5 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>3,5 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_3.8M_1_0603</PartNumber>
+		<Description>Резистор номиналом 3,8 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>3,8 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_4.2M_1_0603</PartNumber>
+		<Description>Резистор номиналом 4,2 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>4,2 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_4.6M_1_0603</PartNumber>
+		<Description>Резистор номиналом 4,6 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>4,6 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_5.1M_1_0603</PartNumber>
+		<Description>Резистор номиналом 5,1 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>5,1 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_5.6M_1_0603</PartNumber>
+		<Description>Резистор номиналом 5,6 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>5,6 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_6.2M_1_0603</PartNumber>
+		<Description>Резистор номиналом 6,2 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>6,2 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_6.8M_1_0603</PartNumber>
+		<Description>Резистор номиналом 6,8 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>6,8 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_7.5M_1_0603</PartNumber>
+		<Description>Резистор номиналом 7,5 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>7,5 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_8.3M_1_0603</PartNumber>
+		<Description>Резистор номиналом 8,3 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>8,3 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_9.1M_1_0603</PartNumber>
+		<Description>Резистор номиналом 9,1 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>9,1 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_10M_1_0603</PartNumber>
+		<Description>Резистор номиналом 10 МОм и точностью1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>10 М</Value>
+		<FootprintPath1>0.01</FootprintPath1>
+		<FootprintRef1>Footprints/Resistors/0603R.PcbLib</FootprintRef1>
+		<FootprintPath2>0603R</FootprintPath2>
 	</Part>
 </Resistors>
