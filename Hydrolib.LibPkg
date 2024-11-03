@@ -967,7 +967,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HORZJWJS
 
 [Document55]
-DocumentPath=Schematic\Connectors\IDC-10.SchLib
+DocumentPath=Footprints\Connectors\CWF\CWF-3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -981,10 +981,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RNNKMDKB
+DocumentUniqueId=AXAJXLNH
 
 [Document56]
-DocumentPath=Schematic\Connectors\PLS\PLS4.SchLib
+DocumentPath=Footprints\Connectors\XT30.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -998,43 +998,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PPRYLEVN
+DocumentUniqueId=TVYFDGFY
 
 [Document57]
-DocumentPath=Schematic\Connectors\D-SUB-26.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JEWFUJJL
-
-[Document58]
-DocumentPath=Schematic\Connectors\CWF\CWF-5.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HDUTBCUN
-
-[Document59]
 DocumentPath=Schematic\ADM2483BRWZ.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1051,7 +1017,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EXNXVVLW
 
-[Document60]
+[Document58]
 DocumentPath=Footprints\SMB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1068,7 +1034,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UOJMLPED
 
-[Document61]
+[Document59]
 DocumentPath=Schematic\MAX485CSA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1085,7 +1051,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNFHQUZA
 
-[Document62]
+[Document60]
 DocumentPath=Footprints\SOIC-8.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
