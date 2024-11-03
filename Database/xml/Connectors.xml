@@ -4,8 +4,8 @@
 		<PartNumber>IDC-10</PartNumber>
 		<Description>10-пиновый разъём с ключём</Description>
 		<Comment>IDC-10</Comment>
-		<LibraryPath>Schematic\Connectors\IDC-10.SchLib</LibraryPath>
-		<LibraryRef>IDC-10</LibraryRef>
+		<LibraryPath>Schematic\Connectors\Conn_10pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_10pin</LibraryRef>
 		<FootprintPath1>Footprints\Connectors\IDC-10.PcbLib</FootprintPath1>
 		<FootprintRef1>IDC-10</FootprintRef1>
 	</Part>
@@ -13,8 +13,8 @@
 		<PartNumber>D-SUB-26</PartNumber>
 		<Description>10-пиновый разъём с ключём</Description>
 		<Comment>D-SUB-26</Comment>
-		<LibraryPath>Schematic\Connectors\D-SUB-26.SchLib</LibraryPath>
-		<LibraryRef>D-SUB-26</LibraryRef>
+		<LibraryPath>Schematic\Connectors\Conn_26pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_26pin</LibraryRef>
 		<FootprintPath1>Footprints\Connectors\D-SUB-26.PcbLib</FootprintPath1>
 		<FootprintRef1>D-SUB-26</FootprintRef1>
 	</Part>
@@ -22,8 +22,8 @@
 		<PartNumber>PLS4</PartNumber>
 		<Description>Гребенка 4 пина</Description>
 		<Comment>PLS4</Comment>
-		<LibraryPath>Schematic\Connectors\PLS\PLS4.SchLib</LibraryPath>
-		<LibraryRef>PLS4</LibraryRef>
+		<LibraryPath>Schematic\Connectors\Conn_4pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_4pin</LibraryRef>
 		<FootprintPath1>Footprints\Connectors\PLS\PLS4.PcbLib</FootprintPath1>
 		<FootprintRef1>PLS4</FootprintRef1>
 	</Part>
@@ -31,9 +31,27 @@
 		<PartNumber>CWF-5</PartNumber>
 		<Description>5-пиновый разъем с ключом</Description>
 		<Comment>CWF-5</Comment>
-		<LibraryPath>Schematic\Connectors\CWF\CWF-5.SchLib</LibraryPath>
-		<LibraryRef>CWF-5</LibraryRef>
+		<LibraryPath>Schematic\Connectors\Conn_5pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_5pin</LibraryRef>
 		<FootprintPath1>Footprints\Connectors\CWF\CWF-5.PcbLib</FootprintPath1>
 		<FootprintRef1>CWF-5</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>CWF-3</PartNumber>
+		<Description>3-пиновый разъем с ключом</Description>
+		<Comment>CWF-3</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_3pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_3pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\CWF\CWF-3.PcbLib</FootprintPath1>
+		<FootprintRef1>CWF-3</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>XT30</PartNumber>
+		<Description>2-пиновый разъем с ключом</Description>
+		<Comment>XT30</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_2pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_2pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\XT30.PcbLib</FootprintPath1>
+		<FootprintRef1>XT30</FootprintRef1>
 	</Part>
 </Connectors>
