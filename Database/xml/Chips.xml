@@ -60,8 +60,8 @@
 		<Comment>CD4050B</Comment>
 		<LibraryPath>Schematic\CD4050B.SchLib</LibraryPath>
 		<LibraryRef>CD4050B</LibraryRef>
-		<FootprintPath1>Footprints\SOP-16.PcbLib</FootprintPath1>
-		<FootprintRef1>SOP-16</FootprintRef1>
+		<FootprintPath1>Footprints\SOIC-16.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-16</FootprintRef1>
 	</Part>
 	<Part>
 		<PartNumber>ADM2483BRWZ</PartNumber>
