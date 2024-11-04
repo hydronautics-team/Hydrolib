@@ -7,7 +7,7 @@
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
 		<Value>1,0</Value>
-		<Tolerance>0.01</Tolerance>
+		<Tolerance>1%</Tolerance>
 		<FootprintPath1>Footprints/Resistors/0603R.PcbLib</FootprintPath1>
 		<FootprintRef1>0603R</FootprintRef1>
 	</Part>

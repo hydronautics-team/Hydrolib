@@ -54,4 +54,31 @@
 		<FootprintPath1>Footprints\Connectors\XT30.PcbLib</FootprintPath1>
 		<FootprintRef1>XT30</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>2_PADS</PartNumber>
+		<Description>2 контактные площадки под пайку толстых проводов</Description>
+		<Comment>2_PADS</Comment>
+		<LibraryPath>Schematic\Connectors\CONN-2.SchLib</LibraryPath>
+		<LibraryRef>CONN-2</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\2_PADS.PcbLib</FootprintPath1>
+		<FootprintRef1>2_PADS</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>XT30PW-M</PartNumber>
+		<Description>30 А (15 продолжительно), 2 контакта разъем</Description>
+		<Comment>XT30PW-M</Comment>
+		<LibraryPath>Schematic\Connectors\XT30PW-M.SchLib</LibraryPath>
+		<LibraryRef>XT30PW-M</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\XT30PW-M.PcbLib</FootprintPath1>
+		<FootprintRef1>XT30PW-M</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>another_CWF-3</PartNumber>
+		<Description>5-пиновый разъем с ключом</Description>
+		<Comment>another_CWF-3</Comment>
+		<LibraryPath>Schematic\Connectors\CONN-3.SchLib</LibraryPath>
+		<LibraryRef>CONN-3</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\CWF\anotherCWF-3.PcbLib</FootprintPath1>
+		<FootprintRef1>anotherCWF-3</FootprintRef1>
+	</Part>
 </Connectors>

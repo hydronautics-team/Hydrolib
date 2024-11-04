@@ -38,4 +38,13 @@
 		<FootprintPath1>Footprints\XTAL\QSMD3.2x2.5.PcbLib</FootprintPath1>
 		<FootprintRef1>QSMD3.2x2.5</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>net_tie</PartNumber>
+		<Description>net tie запаиваемая перемычка</Description>
+		<Comment>net_tie</Comment>
+		<LibraryPath>Schematic\net_tie.SchLib</LibraryPath>
+		<LibraryRef>net_tie</LibraryRef>
+		<FootprintPath1>Footprints\0805net_tie.PcbLib</FootprintPath1>
+		<FootprintRef1>0805net_tie</FootprintRef1>
+	</Part>
 </Other>
