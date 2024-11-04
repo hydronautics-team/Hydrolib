@@ -6,8 +6,8 @@
 		<Comment>SMBJ24A</Comment>
 		<LibraryPath>Schematic\TVS\TVS_1_1dir.SchLib</LibraryPath>
 		<LibraryRef>TVS_1_1dir</LibraryRef>
-		<FootprintPath1>Footprints\SOT23-3.PcbLib</FootprintPath1>
-		<FootprintRef1>SOT23-3</FootprintRef1>
+		<FootprintPath1>Footprints\SMB.PcbLib</FootprintPath1>
+		<FootprintRef1>SMB</FootprintRef1>
 		<VoltageNominal>24</VoltageNominal>
 		<Power>600</Power>
 		<Value>24 В</Value>
@@ -40,8 +40,8 @@
 		<Comment>SMBJ18A</Comment>
 		<LibraryPath>Schematic\TVS\TVS_1_1dir.SchLib</LibraryPath>
 		<LibraryRef>TVS_1_1dir</LibraryRef>
-		<FootprintPath1>Footprints\SMB_DO-214AA.PcbLib</FootprintPath1>
-		<FootprintRef1>SMB_DO-214AA</FootprintRef1>
+		<FootprintPath1>Footprints\SMB.PcbLib</FootprintPath1>
+		<FootprintRef1>SMB</FootprintRef1>
 		<VoltageNominal>18</VoltageNominal>
 		<Power>600</Power>
 		<Value>18В</Value>
