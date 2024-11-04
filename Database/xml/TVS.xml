@@ -44,6 +44,6 @@
 		<FootprintRef1>SMB</FootprintRef1>
 		<VoltageNominal>18</VoltageNominal>
 		<Power>600</Power>
-		<Value>18В</Value>
+		<Value>18 В</Value>
 	</Part>
 </TVS>
