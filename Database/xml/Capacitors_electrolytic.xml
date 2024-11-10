@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Capacitors_electrolytic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Part>
+		<PartNumber>Capacitor_1u_10_50V_TC_A</PartNumber>
+		<Description>Танталовый конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>1 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Type>Tantalum</Type>
+		<FootprintPath1>Footprints\Capacitors\TC_A.PcbLib</FootprintPath1>
+		<FootprintRef1>TC_A</FootprintRef1>
+		<Capacity>1</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_1,5u_10_50V_TC_A</PartNumber>
+		<Description>Танталовый конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>1,5 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Type>Tantalum</Type>
+		<FootprintPath1>Footprints\Capacitors\TC_A.PcbLib</FootprintPath1>
+		<FootprintRef1>TC_A</FootprintRef1>
+		<Capacity>1.5</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_2,2u_10_50V_TC_A</PartNumber>
+		<Description>Танталовый конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>2,2 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Type>Tantalum</Type>
+		<FootprintPath1>Footprints\Capacitors\TC_A.PcbLib</FootprintPath1>
+		<FootprintRef1>TC_A</FootprintRef1>
+		<Capacity>2.2</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_3,3u_10_50V_TC_A</PartNumber>
+		<Description>Танталовый конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>3,3 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Type>Tantalum</Type>
+		<FootprintPath1>Footprints\Capacitors\TC_A.PcbLib</FootprintPath1>
+		<FootprintRef1>TC_A</FootprintRef1>
+		<Capacity>3.3</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_4,7u_10_50V_TC_A</PartNumber>
+		<Description>Танталовый конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>4,7 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Type>Tantalum</Type>
+		<FootprintPath1>Footprints\Capacitors\TC_A.PcbLib</FootprintPath1>
+		<FootprintRef1>TC_A</FootprintRef1>
+		<Capacity>4.7</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_6,8u_10_50V_TC_A</PartNumber>
+		<Description>Танталовый конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>6,8 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Type>Tantalum</Type>
+		<FootprintPath1>Footprints\Capacitors\TC_A.PcbLib</FootprintPath1>
+		<FootprintRef1>TC_A</FootprintRef1>
+		<Capacity>6.8</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_10u_10_50V_TC_A</PartNumber>
+		<Description>Танталовый конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>10 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Type>Tantalum</Type>
+		<FootprintPath1>Footprints\Capacitors\TC_A.PcbLib</FootprintPath1>
+		<FootprintRef1>TC_A</FootprintRef1>
+		<Capacity>10</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_15u_10_50V_TC_A</PartNumber>
+		<Description>Танталовый конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>15 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Type>Tantalum</Type>
+		<FootprintPath1>Footprints\Capacitors\TC_A.PcbLib</FootprintPath1>
+		<FootprintRef1>TC_A</FootprintRef1>
+		<Capacity>15</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_22u_10_50V_TC_A</PartNumber>
+		<Description>Танталовый конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>22 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Type>Tantalum</Type>
+		<FootprintPath1>Footprints\Capacitors\TC_A.PcbLib</FootprintPath1>
+		<FootprintRef1>TC_A</FootprintRef1>
+		<Capacity>22</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_33u_10_50V_TC_A</PartNumber>
+		<Description>Танталовый конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>33 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Type>Tantalum</Type>
+		<FootprintPath1>Footprints\Capacitors\TC_A.PcbLib</FootprintPath1>
+		<FootprintRef1>TC_A</FootprintRef1>
+		<Capacity>33</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_47u_10_50V_TC_A</PartNumber>
+		<Description>Танталовый конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>47 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Type>Tantalum</Type>
+		<FootprintPath1>Footprints\Capacitors\TC_A.PcbLib</FootprintPath1>
+		<FootprintRef1>TC_A</FootprintRef1>
+		<Capacity>47</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_68u_10_50V_TC_A</PartNumber>
+		<Description>Танталовый конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>68 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Type>Tantalum</Type>
+		<FootprintPath1>Footprints\Capacitors\TC_A.PcbLib</FootprintPath1>
+		<FootprintRef1>TC_A</FootprintRef1>
+		<Capacity>68</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_100u_10_50V_TC_A</PartNumber>
+		<Description>Танталовый конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>100 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Type>Tantalum</Type>
+		<FootprintPath1>Footprints\Capacitors\TC_A.PcbLib</FootprintPath1>
+		<FootprintRef1>TC_A</FootprintRef1>
+		<Capacity>100</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_150u_10_50V_TC_A</PartNumber>
+		<Description>Танталовый конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>150 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Type>Tantalum</Type>
+		<FootprintPath1>Footprints\Capacitors\TC_A.PcbLib</FootprintPath1>
+		<FootprintRef1>TC_A</FootprintRef1>
+		<Capacity>150</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_220u_10_50V_TC_A</PartNumber>
+		<Description>Танталовый конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>220 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Type>Tantalum</Type>
+		<FootprintPath1>Footprints\Capacitors\TC_A.PcbLib</FootprintPath1>
+		<FootprintRef1>TC_A</FootprintRef1>
+		<Capacity>220</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_330u_10_50V_TC_A</PartNumber>
+		<Description>Танталовый конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>330 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Type>Tantalum</Type>
+		<FootprintPath1>Footprints\Capacitors\TC_A.PcbLib</FootprintPath1>
+		<FootprintRef1>TC_A</FootprintRef1>
+		<Capacity>330</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_470u_10_50V_TC_A</PartNumber>
+		<Description>Танталовый конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>470 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Type>Tantalum</Type>
+		<FootprintPath1>Footprints\Capacitors\TC_A.PcbLib</FootprintPath1>
+		<FootprintRef1>TC_A</FootprintRef1>
+		<Capacity>470</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_680u_10_50V_TC_A</PartNumber>
+		<Description>Танталовый конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>680 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Type>Tantalum</Type>
+		<FootprintPath1>Footprints\Capacitors\TC_A.PcbLib</FootprintPath1>
+		<FootprintRef1>TC_A</FootprintRef1>
+		<Capacity>680</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_1000u_10_50V_TC_A</PartNumber>
+		<Description>Танталовый конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>1000 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Type>Tantalum</Type>
+		<FootprintPath1>Footprints\Capacitors\TC_A.PcbLib</FootprintPath1>
+		<FootprintRef1>TC_A</FootprintRef1>
+		<Capacity>1000</Capacity>
+	</Part>
+</Capacitors_electrolytic>

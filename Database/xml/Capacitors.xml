@@ -18,7 +18,7 @@
 		<PartNumber>Capacitor_polar</PartNumber>
 		<Description>Полярный конденсатор</Description>
 		<Comment>Capacitor_polar</Comment>
-		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
 		<LibraryRef>Capacitor_polar</LibraryRef>
 		<Value>4,7 мк</Value>
 		<FootprintPath1>Footprints\Capacitors\TC_A.PcbLib</FootprintPath1>
