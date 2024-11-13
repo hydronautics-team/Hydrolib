@@ -81,4 +81,40 @@
 		<FootprintPath1>Footprints\SOT223.PcbLib</FootprintPath1>
 		<FootprintRef1>SOT223</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>VND5025</PartNumber>
+		<Description>Double channel high side driver with analog current sense for automotive applications</Description>
+		<Comment>VND5025</Comment>
+		<LibraryPath>Schematic\VND5025.SchLib</LibraryPath>
+		<LibraryRef>VND5025</LibraryRef>
+		<FootprintPath1>Footprints\POWERSSO24.PcbLib</FootprintPath1>
+		<FootprintRef1>POWERSSO24</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>SN74LVC1G17DCKR</PartNumber>
+		<Description>Одиночный триггер Шмитта 5-SC70 -40 to 125, буфер</Description>
+		<Comment>SN74LVC1G17DCKR</Comment>
+		<LibraryPath>Schematic\SN74LVC1G17DCKR.SchLib</LibraryPath>
+		<LibraryRef>SN74LVC1G17DCKR</LibraryRef>
+		<FootprintPath1>Footprints\SOT65P210X110-5N.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT65P210X110-5N</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>74LVC1G74DP,125</PartNumber>
+		<Description>Одиночный D триггер</Description>
+		<Comment>74LVC1G74DP,125</Comment>
+		<LibraryPath>Schematic\74LVC1G74DP,125.SchLib</LibraryPath>
+		<LibraryRef>74LVC1G74DP,125</LibraryRef>
+		<FootprintPath1>Footprints\SOP65P400X110-8N.PcbLib</FootprintPath1>
+		<FootprintRef1>SOP65P400X110-8N</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RT8279GSP</PartNumber>
+		<Description>Преобразователь постоянного тока понижающий подстраиваемый выход 5А </Description>
+		<Comment>RT8279GSP</Comment>
+		<LibraryPath>Schematic\RT8279GSP.SchLib</LibraryPath>
+		<LibraryRef>RT8279GSP</LibraryRef>
+		<FootprintPath1>Footprints\8SOP(Exposed_Pad).PcbLib</FootprintPath1>
+		<FootprintRef1>8SOP(Exposed_Pad)</FootprintRef1>
+	</Part>
 </Chips>

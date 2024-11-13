@@ -11,6 +11,8 @@
 		<FootprintRef1>0603C</FootprintRef1>
 		<FootprintPath2>Footprints\Capacitors\0805C.PcbLib</FootprintPath2>
 		<FootprintRef2>0805C</FootprintRef2>
+		<FootprintPath3>Footprints\Capacitors\1210С.PcbLib</FootprintPath3>
+		<FootprintRef3>1210С</FootprintRef3>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_polar</PartNumber>

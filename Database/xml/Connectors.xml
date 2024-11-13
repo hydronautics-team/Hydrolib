@@ -54,4 +54,49 @@
 		<FootprintPath1>Footprints\Connectors\XT30.PcbLib</FootprintPath1>
 		<FootprintRef1>XT30</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>2_PADS</PartNumber>
+		<Description>2 контактные площадки под пайку толстых проводов</Description>
+		<Comment>2_PADS</Comment>
+		<LibraryPath>Schematic\Connectors\CONN-2.SchLib</LibraryPath>
+		<LibraryRef>Conn_2pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\2_PADS.PcbLib</FootprintPath1>
+		<FootprintRef1>2_PADS</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>XT30PW-M</PartNumber>
+		<Description>30 А (15 продолжительно), 2 контакта разъем</Description>
+		<Comment>XT30PW-M</Comment>
+		<LibraryPath>Schematic\Connectors\XT30PW-M.SchLib</LibraryPath>
+		<LibraryRef>XT30PW-M</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\XT30PW-M.PcbLib</FootprintPath1>
+		<FootprintRef1>XT30PW-M</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>KLS2-300-5.00-02P-2S</PartNumber>
+		<Description>Клеммник винтовой, 2-контактный, 5мм, прямой</Description>
+		<Comment>KLS2-300-5.00-02P-2S</Comment>
+		<LibraryPath>Schematic\Connectors\CONN-2.SchLib</LibraryPath>
+		<LibraryRef>Conn_2pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\KLS2-300-5.00-02P-2S.PcbLib</FootprintPath1>
+		<FootprintRef1>KLS2-300-5.00-02P-2S</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>DIN41612_32_2row_right_angle_father</PartNumber>
+		<Description>DIN41612R (DS1118-32M0R23), Разъем (вилка) тип B 32pin (2х16), шаг 2.54мм двухрядный угловой (ряд АВ)</Description>
+		<Comment>DIN41612_32_2row_right_angle_father</Comment>
+		<LibraryPath>Schematic\Connectors\DIN41612_32_2row.SchLib</LibraryPath>
+		<LibraryRef>DIN41612_32_2row</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\DIN41612_32_2row_right_angle_father.PcbLib</FootprintPath1>
+		<FootprintRef1>DIN41612_32_2row_right_angle_father</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>DIN41612_32_2row_straight_mother</PartNumber>
+		<Description>DIN41612 (DS1118-32F0V23), Разъем (розетка) тип B 32pin (2х16), шаг 2.54мм двухрядный прямой (ряд АB)</Description>
+		<Comment>DIN41612_32_2row_straight_mother</Comment>
+		<LibraryPath>Schematic\Connectors\DIN41612_32_2row.SchLib</LibraryPath>
+		<LibraryRef>DIN41612_32_2row</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\DIN41612_32_2row_straight_mother.PcbLib</FootprintPath1>
+		<FootprintRef1>DIN41612_32_2row_straight_mother</FootprintRef1>
+	</Part>
 </Connectors>

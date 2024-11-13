@@ -38,4 +38,13 @@
 		<FootprintPath1>Footprints\XTAL\QSMD3.2x2.5.PcbLib</FootprintPath1>
 		<FootprintRef1>QSMD3.2x2.5</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>SB</PartNumber>
+		<Description>Solder bridge, мост припоя, запаиваемая перемычка, net tie, jumper</Description>
+		<Comment>SB</Comment>
+		<LibraryPath>Schematic\SB.SchLib</LibraryPath>
+		<LibraryRef>SB</LibraryRef>
+		<FootprintPath1>Footprints\0805SB.PcbLib</FootprintPath1>
+		<FootprintRef1>0805SB</FootprintRef1>
+	</Part>
 </Other>

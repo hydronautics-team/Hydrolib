@@ -11,4 +11,26 @@
 		<VoltageNominal_V>30</VoltageNominal_V>
 		<Current_A>3</Current_A>
 	</Part>
+	<Part>
+		<PartNumber>BAT54WS</PartNumber>
+		<Description>Диод шоттки на 30 В, номинальный ток 0.2 А</Description>
+		<Comment>BAT54WS</Comment>
+		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
+		<LibraryRef>Schottky_diode</LibraryRef>
+		<FootprintPath1>Footprints\SOD-323.PcbLib</FootprintPath1>
+		<FootprintRef1>SOD-323</FootprintRef1>
+		<VoltageNominal_V>30</VoltageNominal_V>
+		<Current_A>0.2</Current_A>
+	</Part>
+	<Part>
+		<PartNumber>10S45SP</PartNumber>
+		<Description>Диод шоттки на 45 В, номинальный ток 10 А</Description>
+		<Comment>10S45SP</Comment>
+		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
+		<LibraryRef>Schottky_diode</LibraryRef>
+		<FootprintPath1>Footprints\TO-277.PcbLib</FootprintPath1>
+		<FootprintRef1>TO-277</FootprintRef1>
+		<VoltageNominal_V>45</VoltageNominal_V>
+		<Current_A>10</Current_A>
+	</Part>
 </Schottky>

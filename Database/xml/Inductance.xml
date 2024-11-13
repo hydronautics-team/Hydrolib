@@ -4,15 +4,24 @@
 		<PartNumber>Inductance</PartNumber>
 		<Description>Катушка индуктивности</Description>
 		<Comment>Inductance</Comment>
-		<LibraryPath>Schematic\Inductance.SchLib</LibraryPath>
-		<LibraryRef>Inductance</LibraryRef>
-		<FootprintPath1>Footprints\Inductance\0603L.PcbLib</FootprintPath1>
-		<FootprintRef1>0603L</FootprintRef1>
-		<FootprintPath2>Footprints\Inductance\1210L.PcbLib</FootprintPath2>
-		<FootprintRef2>1210L</FootprintRef2>
-		<FootprintPath3>Footprints\Inductance\1212L.PcbLib</FootprintPath3>
-		<FootprintRef3>1212L</FootprintRef3>
-		<FootprintPath4>Footprints\Inductance\12.8x12.8.PcbLib</FootprintPath4>
-		<FootprintRef4>12.8x12.8</FootprintRef4>
+		<FootprintPath1>Schematic\Inductance.SchLib</FootprintPath1>
+		<FootprintRef1>Inductance</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\0603L.PcbLib</FootprintPath2>
+		<FootprintRef2>0603L</FootprintRef2>
+		<FootprintPath3>Footprints\Inductance\1210L.PcbLib</FootprintPath3>
+		<FootprintRef3>1210L</FootprintRef3>
+		<FootprintPath4>Footprints\Inductance\1212L.PcbLib</FootprintPath4>
+		<FootprintRef4>1212L</FootprintRef4>
+	</Part>
+	<Part>
+		<PartNumber>IHLP4040DZER330M11</PartNumber>
+		<Description>ЧИП-индуктивность экранированная 33мкГн ±20% 4,4A 94,5мОм 4040</Description>
+		<Comment>IHLP4040DZER330M11</Comment>
+		<FootprintPath1>Schematic\Inductance.SchLib</FootprintPath1>
+		<FootprintRef1>Inductance</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\IHLP-4040.PcbLib</FootprintPath2>
+		<FootprintRef2>IHLP-4040</FootprintRef2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
 	</Part>
 </Inductance>
