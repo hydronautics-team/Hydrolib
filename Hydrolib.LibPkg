@@ -276,23 +276,6 @@ GenerateClassCluster=0
 DocumentUniqueId=SJJHMFYO
 
 [Document15]
-DocumentPath=Footprints\SOP-16.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HBXNHHJN
-
-[Document16]
 DocumentPath=Footprints\SOT223.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IKYRTPSY
 
-[Document17]
+[Document16]
 DocumentPath=Schematic\USBLC6-4.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YEVYKXGM
 
-[Document18]
+[Document17]
 DocumentPath=Footprints\SOD-323.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KKTCVNCH
 
-[Document19]
+[Document18]
 DocumentPath=Footprints\SOIC-16.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ACXGGIGC
 
-[Document20]
+[Document19]
 DocumentPath=Footprints\SOT23-6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YVKPLJLF
 
-[Document21]
+[Document20]
 DocumentPath=Footprints\SOIC-16W.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HNABBVTK
 
-[Document22]
+[Document21]
 DocumentPath=Schematic\Zener.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YKWMNERL
 
-[Document23]
+[Document22]
 DocumentPath=Footprints\SMC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NMTPDHTT
 
-[Document24]
+[Document23]
 DocumentPath=Footprints\SMA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KJGXSJVD
 
-[Document25]
+[Document24]
 DocumentPath=Footprints\LQFP100.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TVSDTRLD
 
-[Document26]
+[Document25]
 DocumentPath=Footprints\XTAL\QSMD3.2x2.5.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ILFYWXYN
 
-[Document27]
+[Document26]
 DocumentPath=Footprints\LQFP48.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RHGECSXB
 
-[Document28]
+[Document27]
 DocumentPath=Footprints\Inductance\12.8x12.8.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GXSKEROB
 
-[Document29]
+[Document28]
 DocumentPath=Footprints\Inductance\0603L.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PHQOKGWD
 
-[Document30]
+[Document29]
 DocumentPath=Footprints\Inductance\1212L.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OGKBIQKC
 
-[Document31]
+[Document30]
 DocumentPath=Footprints\Connectors\IDC-10.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OPWPLMHJ
 
-[Document32]
+[Document31]
 DocumentPath=Footprints\Inductance\1210L.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AMYCBWSQ
 
-[Document33]
+[Document32]
 DocumentPath=Footprints\Connectors\D-SUB-26.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AYYCRDSM
 
-[Document34]
+[Document33]
 DocumentPath=Schematic\LED.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QXOEPGAD
 
-[Document35]
+[Document34]
 DocumentPath=Footprints\Connectors\PLS\PLS4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -632,7 +615,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KQELHTLE
 
-[Document36]
+[Document35]
 DocumentPath=Schematic\LD1117S50CTR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,7 +632,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JNNHHREA
 
-[Document37]
+[Document36]
 DocumentPath=Schematic\LM2594HVM-ADJ.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -666,7 +649,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XVQLEBCD
 
-[Document38]
+[Document37]
 DocumentPath=Footprints\Connectors\CWF\CWF-5.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -683,7 +666,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OGUCISEN
 
-[Document39]
+[Document38]
 DocumentPath=Schematic\Schottky_diode.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,7 +683,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WHIVNYNS
 
-[Document40]
+[Document39]
 DocumentPath=Schematic\Inductance.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -717,7 +700,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RGRBPBKP
 
-[Document41]
+[Document40]
 DocumentPath=Footprints\XTAL\HC49SD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -734,7 +717,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IWWGTULG
 
-[Document42]
+[Document41]
 DocumentPath=Schematic\LD1117S33CTR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +734,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MXTBABHZ
 
-[Document43]
+[Document42]
 DocumentPath=Schematic\TVS\TVS_1_1dir.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -768,7 +751,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DBHXQVFY
 
-[Document44]
+[Document43]
 DocumentPath=Schematic\XTAL.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -785,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RCKYQNAI
 
-[Document45]
+[Document44]
 DocumentPath=Schematic\STM32F103C8T6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -802,7 +785,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCPUYTVU
 
-[Document46]
+[Document45]
 DocumentPath=Schematic\Tact_button.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -819,7 +802,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SFDZKOJN
 
-[Document47]
+[Document46]
 DocumentPath=Schematic\TVS\TVS_2_1dir.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -836,7 +819,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BTXOIAME
 
-[Document48]
+[Document47]
 DocumentPath=Schematic\TVS\TVS_2_2dir.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -853,7 +836,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EFBDFHFG
 
-[Document49]
+[Document48]
 DocumentPath=Schematic\CD4050B.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -870,7 +853,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HORZJWJS
 
-[Document50]
+[Document49]
 DocumentPath=Footprints\Connectors\CWF\CWF-3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -887,7 +870,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXAJXLNH
 
-[Document51]
+[Document50]
 DocumentPath=Footprints\Connectors\XT30.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -904,7 +887,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TVYFDGFY
 
-[Document52]
+[Document51]
 DocumentPath=Schematic\ADM2483BRWZ.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -921,7 +904,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EXNXVVLW
 
-[Document53]
+[Document52]
 DocumentPath=Footprints\Capacitors\TC_D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -938,7 +921,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QQTROQXB
 
-[Document54]
+[Document53]
 DocumentPath=Footprints\Capacitors\TC_C.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -955,7 +938,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TYIENDRY
 
-[Document55]
+[Document54]
 DocumentPath=Footprints\Capacitors\TC_B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -972,7 +955,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ASEIILXD
 
-[Document56]
+[Document55]
 DocumentPath=Footprints\Capacitors\TC_A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -989,7 +972,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWQXGOTQ
 
-[Document57]
+[Document56]
 DocumentPath=Footprints\Capacitors\RADIAL-2_10MM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1006,7 +989,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UDNCKIGM
 
-[Document58]
+[Document57]
 DocumentPath=Footprints\0805D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1023,7 +1006,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LBFMXKMR
 
-[Document59]
+[Document58]
 DocumentPath=Footprints\Capacitors\RADIAL-2_8MM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1040,7 +1023,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RTOVCSTC
 
-[Document60]
+[Document59]
 DocumentPath=Footprints\Resistors\0603R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1057,7 +1040,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document61]
+[Document60]
 DocumentPath=Footprints\Resistors\0805R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1074,7 +1057,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document62]
+[Document61]
 DocumentPath=Footprints\Resistors\1206R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1091,7 +1074,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document63]
+[Document62]
 DocumentPath=Footprints\Resistors\2512R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1217,7 +1200,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Samsung ML-2160 Series
+TargetPrinter=NPI649482 (HP LaserJet M1536dnf MFP)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
