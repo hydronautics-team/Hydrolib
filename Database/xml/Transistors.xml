@@ -51,4 +51,13 @@
 		<FootprintPath2>Footprints\DPAK_termopad.PcbLib</FootprintPath2>
 		<FootprintRef2>DPAK_termopad</FootprintRef2>
 	</Part>
+	<Part>
+		<PartNumber>AO4411</PartNumber>
+		<Description>P-канальный MOSFET</Description>
+		<Comment>AO4411</Comment>
+		<LibraryPath>Schematic\MOSFET_P-channel_8pin.SchLib</LibraryPath>
+		<LibraryRef>MOSFET_P-channel_8pin</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-8</FootprintRef1>
+	</Part>
 </Transistors>
