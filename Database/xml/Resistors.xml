@@ -1189,6 +1189,17 @@
 		<FootprintRef1>0603R</FootprintRef1>
 	</Part>
 	<Part>
+		<PartNumber>Resistor_31.6k_1_0603</PartNumber>
+		<Description>Резистор номиналом 31,6 кОм и точностью 1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>31,6 к</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/0603R.PcbLib</FootprintPath1>
+		<FootprintRef1>0603R</FootprintRef1>
+	</Part>
+	<Part>
 		<PartNumber>Resistor_33k_1_0603</PartNumber>
 		<Description>Резистор номиналом 33 кОм и точностью 1%</Description>
 		<Comment>Resistor</Comment>

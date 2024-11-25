@@ -60,4 +60,13 @@
 		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
 		<FootprintRef1>SOIC-8</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>AO4812</PartNumber>
+		<Description>Сборка из полевых транзисторов, 2N-канальный, 30 В, 6.9 А</Description>
+		<Comment>AO4812</Comment>
+		<LibraryPath>Schematic\AO4812.SchLib</LibraryPath>
+		<LibraryRef>AO4812</LibraryRef>
+		<FootprintPath1>Footprints\SOP8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOP8</FootprintRef1>
+	</Part>
 </Transistors>

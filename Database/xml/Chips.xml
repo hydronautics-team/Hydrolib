@@ -117,4 +117,31 @@
 		<FootprintPath1>Footprints\8SOP(Exposed_Pad).PcbLib</FootprintPath1>
 		<FootprintRef1>8SOP(Exposed_Pad)</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>TP4056</PartNumber>
+		<Description>TP4056, Контроллер заряда Li-Ion аккумуляторов, 1А, UMW</Description>
+		<Comment>TP4056</Comment>
+		<LibraryPath>Schematic\TP4056.SchLib</LibraryPath>
+		<LibraryRef>TP4056</LibraryRef>
+		<FootprintPath1>Footprints\8SOP(Exposed_Pad).PcbLib</FootprintPath1>
+		<FootprintRef1>8SOP(Exposed_Pad)</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>LM2623AMMX</PartNumber>
+		<Description>Повышающий DC-DC преобразователь 2A</Description>
+		<Comment>LM2623AMMX</Comment>
+		<LibraryPath>Schematic\LM2623AMMX.SchLib</LibraryPath>
+		<LibraryRef>LM2623AMMX</LibraryRef>
+		<FootprintPath1>Footprints\VSSOP-8.PcbLib</FootprintPath1>
+		<FootprintRef1>VSSOP-8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>DW01</PartNumber>
+		<Description>Защита одной ячейки Li-Ion/polimer</Description>
+		<Comment>DW01</Comment>
+		<LibraryPath>Schematic\DW01.SchLib</LibraryPath>
+		<LibraryRef>DW01</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-6.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-6</FootprintRef1>
+	</Part>
 </Chips>
