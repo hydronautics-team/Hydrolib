@@ -107,4 +107,13 @@
 		<FootprintPath1>Footprints\Connectors\XT30UPB-F.PcbLib</FootprintPath1>
 		<FootprintRef1>XT30UPB-F</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>Holder 18650</PartNumber>
+		<Description>Holder 18650 SMT </Description>
+		<Comment>18650holder</Comment>
+		<LibraryPath>Schematic\Connectors\18650holder.SchLib</LibraryPath>
+		<LibraryRef>18650holder</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\18650holder.PcbLib</FootprintPath1>
+		<FootprintRef1>18650holder</FootprintRef1>
+	</Part>
 </Connectors>
