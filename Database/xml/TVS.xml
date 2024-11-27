@@ -46,4 +46,16 @@
 		<Power>600</Power>
 		<Value>18 В</Value>
 	</Part>
+	<Part>
+		<PartNumber>PESD5V0S1UB</PartNumber>
+		<Description>Защитный диод на 5 В, рассеиваемая мощность 330 Вт</Description>
+		<Comment>PESD5V0S1UB</Comment>
+		<LibraryPath>Schematic\TVS\TVS_1_1dir.SchLib</LibraryPath>
+		<LibraryRef>TVS_1_1dir</LibraryRef>
+		<FootprintPath1>Footprints\SOD523.PcbLib</FootprintPath1>
+		<FootprintRef1>SOD523</FootprintRef1>
+		<VoltageNominal>5</VoltageNominal>
+		<Power>330</Power>
+		<Value>5 В</Value>
+	</Part>
 </TVS>
