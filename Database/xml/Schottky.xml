@@ -12,6 +12,17 @@
 		<Current_A>3</Current_A>
 	</Part>
 	<Part>
+		<PartNumber>SK32</PartNumber>
+		<Description>Диод шоттки на 20 В, номинальный ток 3 А</Description>
+		<Comment>SK32</Comment>
+		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
+		<LibraryRef>Schottky_diode</LibraryRef>
+		<FootprintPath1>Footprints\SMC.PcbLib</FootprintPath1>
+		<FootprintRef1>SMC</FootprintRef1>
+		<VoltageNominal_V>20</VoltageNominal_V>
+		<Current_A>3</Current_A>
+	</Part>
+	<Part>
 		<PartNumber>BAT54WS</PartNumber>
 		<Description>Диод шоттки на 30 В, номинальный ток 0.2 А</Description>
 		<Comment>BAT54WS</Comment>
