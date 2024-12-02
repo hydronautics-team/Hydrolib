@@ -519,7 +519,7 @@
 		<Capacity>1000</Capacity>
 	</Part>
 	<Part>
-		<PartNumber>Capacitor_4,7u_10_50V_X7R_0603C</PartNumber>
+		<PartNumber>Capacitor_4,7u_10_50V_X7R_1206C</PartNumber>
 		<Description>Конденсатор</Description>
 		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
@@ -533,7 +533,21 @@
 		<Capacity>4700</Capacity>
 	</Part>
 	<Part>
-		<PartNumber>Capacitor_22u_10_50V_X7R_0603C</PartNumber>
+		<PartNumber>Capacitor_10u_10_35V_X7R_1210C</PartNumber>
+		<Description>Конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
+		<LibraryRef>Capacitor</LibraryRef>
+		<Value>10 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>35</Voltage>
+		<Dielectric>X7R</Dielectric>
+		<FootprintPath1>Footprints\Capacitors\1210C.PcbLib</FootprintPath1>
+		<FootprintRef1>1210C</FootprintRef1>
+		<Capacity>10000</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_22u_10_25V_X7R_1210C</PartNumber>
 		<Description>Конденсатор</Description>
 		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>

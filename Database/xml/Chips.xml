@@ -144,4 +144,40 @@
 		<FootprintPath1>Footprints\SOT23-6.PcbLib</FootprintPath1>
 		<FootprintRef1>SOT23-6</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>arduino_nano</PartNumber>
+		<Description>ардуинка на стойках</Description>
+		<Comment>arduino_nano</Comment>
+		<LibraryPath>Schematic\arduino_nano.SchLib</LibraryPath>
+		<LibraryRef>arduino_nano</LibraryRef>
+		<FootprintPath1>Footprints\arduino_nano.PcbLib</FootprintPath1>
+		<FootprintRef1>arduino_nano</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>TPS61088</PartNumber>
+		<Description>Преобразователь постоянного тока повышающий синхронный вход 2.7В...12В выход 4.5В...12.6В 10A</Description>
+		<Comment>TPS61088</Comment>
+		<LibraryPath>Schematic\TPS61088.SchLib</LibraryPath>
+		<LibraryRef>TPS61088</LibraryRef>
+		<FootprintPath1>Footprints\VQFN-RHL.PcbLib</FootprintPath1>
+		<FootprintRef1>VQFN-RHL</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RT8509A</PartNumber>
+		<Description>Импульсный повышающий DC-DC стабилизатор, регулируемый, 2.8В-14В (Vin), 24В/4.5A, 1.5МГц, WDFN-12</Description>
+		<Comment>RT8509A</Comment>
+		<LibraryPath>Schematic\RT8509A.SchLib</LibraryPath>
+		<LibraryRef>RT8509A</LibraryRef>
+		<FootprintPath1>Footprints\WDFN5x5-12.PcbLib</FootprintPath1>
+		<FootprintRef1>WDFN5x5-12</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>VN7140AS</PartNumber>
+		<Description>Силовой ключ верхнего плеча с аналоговой обратной связью MultiSense автомобильного применения</Description>
+		<Comment>VN7140AS</Comment>
+		<LibraryPath>Schematic\VN7140AS.SchLib</LibraryPath>
+		<LibraryRef>VN7140AS</LibraryRef>
+		<FootprintPath1>Footprints\SOP8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOP8</FootprintRef1>
+	</Part>
 </Chips>

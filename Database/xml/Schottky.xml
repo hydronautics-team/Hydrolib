@@ -44,4 +44,15 @@
 		<VoltageNominal_V>45</VoltageNominal_V>
 		<Current_A>10</Current_A>
 	</Part>
+	<Part>
+		<PartNumber>SK810</PartNumber>
+		<Description>Диод шоттки на 100 В, номинальный ток 8 А</Description>
+		<Comment>SK810</Comment>
+		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
+		<LibraryRef>Schottky_diode</LibraryRef>
+		<FootprintPath1>Footprints\SMC.PcbLib</FootprintPath1>
+		<FootprintRef1>SMC</FootprintRef1>
+		<VoltageNominal_V>100</VoltageNominal_V>
+		<Current_A>8</Current_A>
+	</Part>
 </Schottky>
