@@ -180,4 +180,13 @@
 		<FootprintPath1>Footprints\SOP8.PcbLib</FootprintPath1>
 		<FootprintRef1>SOP8</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>74HC4051PW,118</PartNumber>
+		<Description>Мультиплексор аналоговый 8 в 1 КМОП кристалл, TSSOP16</Description>
+		<Comment>74HC4051PW,118</Comment>
+		<LibraryPath>Schematic\74HC4051PW,118.SchLib</LibraryPath>
+		<LibraryRef>74HC4051PW,118</LibraryRef>
+		<FootprintPath1>Footprints\TSSOP-16.PcbLib</FootprintPath1>
+		<FootprintRef1>TSSOP-16</FootprintRef1>
+	</Part>
 </Chips>

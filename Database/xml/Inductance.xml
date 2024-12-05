@@ -33,4 +33,30 @@
 		<Current>0.82</Current>
 		<Value>68 мк</Value>
 	</Part>
+	<Part>
+		<PartNumber>IHLP2525CZER4R7M01</PartNumber>
+		<Description>ЧИП-индуктивность экранированная 4,7мкГн ±20% 5,5A 40мОм 2525</Description>
+		<Comment>IHLP2525CZER4R7M01</Comment>
+		<FootprintPath1>Footprints\Inductance\IHLP-2525.PcbLib</FootprintPath1>
+		<FootprintRef1>IHLP-2525</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Inductance>4.7</Inductance>
+		<Current>5.5</Current>
+		<Value>4,7 мк</Value>
+	</Part>
+	<Part>
+		<PartNumber>IHLP4040DZER220M11</PartNumber>
+		<Description>ЧИП-индуктивность экранированная 22мкГн ±20% 5A 66мОм 4040 лента на катушке</Description>
+		<Comment>IHLP4040DZER220M11</Comment>
+		<FootprintPath1>Footprints\Inductance\IHLP-4040.PcbLib</FootprintPath1>
+		<FootprintRef1>IHLP-4040</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Inductance>22</Inductance>
+		<Current>5</Current>
+		<Value>22 мк</Value>
+	</Part>
 </Inductance>
