@@ -47,4 +47,31 @@
 		<FootprintPath1>Footprints\0805SB.PcbLib</FootprintPath1>
 		<FootprintRef1>0805SB</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>CBM432AST23</PartNumber>
+		<Description>Источник опорного напряжения, программируемый стабилитрон</Description>
+		<Comment>CBM432AST23</Comment>
+		<LibraryPath>Schematic\precision_shunt_regulator.SchLib</LibraryPath>
+		<LibraryRef>precision_shunt_regulator</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-3.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-3</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>UMW TL431 0.5%</PartNumber>
+		<Description>Источник опорного напряжения , программируемый стабилитрон [SOT-23-3]</Description>
+		<Comment>UMW TL431 0.5%</Comment>
+		<LibraryPath>Schematic\precision_shunt_regulator.SchLib</LibraryPath>
+		<LibraryRef>precision_shunt_regulator</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-3.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-3</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>Fuse 20x5 on clips FC-M</PartNumber>
+		<Description>Предохранитель 20*5 на креплениях</Description>
+		<Comment>Fuse 20x5 on clips FC-M</Comment>
+		<LibraryPath>Schematic\fuse.SchLib</LibraryPath>
+		<LibraryRef>fuse</LibraryRef>
+		<FootprintPath1>Footprints\fuse_20x5_on_clips_FC-M.PcbLib</FootprintPath1>
+		<FootprintRef1>fuse_20x5_on_clips_FC-M</FootprintRef1>
+	</Part>
 </Other>

@@ -189,4 +189,13 @@
 		<FootprintPath1>Footprints\TSSOP-16.PcbLib</FootprintPath1>
 		<FootprintRef1>TSSOP-16</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>sim800l</PartNumber>
+		<Description>Четырехдиапазонный GSM/GPRS модуль, частоты: GSM 850 МГц, EGSM 900 МГц, DCS 1800 МГц и PCS 1900 МГц.</Description>
+		<Comment>sim800l</Comment>
+		<LibraryPath>Schematic\sim800l.SchLib</LibraryPath>
+		<LibraryRef>sim800l</LibraryRef>
+		<FootprintPath1>Footprints\sim800l.PcbLib</FootprintPath1>
+		<FootprintRef1>sim800l</FootprintRef1>
+	</Part>
 </Chips>

@@ -58,4 +58,16 @@
 		<Power>330</Power>
 		<Value>5 В</Value>
 	</Part>
+	<Part>
+		<PartNumber>SMBJ15A</PartNumber>
+		<Description>Защитный диод на 15 В, рассеиваемая мощность 600 Вт</Description>
+		<Comment>SMBJ15A</Comment>
+		<LibraryPath>Schematic\TVS\TVS_1_1dir.SchLib</LibraryPath>
+		<LibraryRef>TVS_1_1dir</LibraryRef>
+		<FootprintPath1>Footprints\SMB.PcbLib</FootprintPath1>
+		<FootprintRef1>SMB</FootprintRef1>
+		<VoltageNominal>15</VoltageNominal>
+		<Power>600</Power>
+		<Value>15 В</Value>
+	</Part>
 </TVS>
