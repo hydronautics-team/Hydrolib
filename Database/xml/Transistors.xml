@@ -69,4 +69,13 @@
 		<FootprintPath1>Footprints\SOP8.PcbLib</FootprintPath1>
 		<FootprintRef1>SOP8</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>bc807</PartNumber>
+		<Description>Биполярный транзистор PNP 45В 0.5А 0.31Вт</Description>
+		<Comment>bc807</Comment>
+		<LibraryPath>Schematic\pnp.SchLib</LibraryPath>
+		<LibraryRef>pnp</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-3.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-3</FootprintRef1>
+	</Part>
 </Transistors>

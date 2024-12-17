@@ -198,4 +198,31 @@
 		<FootprintPath1>Footprints\sim800l.PcbLib</FootprintPath1>
 		<FootprintRef1>sim800l</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>74HC139D,653</PartNumber>
+		<Description>Два декодера (демультиплексора) 2 в 4 (1 в 4), вход и выходы с инверсией</Description>
+		<Comment>74HC139D,653</Comment>
+		<LibraryPath>Schematic\74HC139D,653.SchLib</LibraryPath>
+		<LibraryRef>74HC139D,653</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-16.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-16</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>CD4555BM</PartNumber>
+		<Description>Два декодера (демультиплексора) 2 в 4 (1 в 4), вход с инверсией, выходы без</Description>
+		<Comment>CD4555BM</Comment>
+		<LibraryPath>Schematic\CD4555BM.SchLib</LibraryPath>
+		<LibraryRef>CD4555BM</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-16.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-16</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>MC74HC595ADR2G</PartNumber>
+		<Description>8-ми битный сдвиговый регистр</Description>
+		<Comment>MC74HC595ADR2G</Comment>
+		<LibraryPath>Schematic\MC74HC595ADR2G.SchLib</LibraryPath>
+		<LibraryRef>MC74HC595ADR2G</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-16.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-16</FootprintRef1>
+	</Part>
 </Chips>

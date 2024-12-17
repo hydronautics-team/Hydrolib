@@ -116,4 +116,13 @@
 		<FootprintPath1>Footprints\Connectors\18650holder.PcbLib</FootprintPath1>
 		<FootprintRef1>18650holder</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>D-SUB_25_angular_mother</PartNumber>
+		<Description>Разъем D-Sub 25 конт. "гнездо" на плату L = 8.1 мм (7.2), прямой угол, никелир. фланец, латун. винты и фиксат. (аналог DRB-25FA/ DBR-25F) Соединитель, тип конструкции DRB, число и тип контактов (F-гнездо,M-штырь,R-угловой): 25F</Description>
+		<Comment>D-SUB_25_angular_mother</Comment>
+		<LibraryPath>Schematic\Connectors\D-SUB_25_angular_mother.SchLib</LibraryPath>
+		<LibraryRef>D-SUB_25_angular_mother</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\D-SUB_25_angular_mother.PcbLib</FootprintPath1>
+		<FootprintRef1>D-SUB_25_angular_mother</FootprintRef1>
+	</Part>
 </Connectors>
