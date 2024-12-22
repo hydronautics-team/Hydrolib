@@ -125,4 +125,12 @@
 		<FootprintPath1>Footprints\Connectors\D-SUB_25_angular_mother.PcbLib</FootprintPath1>
 		<FootprintRef1>D-SUB_25_angular_mother</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>1-1734577-3-rj45-8p8c</PartNumber>
+		<Comment>1734577-3</Comment>
+		<LibraryPath>Schematic\Connectors\1-1734577-3-rj45-8p8c.SchLib</LibraryPath>
+		<LibraryRef>1-1734577-3-rj45-8p8c</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\1-1734577-3-rj45-8p8c.PcbLib</FootprintPath1>
+		<FootprintRef1>1-1734577-3-rj45-8p8c</FootprintRef1>
+	</Part>
 </Connectors>

@@ -225,4 +225,22 @@
 		<FootprintPath1>Footprints\SOIC-16.PcbLib</FootprintPath1>
 		<FootprintRef1>SOIC-16</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>MT3608</PartNumber>
+		<Description>Повышающий/SEPIC DC-DC преобразователь 2А 1.2МГц</Description>
+		<Comment>MT3608</Comment>
+		<LibraryPath>Schematic\MT3608.SchLib</LibraryPath>
+		<LibraryRef>MT3608</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-6.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-6</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>CD4013BE</PartNumber>
+		<Description>Два триггера D-типа</Description>
+		<Comment>CD4013BE</Comment>
+		<LibraryPath>Schematic\CD4013BE.SchLib</LibraryPath>
+		<LibraryRef>CD4013BE</LibraryRef>
+		<FootprintPath1>Footprints\DIP14.PcbLib</FootprintPath1>
+		<FootprintRef1>DIP14_IN_SOCKET</FootprintRef1>
+	</Part>
 </Chips>
