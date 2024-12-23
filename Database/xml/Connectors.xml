@@ -127,10 +127,47 @@
 	</Part>
 	<Part>
 		<PartNumber>1-1734577-3-rj45-8p8c</PartNumber>
+		<Description>Модульный разъем, Cat3, RJ45, Гнездо, 8 контакт(-ов), 8 вывод(-ов), 1 порт(-ов)</Description>
 		<Comment>1734577-3</Comment>
 		<LibraryPath>Schematic\Connectors\1-1734577-3-rj45-8p8c.SchLib</LibraryPath>
 		<LibraryRef>1-1734577-3-rj45-8p8c</LibraryRef>
 		<FootprintPath1>Footprints\Connectors\1-1734577-3-rj45-8p8c.PcbLib</FootprintPath1>
 		<FootprintRef1>1-1734577-3-rj45-8p8c</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>Molex_430450415</PartNumber>
+		<Description>Разъем типа провод-плата, 3 мм, 4 контакт(-ов), Штыревой Разъем, для поверностного монтажа</Description>
+		<Comment>430450415</Comment>
+		<LibraryPath>Schematic\Connectors\Molex_430450415.SchLib</LibraryPath>
+		<LibraryRef>Molex_430450415</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\MOLEX_430450415.PcbLib</FootprintPath1>
+		<FootprintRef1>MOLEX_430450415</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>DG141V-2.54-10P</PartNumber>
+		<Description>Нажимной безвинтовой клеммный блок на 10 контактов. Зажим типа торцевой контакт. Серия DG141V-2.54</Description>
+		<Comment>DG141V-2.54-10P</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_10pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_10pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\DG141V-2.54-10P.PcbLib</FootprintPath1>
+		<FootprintRef1>DG141V-2.54-10P</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>Molex_430450218</PartNumber>
+		<Description>Разъем типа провод-плата, 3 мм, 2 контакт(-ов), Штыревой Разъем, Серия Micro-Fit для поверхностного монтажа</Description>
+		<Comment>430450218</Comment>
+		<LibraryPath>Schematic\Connectors\Molex_430450218.SchLib</LibraryPath>
+		<LibraryRef>Molex_430450218</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\Molex_430450218.PcbLib</FootprintPath1>
+		<FootprintRef1>Molex_430450218</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>Molex_430450418</PartNumber>
+		<Description>Разъем типа провод-плата, 3 мм, 4 контакт(-ов), Штыревой Разъем, для поверностного монтажа</Description>
+		<Comment>430450418</Comment>
+		<LibraryPath>Schematic\Connectors\Molex_430450415.SchLib</LibraryPath>
+		<LibraryRef>Molex_430450415</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\MOLEX_430450418.PcbLib</FootprintPath1>
+		<FootprintRef1>MOLEX_430450418</FootprintRef1>
 	</Part>
 </Connectors>
