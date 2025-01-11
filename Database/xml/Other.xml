@@ -46,6 +46,8 @@
 		<LibraryRef>SB</LibraryRef>
 		<FootprintPath1>Footprints\0805SB.PcbLib</FootprintPath1>
 		<FootprintRef1>0805SB</FootprintRef1>
+		<FootprintPath2>Footprints\1206SB.PcbLib</FootprintPath2>
+		<FootprintRef2>1206SB</FootprintRef2>
 	</Part>
 	<Part>
 		<PartNumber>CBM432AST23</PartNumber>
