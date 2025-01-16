@@ -170,4 +170,58 @@
 		<FootprintPath1>Footprints\Connectors\MOLEX_430450418.PcbLib</FootprintPath1>
 		<FootprintRef1>MOLEX_430450418</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>KK5045-03AG</PartNumber>
+		<Description>Разъем типа провод-плата, 2.5 мм, 3 контакта</Description>
+		<Comment>KK5045-03AG</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_3pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_3pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\KK5045-03AG.PcbLib</FootprintPath1>
+		<FootprintRef1>KK5045-03AG</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>KK5045-04AG</PartNumber>
+		<Description>Разъем типа провод-плата, 2.5 мм, 4 контакта</Description>
+		<Comment>KK5045-04AG</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_4pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_4pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\KK5045-04AG.PcbLib</FootprintPath1>
+		<FootprintRef1>KK5045-04AG</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>KK5045-05AG</PartNumber>
+		<Description>Разъем типа провод-плата, 2.5 мм, 5 контакта</Description>
+		<Comment>KK5045-05AG</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_5pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_5pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\KK5045-05AG.PcbLib</FootprintPath1>
+		<FootprintRef1>KK5045-05AG</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>MPW-3</PartNumber>
+		<Description>MPW-3 , Вилка на плату 5.08мм прямая 3pin</Description>
+		<Comment>MPW-3</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_3pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_3pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\MPW-3.PcbLib</FootprintPath1>
+		<FootprintRef1>MPW-3</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>MPW-4</PartNumber>
+		<Description>MPW-4 , Вилка на плату 5.08мм прямая 4pin</Description>
+		<Comment>MPW-4</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_4pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_4pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\MPW-4.PcbLib</FootprintPath1>
+		<FootprintRef1>MPW-4</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>MPW-8</PartNumber>
+		<Description>MPW-8 , Вилка на плату 5.08мм прямая 8pin</Description>
+		<Comment>MPW-8</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_8pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_8pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\MPW-8.PcbLib</FootprintPath1>
+		<FootprintRef1>MPW-8</FootprintRef1>
+	</Part>
 </Connectors>
