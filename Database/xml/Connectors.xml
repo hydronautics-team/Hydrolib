@@ -46,19 +46,19 @@
 		<FootprintRef1>CWF-3</FootprintRef1>
 	</Part>
 	<Part>
-		<PartNumber>XT30</PartNumber>
+		<PartNumber>XT30UPB-M</PartNumber>
 		<Description>2-пиновый разъем с ключом</Description>
-		<Comment>XT30</Comment>
-		<LibraryPath>Schematic\Connectors\Conn_2pin.SchLib</LibraryPath>
-		<LibraryRef>Conn_2pin</LibraryRef>
-		<FootprintPath1>Footprints\Connectors\XT30.PcbLib</FootprintPath1>
-		<FootprintRef1>XT30</FootprintRef1>
+		<Comment>XT30UPB-M</Comment>
+		<LibraryPath>Schematic\Connectors\Polar_Conn.SchLib</LibraryPath>
+		<LibraryRef>Polar_Conn</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\XT30UPB-M.PcbLib</FootprintPath1>
+		<FootprintRef1>XT30UPB-M</FootprintRef1>
 	</Part>
 	<Part>
 		<PartNumber>2_PADS</PartNumber>
 		<Description>2 контактные площадки под пайку толстых проводов</Description>
 		<Comment>2_PADS</Comment>
-		<LibraryPath>Schematic\Connectors\CONN-2.SchLib</LibraryPath>
+		<LibraryPath>Schematic\Connectors\Conn_2pin.SchLib</LibraryPath>
 		<LibraryRef>Conn_2pin</LibraryRef>
 		<FootprintPath1>Footprints\Connectors\2_PADS.PcbLib</FootprintPath1>
 		<FootprintRef1>2_PADS</FootprintRef1>
@@ -67,8 +67,8 @@
 		<PartNumber>XT30PW-M</PartNumber>
 		<Description>30 А (15 продолжительно), 2 контакта разъем угловой отец</Description>
 		<Comment>XT30PW-M</Comment>
-		<LibraryPath>Schematic\Connectors\Polar_Conn.SchLib</LibraryPath>
-		<LibraryRef>Polar_Conn</LibraryRef>
+		<LibraryPath>Schematic\Connectors\Polar_Conn_Shield.SchLib</LibraryPath>
+		<LibraryRef>Polar_Conn_Shield</LibraryRef>
 		<FootprintPath1>Footprints\Connectors\XT30PW-M.PcbLib</FootprintPath1>
 		<FootprintRef1>XT30PW-M</FootprintRef1>
 	</Part>
@@ -76,7 +76,7 @@
 		<PartNumber>KLS2-300-5.00-02P-2S</PartNumber>
 		<Description>Клеммник винтовой, 2-контактный, 5мм, прямой</Description>
 		<Comment>KLS2-300-5.00-02P-2S</Comment>
-		<LibraryPath>Schematic\Connectors\CONN-2.SchLib</LibraryPath>
+		<LibraryPath>Schematic\Connectors\Conn_2pin.SchLib</LibraryPath>
 		<LibraryRef>Conn_2pin</LibraryRef>
 		<FootprintPath1>Footprints\Connectors\KLS2-300-5.00-02P-2S.PcbLib</FootprintPath1>
 		<FootprintRef1>KLS2-300-5.00-02P-2S</FootprintRef1>
