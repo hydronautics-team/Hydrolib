@@ -74,4 +74,13 @@
 		<FootprintPath1>Footprints\fuse_20x5_on_clips_FC-M.PcbLib</FootprintPath1>
 		<FootprintRef1>fuse_20x5_on_clips_FC-M</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>DHT22</PartNumber>
+		<Description>Датчик температуры и влажности на базе AM2302</Description>
+		<Comment>DHT22</Comment>
+		<LibraryPath>Schematic\DHT22.SchLib</LibraryPath>
+		<LibraryRef>DHT22</LibraryRef>
+		<FootprintPath1>Footprints\DHT22.PcbLib</FootprintPath1>
+		<FootprintRef1>DHT22</FootprintRef1>
+	</Part>
 </Other>

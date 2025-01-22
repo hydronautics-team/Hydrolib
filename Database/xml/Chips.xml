@@ -225,4 +225,21 @@
 		<FootprintPath1>Footprints\SOIC-16.PcbLib</FootprintPath1>
 		<FootprintRef1>SOIC-16</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>MT3608</PartNumber>
+		<Description>Повышающий/SEPIC DC-DC преобразователь 2А 1.2МГц</Description>
+		<Comment>MT3608</Comment>
+		<LibraryPath>Schematic\MT3608.SchLib</LibraryPath>
+		<LibraryRef>MT3608</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-6.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-6</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RPI</PartNumber>
+		<Comment>RPI</Comment>
+		<LibraryPath>Schematic\RPI.SchLib</LibraryPath>
+		<LibraryRef>RPI</LibraryRef>
+		<FootprintPath1>Footprints\MODULE_RASPBERRY_PI_4B_4GB.PcbLib</FootprintPath1>
+		<FootprintRef1>MODULE_RASPBERRY_PI_4B_4GB</FootprintRef1>
+	</Part>
 </Chips>
