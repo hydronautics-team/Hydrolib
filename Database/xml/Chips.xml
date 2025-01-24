@@ -243,4 +243,29 @@
 		<FootprintPath1>Footprints\DIP14.PcbLib</FootprintPath1>
 		<FootprintRef1>DIP14_IN_SOCKET</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>STM32F103C8T6_board</PartNumber>
+		<Description>blue pill</Description>
+		<Comment>STM32F103C8T6_board</Comment>
+		<LibraryPath>Schematic\STM32F103C8T6_board.SchLib</LibraryPath>
+		<LibraryRef>STM32F103C8T6_board</LibraryRef>
+		<FootprintPath1>Footprints\STM32F103C8T6_board.PcbLib</FootprintPath1>
+		<FootprintRef1>STM32F103C8T6_board</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RPI</PartNumber>
+		<Comment>RPI</Comment>
+		<LibraryPath>Schematic\RPI.SchLib</LibraryPath>
+		<LibraryRef>RPI</LibraryRef>
+		<FootprintPath1>Footprints\RPI.PcbLib</FootprintPath1>
+		<FootprintRef1>RPI</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>LTC4418</PartNumber>
+		<Comment>LTC4418</Comment>
+		<LibraryPath>Schematic\LTC4418.SchLib</LibraryPath>
+		<LibraryRef>LTC4418</LibraryRef>
+		<FootprintPath1>Footprints\QFN50.PcbLib</FootprintPath1>
+		<FootprintRef1>QFN50</FootprintRef1>
+	</Part>
 </Chips>
