@@ -46,19 +46,19 @@
 		<FootprintRef1>CWF-3</FootprintRef1>
 	</Part>
 	<Part>
-		<PartNumber>XT30</PartNumber>
+		<PartNumber>XT30UPB-M</PartNumber>
 		<Description>2-пиновый разъем с ключом</Description>
-		<Comment>XT30</Comment>
-		<LibraryPath>Schematic\Connectors\Conn_2pin.SchLib</LibraryPath>
-		<LibraryRef>Conn_2pin</LibraryRef>
-		<FootprintPath1>Footprints\Connectors\XT30.PcbLib</FootprintPath1>
-		<FootprintRef1>XT30</FootprintRef1>
+		<Comment>XT30UPB-M</Comment>
+		<LibraryPath>Schematic\Connectors\Polar_Conn.SchLib</LibraryPath>
+		<LibraryRef>Polar_Conn</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\XT30UPB-M.PcbLib</FootprintPath1>
+		<FootprintRef1>XT30UPB-M</FootprintRef1>
 	</Part>
 	<Part>
 		<PartNumber>2_PADS</PartNumber>
 		<Description>2 контактные площадки под пайку толстых проводов</Description>
 		<Comment>2_PADS</Comment>
-		<LibraryPath>Schematic\Connectors\CONN-2.SchLib</LibraryPath>
+		<LibraryPath>Schematic\Connectors\Conn_2pin.SchLib</LibraryPath>
 		<LibraryRef>Conn_2pin</LibraryRef>
 		<FootprintPath1>Footprints\Connectors\2_PADS.PcbLib</FootprintPath1>
 		<FootprintRef1>2_PADS</FootprintRef1>
@@ -67,8 +67,8 @@
 		<PartNumber>XT30PW-M</PartNumber>
 		<Description>30 А (15 продолжительно), 2 контакта разъем угловой отец</Description>
 		<Comment>XT30PW-M</Comment>
-		<LibraryPath>Schematic\Connectors\Polar_Conn.SchLib</LibraryPath>
-		<LibraryRef>Polar_Conn</LibraryRef>
+		<LibraryPath>Schematic\Connectors\Polar_Conn_Shield.SchLib</LibraryPath>
+		<LibraryRef>Polar_Conn_Shield</LibraryRef>
 		<FootprintPath1>Footprints\Connectors\XT30PW-M.PcbLib</FootprintPath1>
 		<FootprintRef1>XT30PW-M</FootprintRef1>
 	</Part>
@@ -76,7 +76,7 @@
 		<PartNumber>KLS2-300-5.00-02P-2S</PartNumber>
 		<Description>Клеммник винтовой, 2-контактный, 5мм, прямой</Description>
 		<Comment>KLS2-300-5.00-02P-2S</Comment>
-		<LibraryPath>Schematic\Connectors\CONN-2.SchLib</LibraryPath>
+		<LibraryPath>Schematic\Connectors\Conn_2pin.SchLib</LibraryPath>
 		<LibraryRef>Conn_2pin</LibraryRef>
 		<FootprintPath1>Footprints\Connectors\KLS2-300-5.00-02P-2S.PcbLib</FootprintPath1>
 		<FootprintRef1>KLS2-300-5.00-02P-2S</FootprintRef1>
@@ -124,5 +124,104 @@
 		<LibraryRef>D-SUB_25_angular_mother</LibraryRef>
 		<FootprintPath1>Footprints\Connectors\D-SUB_25_angular_mother.PcbLib</FootprintPath1>
 		<FootprintRef1>D-SUB_25_angular_mother</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>1-1734577-3-rj45-8p8c</PartNumber>
+		<Description>Модульный разъем, Cat3, RJ45, Гнездо, 8 контакт(-ов), 8 вывод(-ов), 1 порт(-ов)</Description>
+		<Comment>1734577-3</Comment>
+		<LibraryPath>Schematic\Connectors\1-1734577-3-rj45-8p8c.SchLib</LibraryPath>
+		<LibraryRef>1-1734577-3-rj45-8p8c</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\1-1734577-3-rj45-8p8c.PcbLib</FootprintPath1>
+		<FootprintRef1>1-1734577-3-rj45-8p8c</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>Molex_430450415</PartNumber>
+		<Description>Разъем типа провод-плата, 3 мм, 4 контакт(-ов), Штыревой Разъем, для поверностного монтажа</Description>
+		<Comment>430450415</Comment>
+		<LibraryPath>Schematic\Connectors\Molex_430450415.SchLib</LibraryPath>
+		<LibraryRef>Molex_430450415</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\MOLEX_430450415.PcbLib</FootprintPath1>
+		<FootprintRef1>MOLEX_430450415</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>DG141V-2.54-10P</PartNumber>
+		<Description>Нажимной безвинтовой клеммный блок на 10 контактов. Зажим типа торцевой контакт. Серия DG141V-2.54</Description>
+		<Comment>DG141V-2.54-10P</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_10pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_10pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\DG141V-2.54-10P.PcbLib</FootprintPath1>
+		<FootprintRef1>DG141V-2.54-10P</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>Molex_430450218</PartNumber>
+		<Description>Разъем типа провод-плата, 3 мм, 2 контакт(-ов), Штыревой Разъем, Серия Micro-Fit для поверхностного монтажа</Description>
+		<Comment>430450218</Comment>
+		<LibraryPath>Schematic\Connectors\Molex_430450218.SchLib</LibraryPath>
+		<LibraryRef>Molex_430450218</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\Molex_430450218.PcbLib</FootprintPath1>
+		<FootprintRef1>Molex_430450218</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>Molex_430450418</PartNumber>
+		<Description>Разъем типа провод-плата, 3 мм, 4 контакт(-ов), Штыревой Разъем, для поверностного монтажа</Description>
+		<Comment>430450418</Comment>
+		<LibraryPath>Schematic\Connectors\Molex_430450415.SchLib</LibraryPath>
+		<LibraryRef>Molex_430450415</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\MOLEX_430450418.PcbLib</FootprintPath1>
+		<FootprintRef1>MOLEX_430450418</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>KK5045-03AG</PartNumber>
+		<Description>Разъем типа провод-плата, 2.5 мм, 3 контакта</Description>
+		<Comment>KK5045-03AG</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_3pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_3pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\KK5045-03AG.PcbLib</FootprintPath1>
+		<FootprintRef1>KK5045-03AG</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>KK5045-04AG</PartNumber>
+		<Description>Разъем типа провод-плата, 2.5 мм, 4 контакта</Description>
+		<Comment>KK5045-04AG</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_4pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_4pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\KK5045-04AG.PcbLib</FootprintPath1>
+		<FootprintRef1>KK5045-04AG</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>KK5045-05AG</PartNumber>
+		<Description>Разъем типа провод-плата, 2.5 мм, 5 контакта</Description>
+		<Comment>KK5045-05AG</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_5pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_5pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\KK5045-05AG.PcbLib</FootprintPath1>
+		<FootprintRef1>KK5045-05AG</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>MPW-3</PartNumber>
+		<Description>MPW-3 , Вилка на плату 5.08мм прямая 3pin</Description>
+		<Comment>MPW-3</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_3pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_3pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\MPW-3.PcbLib</FootprintPath1>
+		<FootprintRef1>MPW-3</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>MPW-4</PartNumber>
+		<Description>MPW-4 , Вилка на плату 5.08мм прямая 4pin</Description>
+		<Comment>MPW-4</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_4pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_4pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\MPW-4.PcbLib</FootprintPath1>
+		<FootprintRef1>MPW-4</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>MPW-8</PartNumber>
+		<Description>MPW-8 , Вилка на плату 5.08мм прямая 8pin</Description>
+		<Comment>MPW-8</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_8pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_8pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\MPW-8.PcbLib</FootprintPath1>
+		<FootprintRef1>MPW-8</FootprintRef1>
 	</Part>
 </Connectors>
