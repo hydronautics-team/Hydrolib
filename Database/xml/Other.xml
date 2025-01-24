@@ -76,7 +76,6 @@
 		<FootprintPath1>Footprints\fuse_20x5_on_clips_FC-M.PcbLib</FootprintPath1>
 		<FootprintRef1>fuse_20x5_on_clips_FC-M</FootprintRef1>
 	</Part>
-<<<<<<< HEAD
 	<Part>
 		<PartNumber>DHT22</PartNumber>
 		<Description>Датчик температуры и влажности на базе AM2302</Description>
@@ -95,6 +94,4 @@
 		<FootprintPath1>Footprints\cooler4040.PcbLib</FootprintPath1>
 		<FootprintRef1>cooler4040</FootprintRef1>
 	</Part>
-=======
->>>>>>> parent of c7cb028 (Добавил малину)
 </Other>

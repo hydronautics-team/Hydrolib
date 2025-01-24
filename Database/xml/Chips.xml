@@ -225,7 +225,6 @@
 		<FootprintPath1>Footprints\SOIC-16.PcbLib</FootprintPath1>
 		<FootprintRef1>SOIC-16</FootprintRef1>
 	</Part>
-<<<<<<< HEAD
 	<Part>
 		<PartNumber>MT3608</PartNumber>
 		<Description>Повышающий/SEPIC DC-DC преобразователь 2А 1.2МГц</Description>
@@ -261,6 +260,12 @@
 		<FootprintPath1>Footprints\RPI.PcbLib</FootprintPath1>
 		<FootprintRef1>RPI</FootprintRef1>
 	</Part>
-=======
->>>>>>> parent of c7cb028 (Добавил малину)
+	<Part>
+		<PartNumber>LTC4418</PartNumber>
+		<Comment>LTC4418</Comment>
+		<LibraryPath>Schematic\LTC4418.SchLib</LibraryPath>
+		<LibraryRef>LTC4418</LibraryRef>
+		<FootprintPath1>Footprints\QFN50.PcbLib</FootprintPath1>
+		<FootprintRef1>QFN50</FootprintRef1>
+	</Part>
 </Chips>

@@ -1881,4 +1881,26 @@
 		<FootprintPath1>Footprints/Resistors/3mm_trim.PcbLib</FootprintPath1>
 		<FootprintRef1>3mm_trim</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>TC33X-2-101E</PartNumber>
+		<Description>Потенциометр керметный 100 Ом 0.1Вт для поверхностного монтажа</Description>
+		<Comment>TC33X-2-101E</Comment>
+		<LibraryPath>Schematic\trim_res.SchLib</LibraryPath>
+		<LibraryRef>trim_res</LibraryRef>
+		<Value>100</Value>
+		<Tolerance>0.5</Tolerance>
+		<FootprintPath1>Footprints/Resistors/3mm_trim.PcbLib</FootprintPath1>
+		<FootprintRef1>3mm_trim</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>TC33X-2-503E</PartNumber>
+		<Description>Потенциометр однооборотный керметный 50кОм 0.1Вт ±25% SMD лента на катушке</Description>
+		<Comment>TC33X-2-503E</Comment>
+		<LibraryPath>Schematic\trim_res.SchLib</LibraryPath>
+		<LibraryRef>trim_res</LibraryRef>
+		<Value>50 к</Value>
+		<Tolerance>0.5</Tolerance>
+		<FootprintPath1>Footprints/Resistors/3mm_trim.PcbLib</FootprintPath1>
+		<FootprintRef1>3mm_trim</FootprintRef1>
+	</Part>
 </Resistors>

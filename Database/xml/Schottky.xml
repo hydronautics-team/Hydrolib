@@ -2,7 +2,7 @@
 <Schottky xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Part>
 		<PartNumber>SK33</PartNumber>
-		<Description>Диод шоттки на 30 В, номинальный ток 3 А</Description>
+		<Description>Диод шоттки на 30 В, ном. ток 3 А</Description>
 		<Comment>SK33</Comment>
 		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
 		<LibraryRef>Schottky_diode</LibraryRef>
@@ -13,7 +13,7 @@
 	</Part>
 	<Part>
 		<PartNumber>SK32</PartNumber>
-		<Description>Диод шоттки на 20 В, номинальный ток 3 А</Description>
+		<Description>Диод шоттки на 20 В, ном. ток 3 А</Description>
 		<Comment>SK32</Comment>
 		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
 		<LibraryRef>Schottky_diode</LibraryRef>
@@ -24,7 +24,7 @@
 	</Part>
 	<Part>
 		<PartNumber>BAT54WS</PartNumber>
-		<Description>Диод шоттки на 30 В, номинальный ток 0.2 А</Description>
+		<Description>Диод шоттки на 30 В, ном. ток 0.2 А</Description>
 		<Comment>BAT54WS</Comment>
 		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
 		<LibraryRef>Schottky_diode</LibraryRef>
@@ -35,7 +35,7 @@
 	</Part>
 	<Part>
 		<PartNumber>10S45SP</PartNumber>
-		<Description>Диод шоттки на 45 В, номинальный ток 10 А</Description>
+		<Description>Диод шоттки на 45 В, ном. ток 10 А</Description>
 		<Comment>10S45SP</Comment>
 		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
 		<LibraryRef>Schottky_diode</LibraryRef>
@@ -46,7 +46,7 @@
 	</Part>
 	<Part>
 		<PartNumber>SK810</PartNumber>
-		<Description>Диод шоттки на 100 В, номинальный ток 8 А</Description>
+		<Description>Диод шоттки на 100 В, ном. ток 8 А</Description>
 		<Comment>SK810</Comment>
 		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
 		<LibraryRef>Schottky_diode</LibraryRef>
@@ -54,5 +54,27 @@
 		<FootprintRef1>SMC</FootprintRef1>
 		<VoltageNominal_V>100</VoltageNominal_V>
 		<Current_A>8</Current_A>
+	</Part>
+	<Part>
+		<PartNumber>15MQ040N</PartNumber>
+		<Description>Диод шоттки на 40 В, ном. ток 2.1 А</Description>
+		<Comment>15MQ040N</Comment>
+		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
+		<LibraryRef>Schottky_diode</LibraryRef>
+		<FootprintPath1>Footprints\SMA.PcbLib</FootprintPath1>
+		<FootprintRef1>SMA</FootprintRef1>
+		<VoltageNominal_V>40</VoltageNominal_V>
+		<Current_A>2.1</Current_A>
+	</Part>
+	<Part>
+		<PartNumber>BAS70-04-7-F</PartNumber>
+		<Description>Диод шоттки на 70 В, ном. ток 0,7 А</Description>
+		<Comment>BAS70-04-7-F</Comment>
+		<LibraryPath>Schematic\BAS70-04-7-F.schLib</LibraryPath>
+		<LibraryRef>BAS70-04-7-F</LibraryRef>
+		<FootprintPath1>Footprints\SOT23.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23</FootprintRef1>
+		<VoltageNominal_V>70</VoltageNominal_V>
+		<Current_A>0,7</Current_A>
 	</Part>
 </Schottky>
