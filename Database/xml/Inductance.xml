@@ -59,4 +59,30 @@
 		<Current>5</Current>
 		<Value>22 мк</Value>
 	</Part>
+	<Part>
+		<PartNumber>B82462G4223M</PartNumber>
+		<Description>ЧИП-индуктивность 22мкГн, 1.05A, ±20% </Description>
+		<Comment>B82462G4223M</Comment>
+		<FootprintPath1>Footprints\Inductance\B82462G4.PcbLib</FootprintPath1>
+		<FootprintRef1>B82462G4</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Inductance>22</Inductance>
+		<Current>1.05</Current>
+		<Value>22 мк</Value>
+	</Part>
+	<Part>
+		<PartNumber>CSAB0530-R33M</PartNumber>
+		<Description>ЧИП-индуктивность 0.33мкГн, 15A, ±20% </Description>
+		<Comment>CSAB0530-R33M</Comment>
+		<FootprintPath1>Footprints\Inductance\CSAB0530.PcbLib</FootprintPath1>
+		<FootprintRef1>CSAB0530</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Inductance>0.33</Inductance>
+		<Current>15</Current>
+		<Value>0.33 мк</Value>
+	</Part>
 </Inductance>

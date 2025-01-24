@@ -94,4 +94,13 @@
 		<FootprintPath1>Footprints\cooler4040.PcbLib</FootprintPath1>
 		<FootprintRef1>cooler4040</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>cooler3030</PartNumber>
+		<Description>вентилятор 30*30 с дыркой на плате</Description>
+		<Comment>cooler3030</Comment>
+		<LibraryPath>Schematic\cooler4040.SchLib</LibraryPath>
+		<LibraryRef>cooler4040</LibraryRef>
+		<FootprintPath1>Footprints\cooler3030.PcbLib</FootprintPath1>
+		<FootprintRef1>cooler3030</FootprintRef1>
+	</Part>
 </Other>
