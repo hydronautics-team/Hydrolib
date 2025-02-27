@@ -77,4 +77,37 @@
 		<VoltageNominal_V>70</VoltageNominal_V>
 		<Current_A>0,7</Current_A>
 	</Part>
+	<Part>
+		<PartNumber>SK56</PartNumber>
+		<Description>Диод шоттки на 60 В, ном. ток 5 А</Description>
+		<Comment>SK56</Comment>
+		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
+		<LibraryRef>Schottky_diode</LibraryRef>
+		<FootprintPath1>Footprints\SMC.PcbLib</FootprintPath1>
+		<FootprintRef1>SMC</FootprintRef1>
+		<VoltageNominal_V>60</VoltageNominal_V>
+		<Current_A>5</Current_A>
+	</Part>
+	<Part>
+		<PartNumber>SK54</PartNumber>
+		<Description>Диод шоттки на 40 В, ном. ток 5 А</Description>
+		<Comment>SK54</Comment>
+		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
+		<LibraryRef>Schottky_diode</LibraryRef>
+		<FootprintPath1>Footprints\SMC.PcbLib</FootprintPath1>
+		<FootprintRef1>SMC</FootprintRef1>
+		<VoltageNominal_V>40</VoltageNominal_V>
+		<Current_A>5</Current_A>
+	</Part>
+	<Part>
+		<PartNumber>B550C</PartNumber>
+		<Description>Диод шоттки на 50 В, ном. ток 5 А</Description>
+		<Comment>B550C</Comment>
+		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
+		<LibraryRef>Schottky_diode</LibraryRef>
+		<FootprintPath1>Footprints\SMC.PcbLib</FootprintPath1>
+		<FootprintRef1>SMC</FootprintRef1>
+		<VoltageNominal_V>50</VoltageNominal_V>
+		<Current_A>5</Current_A>
+	</Part>
 </Schottky>
