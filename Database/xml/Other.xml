@@ -48,6 +48,8 @@
 		<FootprintRef1>0805SB</FootprintRef1>
 		<FootprintPath2>Footprints\1206SB.PcbLib</FootprintPath2>
 		<FootprintRef2>1206SB</FootprintRef2>
+		<FootprintPath3>Footprints\0805SB_wide_gap.PcbLib</FootprintPath3>
+		<FootprintRef3>0805SB_wide_gap</FootprintRef3>
 	</Part>
 	<Part>
 		<PartNumber>CBM432AST23</PartNumber>
@@ -103,4 +105,5 @@
 		<FootprintPath1>Footprints\cooler3030.PcbLib</FootprintPath1>
 		<FootprintRef1>cooler3030</FootprintRef1>
 	</Part>
+	<Part/>
 </Other>

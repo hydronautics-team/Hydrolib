@@ -69,7 +69,7 @@
 		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
 		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
 		<Inductance>22</Inductance>
-		<Current>1.05</Current>
+		<Current>1,05</Current>
 		<Value>22 мк</Value>
 	</Part>
 	<Part>
@@ -84,5 +84,31 @@
 		<Inductance>0.33</Inductance>
 		<Current>15</Current>
 		<Value>0.33 мк</Value>
+	</Part>
+	<Part>
+		<PartNumber>B82477R4683M100</PartNumber>
+		<Description>Индуктивность на 68 мкГн, номинальный ток 2,65 A</Description>
+		<Comment>B82477R4683M100</Comment>
+		<FootprintPath1>Footprints\Inductance\12.5x12.5.PcbLib</FootprintPath1>
+		<FootprintRef1>12.5x12.5</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Inductance>68</Inductance>
+		<Current>2.65</Current>
+		<Value>68 мк</Value>
+	</Part>
+	<Part>
+		<PartNumber>SDR0403-120ML</PartNumber>
+		<Description>Индуктивность на 12 мкГн, номинальный ток 1,05 A</Description>
+		<Comment>SDR0403-120ML</Comment>
+		<FootprintPath1>Footprints\Inductance\4.5x4_wired.PcbLib</FootprintPath1>
+		<FootprintRef1>4.5x4_wired</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Inductance>12</Inductance>
+		<Current>1.05</Current>
+		<Value>12 мк</Value>
 	</Part>
 </Inductance>
