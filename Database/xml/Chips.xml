@@ -254,6 +254,7 @@
 	</Part>
 	<Part>
 		<PartNumber>RPI</PartNumber>
+		<Description>Одноплатный компьютер Raspberry PI 4B</Description>
 		<Comment>RPI</Comment>
 		<LibraryPath>Schematic\RPI.SchLib</LibraryPath>
 		<LibraryRef>RPI</LibraryRef>
@@ -262,10 +263,38 @@
 	</Part>
 	<Part>
 		<PartNumber>LTC4418</PartNumber>
+		<Description>Переключатель питания</Description>
 		<Comment>LTC4418</Comment>
 		<LibraryPath>Schematic\LTC4418.SchLib</LibraryPath>
 		<LibraryRef>LTC4418</LibraryRef>
 		<FootprintPath1>Footprints\QFN50.PcbLib</FootprintPath1>
 		<FootprintRef1>QFN50</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>NE555</PartNumber>
+		<Description>Таймер интегральный прецизионный</Description>
+		<Comment>NE555</Comment>
+		<LibraryPath>Schematic\NE555.SchLib</LibraryPath>
+		<LibraryRef>NE555</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>LM393</PartNumber>
+		<Description>Двойной маломощный компаратор напряжения</Description>
+		<Comment>LM393</Comment>
+		<LibraryPath>Schematic\LM393.SchLib</LibraryPath>
+		<LibraryRef>LM393</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>LD7575</PartNumber>
+		<Description>Высоковольтный ШИМ-контроллер со схемой мягкого запуска</Description>
+		<Comment>LD7575</Comment>
+		<LibraryPath>Schematic\LD7575.SchLib</LibraryPath>
+		<LibraryRef>LD7575</LibraryRef>
+		<FootprintPath1>Footprints\SOP8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOP8</FootprintRef1>
 	</Part>
 </Chips>

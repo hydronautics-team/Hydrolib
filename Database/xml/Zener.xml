@@ -23,7 +23,20 @@
 		<FootprintRef1>mini_MELF_3.5mm</FootprintRef1>
 		<VoltageNominal>2.4</VoltageNominal>
 		<CurrentNominal>5</CurrentNominal>
-		<Power>0.3</Power>
+		<Power>0.5</Power>
 		<Value>2.4 В</Value>
+	</Part>
+	<Part>
+		<PartNumber>BZX84-B11</PartNumber>
+		<Description>Стабилитрон на 11 В, рассеиваемая мощность 0.25 Вт</Description>
+		<Comment>BZX84-B11</Comment>
+		<LibraryPath>Schematic\Zener_3pin.SchLib</LibraryPath>
+		<LibraryRef>Zener_3pin</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-3.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-3</FootprintRef1>
+		<VoltageNominal>11</VoltageNominal>
+		<CurrentNominal>5</CurrentNominal>
+		<Power>0.25</Power>
+		<Value>11 В</Value>
 	</Part>
 </Zener>

@@ -19,12 +19,12 @@
 		<FootprintRef1>D-SUB-26</FootprintRef1>
 	</Part>
 	<Part>
-		<PartNumber>PLS4</PartNumber>
+		<PartNumber>PLS-4</PartNumber>
 		<Description>Гребенка 4 пина</Description>
-		<Comment>PLS4</Comment>
+		<Comment>PLS-4</Comment>
 		<LibraryPath>Schematic\Connectors\Conn_4pin.SchLib</LibraryPath>
 		<LibraryRef>Conn_4pin</LibraryRef>
-		<FootprintPath1>Footprints\Connectors\PLS\PLS4.PcbLib</FootprintPath1>
+		<FootprintPath1>Footprints\Connectors\PLS\PLS_ALL.PcbLib</FootprintPath1>
 		<FootprintRef1>PLS4</FootprintRef1>
 	</Part>
 	<Part>
@@ -223,5 +223,14 @@
 		<LibraryRef>Conn_8pin</LibraryRef>
 		<FootprintPath1>Footprints\Connectors\MPW-8.PcbLib</FootprintPath1>
 		<FootprintRef1>MPW-8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>PLS-2</PartNumber>
+		<Description>Гребенка 2 пина</Description>
+		<Comment>PLS-2</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_2pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_2pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\PLS\PLS_ALL.PcbLib</FootprintPath1>
+		<FootprintRef1>PLS2</FootprintRef1>
 	</Part>
 </Connectors>
