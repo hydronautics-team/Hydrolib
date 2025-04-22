@@ -3,561 +3,521 @@
 	<Part>
 		<PartNumber>Capacitor_1n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>1 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>1</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>1 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_1,2n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>1,2 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>1.2</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>1,2 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_1,5n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>1,5 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>1.5</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>1,5 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_1,8n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>1,8 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>1.8</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>1,8 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_2,2n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>2,2 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>2.2</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>2,2 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_2,7n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>2,7 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>2.7</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>2,7 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_3,3n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>3,3 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>3.3</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>3,3 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_3,9n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>3,9 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>3.9</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>3,9 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_4,7n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>4,7 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>4.7</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>4,7 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_5,6n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>5,6 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>5.6</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>5,6 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_6,8n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>6,8 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>6.8</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>6,8 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_8,2n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>8,2 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>8.2</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>8,2 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_10n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>10 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>10</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>10 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_12n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>12 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>12</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>12 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_15n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>15 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>15</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>15 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_18n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>18 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>18</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>18 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_22n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>22 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>22</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>22 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_27n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>27 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>27</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>27 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_33n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>33 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>33</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>33 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_39n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>39 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>39</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>39 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_47n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>47 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>47</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>47 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_56n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>56 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>56</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>56 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_68n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>68 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>68</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>68 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_82n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>82 н</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>82</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>82 н</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_0,1u_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>0,1 мк</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>100</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>0,1 мк</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_0,12u_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>0,12 мк</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>120</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>0,12 мк</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_0,15u_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>0,15 мк</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>150</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>0,15 мк</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_0,18u_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>0,18 мк</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>180</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>0,18 мк</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_0,22u_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>0,22 мк</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>220</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>0,22 мк</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_0,27u_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>0,27 мк</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>270</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>0,27 мк</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_0,33u_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>0,33 мк</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>330</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>0,33 мк</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_0,39u_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>0,39 мк</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>390</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>0,39 мк</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_0,47u_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>0,47 мк</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>470</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>0,47 мк</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_0,56u_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>0,56 мк</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>560</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>0,56 мк</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_0,68u_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>0,68 мк</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>680</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>0,68 мк</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_0,82u_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>0,82 мк</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>820</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>0,82 мк</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_1u_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>1 мк</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
-		<FootprintRef1>0603C</FootprintRef1>
-		<Capacity>1000</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>1 мк</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_4,7u_10_50V_X7R_1206C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>4,7 мк</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\1206C.PcbLib</FootprintPath1>
-		<FootprintRef1>1206C</FootprintRef1>
-		<Capacity>4700</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>4,7 мк</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\1206C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_10u_10_35V_X7R_1210C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>10 мк</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>35</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\1210C.PcbLib</FootprintPath1>
-		<FootprintRef1>1210C</FootprintRef1>
-		<Capacity>10000</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>10 мк</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>35</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\1210C.PcbLib</Capacity>
 	</Part>
 	<Part>
 		<PartNumber>Capacitor_22u_10_25V_X7R_1210C</PartNumber>
 		<Description>Конденсатор</Description>
-		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
-		<Value>22 мк</Value>
-		<Tolerance>0.1</Tolerance>
-		<Voltage>25</Voltage>
-		<Dielectric>X7R</Dielectric>
-		<FootprintPath1>Footprints\Capacitors\1210C.PcbLib</FootprintPath1>
-		<FootprintRef1>1210C</FootprintRef1>
-		<Capacity>22000</Capacity>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>22 мк</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>25</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\1210C.PcbLib</Capacity>
 	</Part>
 </Capacitors_ceramic>

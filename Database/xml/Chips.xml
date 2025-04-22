@@ -297,4 +297,22 @@
 		<FootprintPath1>Footprints\SOP8.PcbLib</FootprintPath1>
 		<FootprintRef1>SOP8</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>MAX668</PartNumber>
+		<Description>Boost, Flyback, SEPIC преобразователь. 10-uMAX/uSOP</Description>
+		<Comment>MAX668</Comment>
+		<LibraryPath>Schematic\MAX668.SchLib</LibraryPath>
+		<LibraryRef>MAX668</LibraryRef>
+		<FootprintPath1>Footprints\uSOP10.PcbLib</FootprintPath1>
+		<FootprintRef1>uSOP10</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>LTV354T</PartNumber>
+		<Description>Оптопара с транзисторным выходом, UMW</Description>
+		<Comment>LTV354T</Comment>
+		<LibraryPath>Schematic\LTV354.SchLib</LibraryPath>
+		<LibraryRef>LTV354</LibraryRef>
+		<FootprintPath1>Footprints\SOP4-2_54.PcbLib</FootprintPath1>
+		<FootprintRef1>SOP4-2_54</FootprintRef1>
+	</Part>
 </Chips>
