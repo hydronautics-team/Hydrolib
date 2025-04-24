@@ -83,7 +83,7 @@
 		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
 		<Inductance>0.33</Inductance>
 		<Current>15</Current>
-		<Value>0.33 мк</Value>
+		<Value>0,33 мк</Value>
 	</Part>
 	<Part>
 		<PartNumber>B82477R4683M100</PartNumber>
@@ -110,5 +110,18 @@
 		<Inductance>12</Inductance>
 		<Current>1.05</Current>
 		<Value>12 мк</Value>
+	</Part>
+	<Part>
+		<PartNumber>M20VN</PartNumber>
+		<Description>Накопительная индуктивность для обратноходового преобразователя, L1=1.2uH, магнитопровод М20ВН, 20х10х5, первичная обмотка d1.3мм</Description>
+		<Comment>M20VN</Comment>
+		<FootprintPath1>Footprints\Inductance\M20VN.PcbLib</FootprintPath1>
+		<FootprintRef1>M20VN</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Inductance>1.2</Inductance>
+		<Current>15</Current>
+		<Value>1.2 мк</Value>
 	</Part>
 </Inductance>
