@@ -1903,4 +1903,15 @@
 		<FootprintPath1>Footprints/Resistors/3mm_trim.PcbLib</FootprintPath1>
 		<FootprintRef1>3mm_trim</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>CRE2512-FZ-R005E-3</PartNumber>
+		<Description>Резистор номиналом 5 мОм, точностью 1%, 3Вт</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>5 м</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/2512R.PcbLib</FootprintPath1>
+		<FootprintRef1>2512R</FootprintRef1>
+	</Part>
 </Resistors>
