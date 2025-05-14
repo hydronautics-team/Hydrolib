@@ -39,4 +39,17 @@
 		<Power>0.25</Power>
 		<Value>11 В</Value>
 	</Part>
+	<Part>
+		<PartNumber>BZV55-B12</PartNumber>
+		<Description>Стабилитрон 12В, 5%, 0.5Вт</Description>
+		<Comment>BZV55-B12</Comment>
+		<LibraryPath>Schematic\Zener.SchLib</LibraryPath>
+		<LibraryRef>Zener</LibraryRef>
+		<FootprintPath1>Footprints\mini_MELF_3.5mm.PcbLib</FootprintPath1>
+		<FootprintRef1>mini_MELF_3.5mm</FootprintRef1>
+		<VoltageNominal>12</VoltageNominal>
+		<CurrentNominal>5</CurrentNominal>
+		<Power>0.5</Power>
+		<Value>12 В</Value>
+	</Part>
 </Zener>

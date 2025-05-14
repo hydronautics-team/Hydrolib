@@ -96,8 +96,8 @@
 		<Comment>SN74LVC1G17DCKR</Comment>
 		<LibraryPath>Schematic\SN74LVC1G17DCKR.SchLib</LibraryPath>
 		<LibraryRef>SN74LVC1G17DCKR</LibraryRef>
-		<FootprintPath1>Footprints\SOT65P210X110-5N.PcbLib</FootprintPath1>
-		<FootprintRef1>SOT65P210X110-5N</FootprintRef1>
+		<FootprintPath1>Footprints\SC-70-5.PcbLib</FootprintPath1>
+		<FootprintRef1>SC-70-5</FootprintRef1>
 	</Part>
 	<Part>
 		<PartNumber>74LVC1G74DP,125</PartNumber>
@@ -314,5 +314,14 @@
 		<LibraryRef>LTV354</LibraryRef>
 		<FootprintPath1>Footprints\SOP4-2_54.PcbLib</FootprintPath1>
 		<FootprintRef1>SOP4-2_54</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>SN74LVC1G14DCKR</PartNumber>
+		<Description>Одноканальный инвертор с триггером Шмитта</Description>
+		<Comment>SN74LVC1G14DCKR</Comment>
+		<LibraryPath>Schematic\SN74LVC1G14DCKR.SchLib</LibraryPath>
+		<LibraryRef>SN74LVC1G14DCKR</LibraryRef>
+		<FootprintPath1>Footprints\SC-70-5.PcbLib</FootprintPath1>
+		<FootprintRef1>SC-70-5</FootprintRef1>
 	</Part>
 </Chips>
