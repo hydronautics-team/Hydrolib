@@ -110,4 +110,15 @@
 		<VoltageNominal_V>50</VoltageNominal_V>
 		<Current_A>5</Current_A>
 	</Part>
+	<Part>
+		<PartNumber>20MQ100</PartNumber>
+		<Description>Диод шоттки на 100 В, ном. ток 2 А</Description>
+		<Comment>20MQ100</Comment>
+		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
+		<LibraryRef>Schottky_diode</LibraryRef>
+		<FootprintPath1>Footprints\SMA.PcbLib</FootprintPath1>
+		<FootprintRef1>SMA</FootprintRef1>
+		<VoltageNominal_V>100</VoltageNominal_V>
+		<Current_A>2</Current_A>
+	</Part>
 </Schottky>
