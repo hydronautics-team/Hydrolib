@@ -376,4 +376,31 @@
 		<FootprintPath1>Footprints\HTSSOP-20.PcbLib</FootprintPath1>
 		<FootprintRef1>HTSSOP-20</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>IXDN602</PartNumber>
+		<Description>Двухканальный драйвер затвора для mosfet и igbt транзисторов</Description>
+		<Comment>IXDN602</Comment>
+		<LibraryPath>Schematic\IXDN602.SchLib</LibraryPath>
+		<LibraryRef>IXDN602</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>LMC555</PartNumber>
+		<Description>Таймер интегральный прецизионный КМОП</Description>
+		<Comment>LMC555</Comment>
+		<LibraryPath>Schematic\LM393.SchLib</LibraryPath>
+		<LibraryRef>LM393</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>MC3306A</PartNumber>
+		<Description>DC-DC понижающий/повышающий преобразователь, вход: 3 - 40 В, выход: 1,25 - 40 В 1,5 А</Description>
+		<Comment>MC3306A</Comment>
+		<LibraryPath>Schematic\MC3306A.SchLib</LibraryPath>
+		<LibraryRef>MC3306A</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-8</FootprintRef1>
+	</Part>
 </Chips>

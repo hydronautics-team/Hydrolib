@@ -105,4 +105,13 @@
 		<FootprintPath1>Footprints\SOT23-3.PcbLib</FootprintPath1>
 		<FootprintRef1>SOT23-3</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>IRFH7084</PartNumber>
+		<Description>N-канальный MOSFET</Description>
+		<Comment>IRFH7084</Comment>
+		<LibraryPath>Schematic\MOSFET_N-channel_8pin.SchLib</LibraryPath>
+		<LibraryRef>MOSFET_N-channel_8pin</LibraryRef>
+		<FootprintPath1>Footprints\PQFN_5x6.PcbLib</FootprintPath1>
+		<FootprintRef1>PQFN_5x6</FootprintRef1>
+	</Part>
 </Transistors>
