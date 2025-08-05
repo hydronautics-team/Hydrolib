@@ -1914,4 +1914,15 @@
 		<FootprintPath1>Footprints/Resistors/2512R.PcbLib</FootprintPath1>
 		<FootprintRef1>2512R</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>RL1210FR-070R01L</PartNumber>
+		<Description>Резистор номиналом 10 мОм, точностью 1%, 0.5Вт</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>10 м</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/1210R.PcbLib</FootprintPath1>
+		<FootprintRef1>1210R</FootprintRef1>
+	</Part>
 </Resistors>

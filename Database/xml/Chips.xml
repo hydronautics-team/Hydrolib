@@ -324,4 +324,62 @@
 		<FootprintPath1>Footprints\SC-70-5.PcbLib</FootprintPath1>
 		<FootprintRef1>SC-70-5</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>USB2514BM2</PartNumber>
+		<Description>USB 2,0 HUB</Description>
+		<Comment>USB2514BM2</Comment>
+		<LibraryPath/>
+		<LibraryRef>USB2514BM2</LibraryRef>
+		<FootprintPath1>Footprints\VFQFN-36.PcbLib</FootprintPath1>
+		<FootprintRef1>VFQFN-36</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>RTL8367N-VB-CG</PartNumber>
+		<Description>ETH свич 1000base-T</Description>
+		<Comment>RTL8367N-VB-CG</Comment>
+		<LibraryPath>Schematic\RTL8367N-VB-CG.SchLib</LibraryPath>
+		<LibraryRef>RTL8367N-VB-CG</LibraryRef>
+		<FootprintPath1>Footprints\QFN40.PcbLib</FootprintPath1>
+		<FootprintRef1>QFN40</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>CM4</PartNumber>
+		<Comment>CM4</Comment>
+		<LibraryPath>Schematic\CM4.SchLib</LibraryPath>
+		<LibraryRef>CM4</LibraryRef>
+		<FootprintPath1>Footprints\CM4.PcbLib</FootprintPath1>
+		<FootprintRef1>CM4-DF40HC(3.0)-100DS-0.4v_3mm_1.5mm</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>CM5</PartNumber>
+		<Comment>CM5</Comment>
+		<LibraryPath>Schematic\CM4.SchLib</LibraryPath>
+		<LibraryRef>CM5</LibraryRef>
+		<FootprintPath1>Footprints\CM4.PcbLib</FootprintPath1>
+		<FootprintRef1>CM4-DF40HC(3.0)-100DS-0.4v_3mm_1.5mm</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>ADP2301AUJZ-R7</PartNumber>
+		<Description>DC-DC преобразователь понижающий ADJ 1.2А</Description>
+		<Comment>ADP2301AUJZ-R7</Comment>
+		<LibraryPath>Schematic\ADP2300.SchLib</LibraryPath>
+		<LibraryRef>ADP2300</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-6.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-6</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>LM5116MH</PartNumber>
+		<Description>dc-dc понижающий adj 6-100v </Description>
+		<Comment>LM5116MH</Comment>
+		<LibraryPath>Schematic\LM5116MH.SchLib</LibraryPath>
+		<LibraryRef>LM5116MH</LibraryRef>
+		<FootprintPath1>Footprints\SOP65P640X110-21N.PcbLib</FootprintPath1>
+		<FootprintRef1>SOP65P640X110-21N</FootprintRef1>
+	</Part>
+	<Part>
+		<Comment>0</Comment>
+		<LibraryPath>Schematic\.SchLib</LibraryPath>
+		<LibraryRef>0</LibraryRef>
+		<FootprintPath1>Footprints\.PcbLib</FootprintPath1>
+	</Part>
 </Chips>
