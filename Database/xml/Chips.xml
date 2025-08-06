@@ -328,7 +328,7 @@
 		<PartNumber>USB2514BM2</PartNumber>
 		<Description>USB 2,0 HUB</Description>
 		<Comment>USB2514BM2</Comment>
-		<LibraryPath/>
+		<LibraryPath>Schematic\USB2514BM2.Schlib</LibraryPath>
 		<LibraryRef>USB2514BM2</LibraryRef>
 		<FootprintPath1>Footprints\VFQFN-36.PcbLib</FootprintPath1>
 		<FootprintRef1>VFQFN-36</FootprintRef1>
