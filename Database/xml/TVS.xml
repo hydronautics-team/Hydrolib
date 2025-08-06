@@ -94,4 +94,16 @@
 		<Power>1500</Power>
 		<Value>30 В</Value>
 	</Part>
+	<Part>
+		<PartNumber>SMBJ16CA</PartNumber>
+		<Description>Защитный диод двунаправленный 600Вт 16В</Description>
+		<Comment>SMBJ16CA</Comment>
+		<LibraryPath>Schematic\TVS\TVS_1_1dir.SchLib</LibraryPath>
+		<LibraryRef>TVS_1_1dir</LibraryRef>
+		<FootprintPath1>Footprints\SMB.PcbLib</FootprintPath1>
+		<FootprintRef1>SMB</FootprintRef1>
+		<VoltageNominal>16</VoltageNominal>
+		<Power>600</Power>
+		<Value>16 В</Value>
+	</Part>
 </TVS>
