@@ -87,4 +87,22 @@
 		<FootprintPath1>Footprints\D2PAK.PcbLib</FootprintPath1>
 		<FootprintRef1>D2PAK</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>SIR426DP-T1-GE3</PartNumber>
+		<Description>Транзистор полевой MOSFET N-канальный 40В 41.7Вт</Description>
+		<Comment>SIR426DP-T1-GE3</Comment>
+		<LibraryPath>Schematic\SIR426DP-T1-GE3.SchLib</LibraryPath>
+		<LibraryRef>SIR426DP-T1-GE3</LibraryRef>
+		<FootprintPath1>Footprints\PowerPAK_SO-8.PcbLib</FootprintPath1>
+		<FootprintRef1>PowerPAK_SO-8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>PDTC114ET</PartNumber>
+		<Description>цифровой npn 50в 100мА </Description>
+		<Comment>PDTC114ET</Comment>
+		<LibraryPath>Schematic\PDTC114ET.SchLib</LibraryPath>
+		<LibraryRef>PDTC114ET</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-3.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-3</FootprintRef1>
+	</Part>
 </Transistors>
