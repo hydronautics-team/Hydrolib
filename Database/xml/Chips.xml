@@ -376,10 +376,4 @@
 		<FootprintPath1>Footprints\SOP65P640X110-21N.PcbLib</FootprintPath1>
 		<FootprintRef1>SOP65P640X110-21N</FootprintRef1>
 	</Part>
-	<Part>
-		<Comment>0</Comment>
-		<LibraryPath>Schematic\.SchLib</LibraryPath>
-		<LibraryRef>0</LibraryRef>
-		<FootprintPath1>Footprints\.PcbLib</FootprintPath1>
-	</Part>
 </Chips>
