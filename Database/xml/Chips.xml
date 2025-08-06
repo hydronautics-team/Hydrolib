@@ -373,7 +373,7 @@
 		<Comment>LM5116MH</Comment>
 		<LibraryPath>Schematic\LM5116MH.SchLib</LibraryPath>
 		<LibraryRef>LM5116MH</LibraryRef>
-		<FootprintPath1>Footprints\SOP65P640X110-21N.PcbLib</FootprintPath1>
-		<FootprintRef1>SOP65P640X110-21N</FootprintRef1>
+		<FootprintPath1>Footprints\HTSSOP-20.PcbLib</FootprintPath1>
+		<FootprintRef1>HTSSOP-20</FootprintRef1>
 	</Part>
 </Chips>
