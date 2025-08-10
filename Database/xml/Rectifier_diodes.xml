@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Rectifier_diodes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Part>
+		<PartNumber>S2M</PartNumber>
+		<Description>Выпрямительный диод на 1000 В, ном. ток 2 А</Description>
+		<Comment>S2M</Comment>
+		<LibraryPath>Schematic\Rectifier_diode.schLib</LibraryPath>
+		<LibraryRef>Rectifier_diode</LibraryRef>
+		<FootprintPath1>Footprints\SMB.PcbLib</FootprintPath1>
+		<FootprintRef1>SMB</FootprintRef1>
+		<RepetitivePeakReverseVoltage>1000</RepetitivePeakReverseVoltage>
+		<Current>2</Current>
+	</Part>
+	<Part>
+		<PartNumber>ES1D-E3/61T</PartNumber>
+		<Description>Диод 1A 200V</Description>
+		<Comment>ES1D-E3/61T</Comment>
+		<LibraryPath>Schematic\Rectifier_diode.schLib</LibraryPath>
+		<LibraryRef>Rectifier_diode</LibraryRef>
+		<FootprintPath1>Footprints\SMA.PcbLib</FootprintPath1>
+		<FootprintRef1>SMA</FootprintRef1>
+		<RepetitivePeakReverseVoltage>200</RepetitivePeakReverseVoltage>
+		<Current>1</Current>
+	</Part>
+</Rectifier_diodes>
