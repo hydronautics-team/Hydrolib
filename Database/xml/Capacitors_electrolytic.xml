@@ -308,4 +308,60 @@
 		<FootprintRef1>CAP_EEVFK1V102M</FootprintRef1>
 		<Capacity>1000</Capacity>
 	</Part>
+	<Part>
+		<PartNumber>JRB2G3R3M03500800120000B</PartNumber>
+		<Description>К50-35, 3.3мкФ, 400В, 105°C, 20%, 8x12мм P:3.5мм</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>3.3 мк</Value>
+		<Tolerance>20</Tolerance>
+		<Voltage>400</Voltage>
+		<Type>Aluminum</Type>
+		<FootprintPath1>Footprints\Capacitors\8x12_radial.PcbLib</FootprintPath1>
+		<FootprintRef1>8x12_radial</FootprintRef1>
+		<Capacity>3.3</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>JCCON 2700uF 400V</PartNumber>
+		<Description>Конденсатор алюминиевый электролитический 2700мкФ 400В 20% </Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>2700 мк</Value>
+		<Tolerance>20</Tolerance>
+		<Voltage>400</Voltage>
+		<Type>Aluminum</Type>
+		<FootprintPath1>Footprints\Capacitors\42x103_radial.PcbLib</FootprintPath1>
+		<FootprintRef1>42x103_radial</FootprintRef1>
+		<Capacity>2700</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>JCK1V331</PartNumber>
+		<Description>Конденсатор алюминиевый электролитический 1000мкФ 25В 20% Low ESR 1100мА SMD12.5x13.5мм</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>330 мк</Value>
+		<Tolerance>20</Tolerance>
+		<Voltage>35</Voltage>
+		<Type>SMD Aluminum</Type>
+		<FootprintPath1>Footprints\Capacitors\ECAP_SMD_10,3x10,3.PcbLib</FootprintPath1>
+		<FootprintRef1>ECAP_SMD_10,3x10,3</FootprintRef1>
+		<Capacity>330</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>JCK1V101</PartNumber>
+		<Description>Конденсатор алюминиевый электролитический 100мкФ 35В 20% SMD 6,6x6,6 мм</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>100 мк</Value>
+		<Tolerance>20</Tolerance>
+		<Voltage>35</Voltage>
+		<Type>SMD Aluminum</Type>
+		<FootprintPath1>Footprints\Capacitors\ECAP_SMD_6,6x6,6.PcbLib</FootprintPath1>
+		<FootprintRef1>ECAP_SMD_6,6x6,6</FootprintRef1>
+		<Capacity>100</Capacity>
+	</Part>
 </Capacitors_electrolytic>

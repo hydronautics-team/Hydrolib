@@ -114,7 +114,7 @@
 	<Part>
 		<PartNumber>M20VN</PartNumber>
 		<Description>Накопительная индуктивность для обратноходового преобразователя, L1=1.2uH, магнитопровод М20ВН, 20х10х5, первичная обмотка d1.3мм</Description>
-		<Comment>M20VN</Comment>
+		<Comment>М20ВН 20х10х5</Comment>
 		<FootprintPath1>Footprints\Inductance\M20VN.PcbLib</FootprintPath1>
 		<FootprintRef1>M20VN</FootprintRef1>
 		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
@@ -123,5 +123,82 @@
 		<Inductance>1.2</Inductance>
 		<Current>15</Current>
 		<Value>1.2 мк</Value>
+	</Part>
+	<Part>
+		<PartNumber>IHLP4040DZER470M11</PartNumber>
+		<Description>ЧИП-индуктивность экранированная 47мкГн ±20% 3,3A 145мОм 4040</Description>
+		<Comment>IHLP4040DZER470M11</Comment>
+		<FootprintPath1>Footprints\Inductance\IHLP-4040.PcbLib</FootprintPath1>
+		<FootprintRef1>IHLP-4040</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Inductance>47</Inductance>
+		<Current>3.3</Current>
+		<Value>47 мк</Value>
+	</Part>
+	<Part>
+		<PartNumber>IHLP4040DZER101M11</PartNumber>
+		<Description>ЧИП-индуктивность экранированная 100мкГн ±20% 2,5A 270мОм 4040</Description>
+		<Comment>IHLP4040DZER101M11</Comment>
+		<FootprintPath1>Footprints\Inductance\IHLP-4040.PcbLib</FootprintPath1>
+		<FootprintRef1>IHLP-4040</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Inductance>100</Inductance>
+		<Current>3.3</Current>
+		<Value>100 мк</Value>
+	</Part>
+	<Part>
+		<PartNumber>HV_trans</PartNumber>
+		<Description>Импульсный трансформатор для поджига вспышки</Description>
+		<Comment>HV_trans</Comment>
+		<FootprintPath1>Footprints\Inductance\EE16_transformer.PcbLib</FootprintPath1>
+		<FootprintRef1>EE16_transformer</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Current>10000</Current>
+		<Value>0</Value>
+	</Part>
+	<Part>
+		<PartNumber>CDSPRH127-150M</PartNumber>
+		<Description>Индуктивность на 15 мкГн, номинальный ток 8,4 А</Description>
+		<Comment>CDSPRH127-150M</Comment>
+		<FootprintPath1>Footprints\Inductance\SPRH127.PcbLib</FootprintPath1>
+		<FootprintRef1>SPRH127</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Inductance>15</Inductance>
+		<Current>8.4</Current>
+		<Value>15 мк</Value>
+	</Part>
+	<Part>
+		<PartNumber>CDSP43-1R0M</PartNumber>
+		<Description>Индуктивность на 1 мкГн, номинальный ток 4,3 A</Description>
+		<Comment>CDSP43-1R0M</Comment>
+		<FootprintPath1>Footprints\Inductance\4.5x4_wired.PcbLib</FootprintPath1>
+		<FootprintRef1>4.5x4_wired</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Inductance>1</Inductance>
+		<Current>4.3</Current>
+		<Value>1 мк</Value>
+	</Part>
+	<Part>
+		<PartNumber>CDSPRH127-331M</PartNumber>
+		<Description>Индуктивность на 330 мкГн, номинальный ток 1,79 A</Description>
+		<Comment>CDSPRH127-331M</Comment>
+		<FootprintPath1>Footprints\Inductance\12.8x12.8.PcbLib</FootprintPath1>
+		<FootprintRef1>12.8x12.8</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Inductance>330</Inductance>
+		<Current>1.79</Current>
+		<Value>330 мк</Value>
 	</Part>
 </Inductance>

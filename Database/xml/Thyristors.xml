@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Thyristors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Part>
+		<PartNumber>TS820-600B-TR</PartNumber>
+		<Description>Тиристор 600В 8А</Description>
+		<Comment>TS820-600B-TR</Comment>
+		<LibraryPath>Schematic\thyristor1K2A3G.SchLib</LibraryPath>
+		<LibraryRef>thyristor</LibraryRef>
+		<FootprintPath1>Footprints\DPAK.PcbLib</FootprintPath1>
+		<FootprintRef1>DPAK</FootprintRef1>
+		<Voltage>600 В</Voltage>
+		<Current>8 А</Current>
+	</Part>
+</Thyristors>

@@ -10,6 +10,8 @@
 		<FootprintRef1>Button_SMD_10mm</FootprintRef1>
 		<FootprintPath2>Footprints\Buttons\Button_SMD_6x6.PcbLib</FootprintPath2>
 		<FootprintRef2>Button_SMD_6x6</FootprintRef2>
+		<FootprintPath3>Footprints\Buttons\Button_tht_6X6.PcbLib</FootprintPath3>
+		<FootprintRef3>Button_tht_6X6</FootprintRef3>
 	</Part>
 	<Part>
 		<PartNumber>LED</PartNumber>
@@ -19,6 +21,8 @@
 		<LibraryRef>LED</LibraryRef>
 		<FootprintPath1>Footprints\0805D.PcbLib</FootprintPath1>
 		<FootprintRef1>0805D</FootprintRef1>
+		<FootprintPath2>Footprints\3mm_led_red.PcbLib</FootprintPath2>
+		<FootprintRef2>3mm_led_red</FootprintRef2>
 	</Part>
 	<Part>
 		<PartNumber>XTAL</PartNumber>
@@ -105,5 +109,43 @@
 		<FootprintPath1>Footprints\cooler3030.PcbLib</FootprintPath1>
 		<FootprintRef1>cooler3030</FootprintRef1>
 	</Part>
-	<Part/>
+	<Part>
+		<PartNumber>SMT_spacer_nut</PartNumber>
+		<Description>Стойка под пайку, М2.5, высота 3мм, SMT spacer nut - ключевые слова, Hangzhou WildChip Tech Co., Ltd. Store магазин на алике</Description>
+		<Comment>SMT spacer</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_1pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_1pin</LibraryRef>
+		<FootprintPath1>Footprints\SMT_spacer_nut.PcbLib</FootprintPath1>
+		<FootprintRef1>9774030151</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>spacer_m2.5_h16</PartNumber>
+		<Description>Стойка М2.5, высота 16мм</Description>
+		<Comment>Spacer m2.5 h16</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_1pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_1pin</LibraryRef>
+		<FootprintPath1>Footprints\spacer_m2.5_h16.PcbLib</FootprintPath1>
+		<FootprintRef1>spacer_m2.5_h16</FootprintRef1>
+		<FootprintPath3>Footprints\.PcbLib</FootprintPath3>
+	</Part>
+	<Part>
+		<PartNumber>CR2032-VAY3-15.2</PartNumber>
+		<Description>Li, MnO2 батарея типоразмера R20, 3В, 0.22Ач, приваренные выводы, -20...60 °C</Description>
+		<Comment>CR2032-VAY3-15.2</Comment>
+		<LibraryPath>Schematic\Battery.SchLib</LibraryPath>
+		<LibraryRef>Battery</LibraryRef>
+		<FootprintPath1>Footprints\CR2032-VAY3-15.2.PcbLib</FootprintPath1>
+		<FootprintRef1>CR2032-VAY3-15.2</FootprintRef1>
+		<FootprintPath3>Footprints\.PcbLib</FootprintPath3>
+	</Part>
+	<Part>
+		<PartNumber>4WayDIP</PartNumber>
+		<Description>4 позиционный движковый переключатель</Description>
+		<Comment>4 Way Through Hole DIP Switch SPST</Comment>
+		<LibraryPath>Schematic\4WayDIP.SchLib</LibraryPath>
+		<LibraryRef>CMP-47017-000002-1</LibraryRef>
+		<FootprintPath1>Footprints\4WayDIP.PcbLib</FootprintPath1>
+		<FootprintRef1>FP-NDS04V-MFG</FootprintRef1>
+		<FootprintPath3>Footprints\.PcbLib</FootprintPath3>
+	</Part>
 </Other>
