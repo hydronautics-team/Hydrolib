@@ -106,4 +106,16 @@
 		<Power>600</Power>
 		<Value>16 В</Value>
 	</Part>
+	<Part>
+		<PartNumber>PESD3V3L1UB</PartNumber>
+		<Description>Защитный диод на 3,3 В, рассеиваемая мощность 45 Вт</Description>
+		<Comment>PESD3V3L1UB</Comment>
+		<LibraryPath>Schematic\TVS\TVS_1_1dir.SchLib</LibraryPath>
+		<LibraryRef>TVS_1_1dir</LibraryRef>
+		<FootprintPath1>Footprints\SOD523.PcbLib</FootprintPath1>
+		<FootprintRef1>SOD523</FootprintRef1>
+		<VoltageNominal>3.3</VoltageNominal>
+		<Power>45</Power>
+		<Value>3,3 В</Value>
+	</Part>
 </TVS>
