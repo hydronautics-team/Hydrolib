@@ -431,4 +431,22 @@
 		<FootprintPath1>Footprints\Connectors\IDC_40_Male conector.PcbLib</FootprintPath1>
 		<FootprintRef1>IDC_40_Male conector</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>DF40C-40DP</PartNumber>
+		<Description>Разъем плата-плата 40 пинов, мама, шаг 0.4мм</Description>
+		<Comment>DF40C-40DP</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_40pin_double.SchLib</LibraryPath>
+		<LibraryRef>Conn_40pin_double</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\DF40C-40DP.PcbLib</FootprintPath1>
+		<FootprintRef1>DF40C-40DP</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>DF40C-40DS</PartNumber>
+		<Description>Разъем плата-плата 40 пинов, папа, шаг 0.4мм</Description>
+		<Comment>DF40C-40DS</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_40pin_double.SchLib</LibraryPath>
+		<LibraryRef>Conn_40pin_double</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\DF40C-40DS.PcbLib</FootprintPath1>
+		<FootprintRef1>DF40C-40DS</FootprintRef1>
+	</Part>
 </Connectors>
