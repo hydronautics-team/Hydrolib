@@ -114,4 +114,22 @@
 		<FootprintPath1>Footprints\PQFN_5x6.PcbLib</FootprintPath1>
 		<FootprintRef1>PQFN_5x6</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>BC857</PartNumber>
+		<Description>Биполярный транзистор PNP 45В 0.1А 0.25Вт</Description>
+		<Comment>BC857</Comment>
+		<LibraryPath>Schematic\pnp.SchLib</LibraryPath>
+		<LibraryRef>pnp</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-3.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-3</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>IPD90P04P405</PartNumber>
+		<Description>P-канальный MOSFET</Description>
+		<Comment>IPD90P04P405</Comment>
+		<LibraryPath>Schematic\MOSFET P-channel.SchLib</LibraryPath>
+		<LibraryRef>MOSFET P-channel 1</LibraryRef>
+		<FootprintPath1>Footprints\DPAK.PcbLib</FootprintPath1>
+		<FootprintRef1>DPAK</FootprintRef1>
+	</Part>
 </Transistors>
