@@ -421,4 +421,13 @@
 		<FootprintPath1>Footprints\SOt23-5.PcbLib</FootprintPath1>
 		<FootprintRef1>SOt23-5</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>AP63200</PartNumber>
+		<Description>DC-DC понижающий преобразователь, Vin: 3.8 - 40 В, adj, 2 А</Description>
+		<Comment>AP63200</Comment>
+		<LibraryPath>Schematic\AP63200.SchLib</LibraryPath>
+		<LibraryRef>AP63200</LibraryRef>
+		<FootprintPath1>Footprints\TSOT26.PcbLib</FootprintPath1>
+		<FootprintRef1>TSOT26</FootprintRef1>
+	</Part>
 </Chips>
