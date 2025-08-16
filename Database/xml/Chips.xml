@@ -403,4 +403,22 @@
 		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
 		<FootprintRef1>SOIC-8</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>RTL8367RB-VB-CG</PartNumber>
+		<Description>Управляемый коммутатор второго уровня на 5+2 порта 10/100/1000M</Description>
+		<Comment>RTL8367RB-VB-CG</Comment>
+		<LibraryPath>Schematic\RTL8367RB.SchLib</LibraryPath>
+		<LibraryRef>RTL8367RB</LibraryRef>
+		<FootprintPath1>Footprints\LQFP128_14x14_exposed_pad.PcbLib</FootprintPath1>
+		<FootprintRef1>LQFP128_14x14_exposed_pad</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>TS951ILT</PartNumber>
+		<Description>Операционный усилитель Rail-to-Rail, 1-канальный</Description>
+		<Comment>TS951ILT</Comment>
+		<LibraryPath>Schematic\TS951ILT.SchLib</LibraryPath>
+		<LibraryRef>TS951ILT</LibraryRef>
+		<FootprintPath1>Footprints\SOt23-5.PcbLib</FootprintPath1>
+		<FootprintRef1>SOt23-5</FootprintRef1>
+	</Part>
 </Chips>
