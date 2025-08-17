@@ -201,4 +201,17 @@
 		<Current>1.79</Current>
 		<Value>330 мк</Value>
 	</Part>
+	<Part>
+		<PartNumber>SP43-150K</PartNumber>
+		<Description>Индуктивность на 15 мкГн, номинальный ток 1,3 А</Description>
+		<Comment>SP43-150K</Comment>
+		<FootprintPath1>Footprints\Inductance\SP43.PcbLib</FootprintPath1>
+		<FootprintRef1>SP43</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Inductance>15</Inductance>
+		<Current>1.3</Current>
+		<Value>15 мк</Value>
+	</Part>
 </Inductance>
