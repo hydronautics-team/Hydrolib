@@ -14,6 +14,19 @@
 		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
+		<PartNumber>Capacitor_100p_10_50V_X7R_0603C</PartNumber>
+		<Description>Конденсатор</Description>
+		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
+		<LibraryRef>Capacitor</LibraryRef>
+		<Value>Schematic\Capacitor.SchLib</Value>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>100 п</Voltage>
+		<Dielectric>0.1</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
+	</Part>
+	<Part>
 		<PartNumber>Capacitor_0,15n_10_50V_X7R_0603C</PartNumber>
 		<Description>Конденсатор</Description>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
