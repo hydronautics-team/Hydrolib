@@ -291,10 +291,19 @@
 		<PartNumber>PBD-40</PartNumber>
 		<Description>Гребенка 40 пинов</Description>
 		<Comment>PBD-40</Comment>
-		<LibraryPath>Schematic\Connectors\Conn_40pin.SchLib</LibraryPath>
-		<LibraryRef>Conn_40pin</LibraryRef>
+		<LibraryPath>Schematic\Connectors\Conn_40pin_double.SchLib</LibraryPath>
+		<LibraryRef>Conn_40pin_double</LibraryRef>
 		<FootprintPath1>Footprints\Connectors\PLS_PLD_PBS_PBD_and_others\PBD_ALL.PcbLib</FootprintPath1>
 		<FootprintRef1>PBD40_8.5</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>PLD-40</PartNumber>
+		<Description>Гребенка 40 пинов</Description>
+		<Comment>PLD-40</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_40pin_double.SchLib</LibraryPath>
+		<LibraryRef>Conn_40pin_double</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\PLS_PLD_PBS_PBD_and_others\PLD_ALL.PcbLib</FootprintPath1>
+		<FootprintRef1>PLD40</FootprintRef1>
 	</Part>
 	<Part>
 		<PartNumber>Picoblade_533984002</PartNumber>
@@ -448,5 +457,23 @@
 		<LibraryRef>Conn_40pin_double</LibraryRef>
 		<FootprintPath1>Footprints\Connectors\DF40C-40DS.PcbLib</FootprintPath1>
 		<FootprintRef1>DF40C-40DS</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>M80-4001042</PartNumber>
+		<Description>5+5-контактный гнездовой DIL-разъём с вертикальным сквозным креплением</Description>
+		<Comment>M80-4001042</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_10pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_10pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\M80-4001042.PcbLib</FootprintPath1>
+		<FootprintRef1>M80-4001042</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>Fucking M80-4001042</PartNumber>
+		<Description>5+5-контактный гнездовой DIL-разъём с вертикальным сквозным креплением. Посадочное под нестандартные длинные винты м2, чтобы шляпка винта прижималась к плате, а не к разъему. Так выше жесткость.</Description>
+		<Comment>M80-4001042</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_10pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_10pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\M80-4001042_govnodelie.PcbLib</FootprintPath1>
+		<FootprintRef1>M80-4001042_govnodelie</FootprintRef1>
 	</Part>
 </Connectors>
