@@ -344,6 +344,7 @@
 	</Part>
 	<Part>
 		<PartNumber>CM4</PartNumber>
+		<Description>Raspberry Pi Compute Module 4 (Wireless, 2GB RAM, 32GB eMMC), Одноплатный компьютер на базе процессора Broadcom BCM2711, Wi-Fi, Bluetooth</Description>
 		<Comment>CM4</Comment>
 		<LibraryPath>Schematic\CM4.SchLib</LibraryPath>
 		<LibraryRef>CM4</LibraryRef>
@@ -352,11 +353,12 @@
 	</Part>
 	<Part>
 		<PartNumber>CM5</PartNumber>
+		<Description>Система на модуле с 64-битным процессором Arm с тактовой частотой 2,4 ГГц, контроллером ввода-вывода, видео и PCIe интерфейсами, а также рядом опций беспроводной связи, SDRAM и eMMC</Description>
 		<Comment>CM5</Comment>
 		<LibraryPath>Schematic\CM4.SchLib</LibraryPath>
 		<LibraryRef>CM5</LibraryRef>
 		<FootprintPath1>Footprints\CM4.PcbLib</FootprintPath1>
-		<FootprintRef1>CM4-DF40HC(3.0)-100DS-0.4v_3mm_1.5mm</FootprintRef1>
+		<FootprintRef1>CM5-DF40HC(3.0)-100DS-0.4v_3mm_1.5mm</FootprintRef1>
 	</Part>
 	<Part>
 		<PartNumber>ADP2301AUJZ-R7</PartNumber>
@@ -404,11 +406,11 @@
 		<FootprintRef1>SOIC-8</FootprintRef1>
 	</Part>
 	<Part>
-		<PartNumber>RTL8367RB-VB-CG</PartNumber>
+		<PartNumber>RTL8367RB-VB</PartNumber>
 		<Description>Управляемый коммутатор второго уровня на 5+2 порта 10/100/1000M</Description>
-		<Comment>RTL8367RB-VB-CG</Comment>
-		<LibraryPath>Schematic\RTL8367RB.SchLib</LibraryPath>
-		<LibraryRef>RTL8367RB</LibraryRef>
+		<Comment>RTL8367RB-VB</Comment>
+		<LibraryPath>Schematic\RTL8367RB-VB.SchLib</LibraryPath>
+		<LibraryRef>RTL8367RB-VB</LibraryRef>
 		<FootprintPath1>Footprints\LQFP128_14x14_exposed_pad.PcbLib</FootprintPath1>
 		<FootprintRef1>LQFP128_14x14_exposed_pad</FootprintRef1>
 	</Part>
