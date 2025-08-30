@@ -105,8 +105,8 @@
 		<Comment>74LVC1G74DP,125</Comment>
 		<LibraryPath>Schematic\74LVC1G74DP,125.SchLib</LibraryPath>
 		<LibraryRef>74LVC1G74DP,125</LibraryRef>
-		<FootprintPath1>Footprints\SOP65P400X110-8N.PcbLib</FootprintPath1>
-		<FootprintRef1>SOP65P400X110-8N</FootprintRef1>
+		<FootprintPath1>Footprints\TSSOP-8.PcbLib</FootprintPath1>
+		<FootprintRef1>TSSOP-8</FootprintRef1>
 	</Part>
 	<Part>
 		<PartNumber>RT8279GSP</PartNumber>
