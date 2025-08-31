@@ -26,8 +26,8 @@
 		<PartNumber>SMAJ12CA</PartNumber>
 		<Description>Защитный диод на 12 В, рассеиваемая мощность 400 Вт</Description>
 		<Comment>SMAJ12CA</Comment>
-		<LibraryPath>Schematic\TVS\TVS_1_1dir.SchLib</LibraryPath>
-		<LibraryRef>TVS_1_1dir</LibraryRef>
+		<LibraryPath>Schematic\TVS\TVS_1_2dir.SchLib</LibraryPath>
+		<LibraryRef>TVS_1_2dir</LibraryRef>
 		<FootprintPath1>Footprints\SMA.PcbLib</FootprintPath1>
 		<FootprintRef1>SMA</FootprintRef1>
 		<VoltageNominal>12</VoltageNominal>
@@ -98,8 +98,8 @@
 		<PartNumber>SMBJ16CA</PartNumber>
 		<Description>Защитный диод двунаправленный 600Вт 16В</Description>
 		<Comment>SMBJ16CA</Comment>
-		<LibraryPath>Schematic\TVS\TVS_1_1dir.SchLib</LibraryPath>
-		<LibraryRef>TVS_1_1dir</LibraryRef>
+		<LibraryPath>Schematic\TVS\TVS_1_2dir.SchLib</LibraryPath>
+		<LibraryRef>TVS_1_2dir</LibraryRef>
 		<FootprintPath1>Footprints\SMB.PcbLib</FootprintPath1>
 		<FootprintRef1>SMB</FootprintRef1>
 		<VoltageNominal>16</VoltageNominal>
