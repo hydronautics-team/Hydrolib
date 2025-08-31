@@ -2,7 +2,7 @@
 <Resistors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Part>
 		<PartNumber>Resistor_1.0_1_0603</PartNumber>
-		<Description>Резистор номиналом 1,0 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 1,0 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -13,7 +13,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_1.1_1_0603</PartNumber>
-		<Description>Резистор номиналом 1,1 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 1,1 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -24,7 +24,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_1.2_1_0603</PartNumber>
-		<Description>Резистор номиналом 1,2 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 1,2 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -35,7 +35,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_1.3_1_0603</PartNumber>
-		<Description>Резистор номиналом 1,3 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 1,3 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -46,7 +46,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_1.5_1_0603</PartNumber>
-		<Description>Резистор номиналом 1,5 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 1,5 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -57,7 +57,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_1.6_1_0603</PartNumber>
-		<Description>Резистор номиналом 1,6 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 1,6 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -68,7 +68,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_1.8_1_0603</PartNumber>
-		<Description>Резистор номиналом 1,8 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 1,8 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -79,7 +79,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_2.0_1_0603</PartNumber>
-		<Description>Резистор номиналом 2,0 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 2,0 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -90,7 +90,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_2.2_1_0603</PartNumber>
-		<Description>Резистор номиналом 2,2 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 2,2 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -101,7 +101,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_2.4_1_0603</PartNumber>
-		<Description>Резистор номиналом 2,4 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 2,4 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -112,7 +112,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_2.7_1_0603</PartNumber>
-		<Description>Резистор номиналом 2,7 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 2,7 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -123,7 +123,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_3.0_1_0603</PartNumber>
-		<Description>Резистор номиналом 3,0 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 3,0 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -134,7 +134,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_3.3_1_0603</PartNumber>
-		<Description>Резистор номиналом 3,3 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 3,3 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -145,7 +145,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_3.6_1_0603</PartNumber>
-		<Description>Резистор номиналом 3,6 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 3,6 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -156,7 +156,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_3.9_1_0603</PartNumber>
-		<Description>Резистор номиналом 3,9 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 3,9 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -167,7 +167,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_4.3_1_0603</PartNumber>
-		<Description>Резистор номиналом 4,3 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 4,3 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -178,7 +178,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_4.7_1_0603</PartNumber>
-		<Description>Резистор номиналом 4,7 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 4,7 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -189,7 +189,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_5.1_1_0603</PartNumber>
-		<Description>Резистор номиналом 5,1 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 5,1 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -200,7 +200,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_5.6_1_0603</PartNumber>
-		<Description>Резистор номиналом 5,6 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 5,6 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -211,7 +211,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_6.2_1_0603</PartNumber>
-		<Description>Резистор номиналом 6,2 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 6,2 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -222,7 +222,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_6.8_1_0603</PartNumber>
-		<Description>Резистор номиналом 6,8 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 6,8 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -233,7 +233,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_7.5_1_0603</PartNumber>
-		<Description>Резистор номиналом 7,5 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 7,5 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -244,7 +244,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_8.2_1_0603</PartNumber>
-		<Description>Резистор номиналом 8,2 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 8,2 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -255,7 +255,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_9.1_1_0603</PartNumber>
-		<Description>Резистор номиналом 9,1 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 9,1 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -266,7 +266,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_10_1_0603</PartNumber>
-		<Description>Резистор номиналом 10 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 10 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -277,7 +277,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_11_1_0603</PartNumber>
-		<Description>Резистор номиналом 11 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 11 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -288,7 +288,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_12_1_0603</PartNumber>
-		<Description>Резистор номиналом 12 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 12 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -299,7 +299,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_13_1_0603</PartNumber>
-		<Description>Резистор номиналом 13 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 13 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -310,7 +310,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_15_1_0603</PartNumber>
-		<Description>Резистор номиналом 15 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 15 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -321,7 +321,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_16_1_0603</PartNumber>
-		<Description>Резистор номиналом 16 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 16 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -332,7 +332,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_18_1_0603</PartNumber>
-		<Description>Резистор номиналом 18 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 18 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -343,7 +343,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_20_1_0603</PartNumber>
-		<Description>Резистор номиналом 20 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 20 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -354,7 +354,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_22_1_0603</PartNumber>
-		<Description>Резистор номиналом 22 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 22 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -365,7 +365,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_24_1_0603</PartNumber>
-		<Description>Резистор номиналом 24 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 24 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -376,7 +376,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_27_1_0603</PartNumber>
-		<Description>Резистор номиналом 27 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 27 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -387,7 +387,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_30_1_0603</PartNumber>
-		<Description>Резистор номиналом 30 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 30 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -398,7 +398,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_33_1_0603</PartNumber>
-		<Description>Резистор номиналом 33 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 33 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -409,7 +409,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_36_1_0603</PartNumber>
-		<Description>Резистор номиналом 36 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 36 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -420,7 +420,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_39_1_0603</PartNumber>
-		<Description>Резистор номиналом 39 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 39 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -431,7 +431,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_43_1_0603</PartNumber>
-		<Description>Резистор номиналом 43 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 43 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -442,7 +442,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_47_1_0603</PartNumber>
-		<Description>Резистор номиналом 47 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 47 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -453,7 +453,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_51_1_0603</PartNumber>
-		<Description>Резистор номиналом 51 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 51 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -464,7 +464,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_56_1_0603</PartNumber>
-		<Description>Резистор номиналом 56 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 56 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -475,7 +475,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_62_1_0603</PartNumber>
-		<Description>Резистор номиналом 62 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 62 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -486,7 +486,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_68_1_0603</PartNumber>
-		<Description>Резистор номиналом 68 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 68 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -497,7 +497,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_75_1_0603</PartNumber>
-		<Description>Резистор номиналом 75 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 75 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -508,7 +508,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_82_1_0603</PartNumber>
-		<Description>Резистор номиналом 82 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 82 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -519,7 +519,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_91_1_0603</PartNumber>
-		<Description>Резистор номиналом 91 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 91 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -530,7 +530,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_100_1_0603</PartNumber>
-		<Description>Резистор номиналом 100 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 100 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -541,7 +541,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_110_1_0603</PartNumber>
-		<Description>Резистор номиналом 110 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 110 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -552,7 +552,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_120_1_0603</PartNumber>
-		<Description>Резистор номиналом 120 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 120 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -563,7 +563,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_130_1_0603</PartNumber>
-		<Description>Резистор номиналом 130 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 130 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -574,7 +574,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_150_1_0603</PartNumber>
-		<Description>Резистор номиналом 150 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 150 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -585,7 +585,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_160_1_0603</PartNumber>
-		<Description>Резистор номиналом 160 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 160 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -596,7 +596,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_180_1_0603</PartNumber>
-		<Description>Резистор номиналом 180 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 180 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -607,7 +607,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_200_1_0603</PartNumber>
-		<Description>Резистор номиналом 200 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 200 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -618,7 +618,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_220_1_0603</PartNumber>
-		<Description>Резистор номиналом 220 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 220 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -629,7 +629,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_240_1_0603</PartNumber>
-		<Description>Резистор номиналом 240 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 240 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -640,7 +640,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_270_1_0603</PartNumber>
-		<Description>Резистор номиналом 270 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 270 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -651,7 +651,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_300_1_0603</PartNumber>
-		<Description>Резистор номиналом 300 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 300 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -662,7 +662,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_330_1_0603</PartNumber>
-		<Description>Резистор номиналом 330 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 330 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -673,7 +673,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_360_1_0603</PartNumber>
-		<Description>Резистор номиналом 360 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 360 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -684,7 +684,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_390_1_0603</PartNumber>
-		<Description>Резистор номиналом 390 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 390 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -695,7 +695,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_430_1_0603</PartNumber>
-		<Description>Резистор номиналом 430 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 430 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -706,7 +706,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_470_1_0603</PartNumber>
-		<Description>Резистор номиналом 470 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 470 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -717,7 +717,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_510_1_0603</PartNumber>
-		<Description>Резистор номиналом 510 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 510 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -728,7 +728,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_560_1_0603</PartNumber>
-		<Description>Резистор номиналом 560 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 560 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -739,7 +739,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_620_1_0603</PartNumber>
-		<Description>Резистор номиналом 620 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 620 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -750,7 +750,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_680_1_0603</PartNumber>
-		<Description>Резистор номиналом 680 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 680 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -761,7 +761,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_750_1_0603</PartNumber>
-		<Description>Резистор номиналом 750 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 750 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -772,7 +772,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_820_1_0603</PartNumber>
-		<Description>Резистор номиналом 820 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 820 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -783,7 +783,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_910_1_0603</PartNumber>
-		<Description>Резистор номиналом 910 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 910 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -794,7 +794,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_1.0k_1_0603</PartNumber>
-		<Description>Резистор номиналом 1,0 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 1,0 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -805,7 +805,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_1.1k_1_0603</PartNumber>
-		<Description>Резистор номиналом 1,1 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 1,1 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -816,7 +816,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_1.2k_1_0603</PartNumber>
-		<Description>Резистор номиналом 1,2 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 1,2 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -827,7 +827,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_1.21k_1_0603</PartNumber>
-		<Description>Резистор номиналом 1,21 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 1,21 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -838,7 +838,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_1.3k_1_0603</PartNumber>
-		<Description>Резистор номиналом 1,3 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 1,3 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -849,7 +849,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_1.5k_1_0603</PartNumber>
-		<Description>Резистор номиналом 1,5 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 1,5 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -860,7 +860,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_1.6k_1_0603</PartNumber>
-		<Description>Резистор номиналом 1,6 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 1,6 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -871,7 +871,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_1.8k_1_0603</PartNumber>
-		<Description>Резистор номиналом 1,8 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 1,8 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -882,7 +882,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_2.0k_1_0603</PartNumber>
-		<Description>Резистор номиналом 2,0 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 2,0 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -893,7 +893,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_2.2k_1_0603</PartNumber>
-		<Description>Резистор номиналом 2,2 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 2,2 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -904,7 +904,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_2.4k_1_0603</PartNumber>
-		<Description>Резистор номиналом 2,4 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 2,4 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -915,7 +915,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_2.7k_1_0603</PartNumber>
-		<Description>Резистор номиналом 2,7 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 2,7 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -926,7 +926,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_3.0k_1_0603</PartNumber>
-		<Description>Резистор номиналом 3,0 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 3,0 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -937,7 +937,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_3.3k_1_0603</PartNumber>
-		<Description>Резистор номиналом 3,3 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 3,3 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -948,7 +948,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_3.6k_1_0603</PartNumber>
-		<Description>Резистор номиналом 3,6 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 3,6 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -959,7 +959,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_3.9k_1_0603</PartNumber>
-		<Description>Резистор номиналом 3,9 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 3,9 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -970,7 +970,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_4.3k_1_0603</PartNumber>
-		<Description>Резистор номиналом 4,3 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 4,3 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -981,7 +981,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_4.7k_1_0603</PartNumber>
-		<Description>Резистор номиналом 4,7 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 4,7 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -992,7 +992,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_5.1k_1_0603</PartNumber>
-		<Description>Резистор номиналом 5,1 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 5,1 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1003,7 +1003,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_5.6k_1_0603</PartNumber>
-		<Description>Резистор номиналом 5,6 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 5,6 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1014,7 +1014,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_6.2k_1_0603</PartNumber>
-		<Description>Резистор номиналом 6,2 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 6,2 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1025,7 +1025,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_6.8k_1_0603</PartNumber>
-		<Description>Резистор номиналом 6,8 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 6,8 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1036,7 +1036,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_7.5k_1_0603</PartNumber>
-		<Description>Резистор номиналом 7,5 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 7,5 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1047,7 +1047,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_8.2k_1_0603</PartNumber>
-		<Description>Резистор номиналом 8,2 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 8,2 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1058,7 +1058,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_9.1k_1_0603</PartNumber>
-		<Description>Резистор номиналом 9,1 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 9,1 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1069,7 +1069,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_10k_1_0603</PartNumber>
-		<Description>Резистор номиналом 10 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 10 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1080,7 +1080,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_10.7k_1_0603</PartNumber>
-		<Description>Резистор номиналом 10,7 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 10,7 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1091,7 +1091,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_11k_1_0603</PartNumber>
-		<Description>Резистор номиналом 11 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 11 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1102,7 +1102,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_12k_1_0603</PartNumber>
-		<Description>Резистор номиналом 12 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 12 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1113,7 +1113,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_12.4k_1_0603</PartNumber>
-		<Description>Резистор номиналом 12,4 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 12,4 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1124,7 +1124,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_13k_1_0603</PartNumber>
-		<Description>Резистор номиналом 13 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 13 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1135,7 +1135,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_15k_1_0603</PartNumber>
-		<Description>Резистор номиналом 15 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 15 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1146,7 +1146,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_16k_1_0603</PartNumber>
-		<Description>Резистор номиналом 16 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 16 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1157,7 +1157,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_18k_1_0603</PartNumber>
-		<Description>Резистор номиналом 18 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 18 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1168,7 +1168,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_20k_1_0603</PartNumber>
-		<Description>Резистор номиналом 20 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 20 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1179,7 +1179,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_22k_1_0603</PartNumber>
-		<Description>Резистор номиналом 22 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 22 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1190,7 +1190,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_24k_1_0603</PartNumber>
-		<Description>Резистор номиналом 24 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 24 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1201,7 +1201,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_27k_1_0603</PartNumber>
-		<Description>Резистор номиналом 27 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 27 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1212,7 +1212,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_30k_1_0603</PartNumber>
-		<Description>Резистор номиналом 30 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 30 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1223,7 +1223,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_31.6k_1_0603</PartNumber>
-		<Description>Резистор номиналом 31,6 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 31,6 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1234,7 +1234,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_33k_1_0603</PartNumber>
-		<Description>Резистор номиналом 33 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 33 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1245,7 +1245,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_36k_1_0603</PartNumber>
-		<Description>Резистор номиналом 36 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 36 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1256,7 +1256,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_39k_1_0603</PartNumber>
-		<Description>Резистор номиналом 39 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 39 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1267,7 +1267,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_43k_1_0603</PartNumber>
-		<Description>Резистор номиналом 43 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 43 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1278,7 +1278,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_47k_1_0603</PartNumber>
-		<Description>Резистор номиналом 47 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 47 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1289,7 +1289,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_51k_1_0603</PartNumber>
-		<Description>Резистор номиналом 51 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 51 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1300,7 +1300,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_56k_1_0603</PartNumber>
-		<Description>Резистор номиналом 56 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 56 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1311,7 +1311,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_62k_1_0603</PartNumber>
-		<Description>Резистор номиналом 62 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 62 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1322,7 +1322,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_68k_1_0603</PartNumber>
-		<Description>Резистор номиналом 68 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 68 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1333,7 +1333,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_75k_1_0603</PartNumber>
-		<Description>Резистор номиналом 75 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 75 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1344,7 +1344,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_82k_1_0603</PartNumber>
-		<Description>Резистор номиналом 82 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 82 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1355,7 +1355,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_91k_1_0603</PartNumber>
-		<Description>Резистор номиналом 91 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 91 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1366,7 +1366,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_100k_1_0603</PartNumber>
-		<Description>Резистор номиналом 100 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 100 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1377,7 +1377,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_110k_1_0603</PartNumber>
-		<Description>Резистор номиналом 110 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 110 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1388,7 +1388,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_120k_1_0603</PartNumber>
-		<Description>Резистор номиналом 120 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 120 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1399,7 +1399,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_130k_1_0603</PartNumber>
-		<Description>Резистор номиналом 130 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 130 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1410,7 +1410,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_150k_1_0603</PartNumber>
-		<Description>Резистор номиналом 150 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 150 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1421,7 +1421,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_160k_1_0603</PartNumber>
-		<Description>Резистор номиналом 160 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 160 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1432,7 +1432,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_180k_1_0603</PartNumber>
-		<Description>Резистор номиналом 180 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 180 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1443,7 +1443,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_200k_1_0603</PartNumber>
-		<Description>Резистор номиналом 200 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 200 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1454,7 +1454,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_220k_1_0603</PartNumber>
-		<Description>Резистор номиналом 220 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 220 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1465,7 +1465,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_240k_1_0603</PartNumber>
-		<Description>Резистор номиналом 240 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 240 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1476,7 +1476,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_270k_1_0603</PartNumber>
-		<Description>Резистор номиналом 270 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 270 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1487,7 +1487,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_300k_1_0603</PartNumber>
-		<Description>Резистор номиналом 300 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 300 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1498,7 +1498,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_330k_1_0603</PartNumber>
-		<Description>Резистор номиналом 330 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 330 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1509,7 +1509,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_360k_1_0603</PartNumber>
-		<Description>Резистор номиналом 360 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 360 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1520,7 +1520,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_390k_1_0603</PartNumber>
-		<Description>Резистор номиналом 390 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 390 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1531,7 +1531,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_430k_1_0603</PartNumber>
-		<Description>Резистор номиналом 430 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 430 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1542,7 +1542,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_470k_1_0603</PartNumber>
-		<Description>Резистор номиналом 470 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 470 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1553,7 +1553,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_510k_1_0603</PartNumber>
-		<Description>Резистор номиналом 510 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 510 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1564,7 +1564,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_560k_1_0603</PartNumber>
-		<Description>Резистор номиналом 560 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 560 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1575,7 +1575,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_620k_1_0603</PartNumber>
-		<Description>Резистор номиналом 620 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 620 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1586,7 +1586,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_680k_1_0603</PartNumber>
-		<Description>Резистор номиналом 680 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 680 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1597,7 +1597,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_750k_1_0603</PartNumber>
-		<Description>Резистор номиналом 750 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 750 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1608,7 +1608,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_820k_1_0603</PartNumber>
-		<Description>Резистор номиналом 820 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 820 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1619,7 +1619,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_910k_1_0603</PartNumber>
-		<Description>Резистор номиналом 910 кОм и точностью 1%</Description>
+		<Description>Резистор номиналом 910 кОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1630,7 +1630,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_1.0M_1_0603</PartNumber>
-		<Description>Резистор номиналом 1,0 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 1,0 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1641,7 +1641,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_1.1M_1_0603</PartNumber>
-		<Description>Резистор номиналом 1,1 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 1,1 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1652,7 +1652,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_1.2M_1_0603</PartNumber>
-		<Description>Резистор номиналом 1,2 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 1,2 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1663,7 +1663,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_1.3M_1_0603</PartNumber>
-		<Description>Резистор номиналом 1,3 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 1,3 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1674,7 +1674,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_1.5M_1_0603</PartNumber>
-		<Description>Резистор номиналом 1,5 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 1,5 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1685,7 +1685,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_1.6M_1_0603</PartNumber>
-		<Description>Резистор номиналом 1,6 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 1,6 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1696,7 +1696,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_1.8M_1_0603</PartNumber>
-		<Description>Резистор номиналом 1,8 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 1,8 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1707,7 +1707,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_2.0M_1_0603</PartNumber>
-		<Description>Резистор номиналом 2,0 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 2,0 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1718,7 +1718,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_2.2M_1_0603</PartNumber>
-		<Description>Резистор номиналом 2,2 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 2,2 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1729,7 +1729,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_2.4M_1_0603</PartNumber>
-		<Description>Резистор номиналом 2,4 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 2,4 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1740,7 +1740,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_2.7M_1_0603</PartNumber>
-		<Description>Резистор номиналом 2,7 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 2,7 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1751,7 +1751,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_3.0M_1_0603</PartNumber>
-		<Description>Резистор номиналом 3,0 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 3,0 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1762,7 +1762,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_3.3M_1_0603</PartNumber>
-		<Description>Резистор номиналом 3,3 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 3,3 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1773,7 +1773,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_3.6M_1_0603</PartNumber>
-		<Description>Резистор номиналом 3,6 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 3,6 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1784,7 +1784,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_3.9M_1_0603</PartNumber>
-		<Description>Резистор номиналом 3,9 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 3,9 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1795,7 +1795,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_4.3M_1_0603</PartNumber>
-		<Description>Резистор номиналом 4,3 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 4,3 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1806,7 +1806,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_4.7M_1_0603</PartNumber>
-		<Description>Резистор номиналом 4,7 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 4,7 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1817,7 +1817,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_5.1M_1_0603</PartNumber>
-		<Description>Резистор номиналом 5,1 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 5,1 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1828,7 +1828,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_5.6M_1_0603</PartNumber>
-		<Description>Резистор номиналом 5,6 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 5,6 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1839,7 +1839,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_6.2M_1_0603</PartNumber>
-		<Description>Резистор номиналом 6,2 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 6,2 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1850,7 +1850,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_6.8M_1_0603</PartNumber>
-		<Description>Резистор номиналом 6,8 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 6,8 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1861,7 +1861,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_7.5M_1_0603</PartNumber>
-		<Description>Резистор номиналом 7,5 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 7,5 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1872,7 +1872,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_8.2M_1_0603</PartNumber>
-		<Description>Резистор номиналом 8,2 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 8,2 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1883,7 +1883,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_9.1M_1_0603</PartNumber>
-		<Description>Резистор номиналом 9,1 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 9,1 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1894,7 +1894,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_10M_1_0603</PartNumber>
-		<Description>Резистор номиналом 10 МОм и точностью 1%</Description>
+		<Description>Резистор номиналом 10 МОм 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1938,7 +1938,7 @@
 	</Part>
 	<Part>
 		<PartNumber>CRE2512-FZ-R005E-3</PartNumber>
-		<Description>Резистор номиналом 5 мОм, точностью 1%, 3Вт</Description>
+		<Description>Резистор номиналом 5 мОм 1%, 3Вт</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1949,7 +1949,7 @@
 	</Part>
 	<Part>
 		<PartNumber>RL1210FR-070R01L</PartNumber>
-		<Description>Резистор номиналом 10 мОм, точностью 1%, 0.5Вт</Description>
+		<Description>Резистор номиналом 10 мОм 1%, 0.5Вт</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
@@ -1971,7 +1971,7 @@
 	</Part>
 	<Part>
 		<PartNumber>Resistor_0.22_1_2512</PartNumber>
-		<Description>Резистор номиналом 0,22 Ом и точностью 1%</Description>
+		<Description>Резистор номиналом 0,22 Ом 1%</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
