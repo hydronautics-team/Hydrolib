@@ -148,4 +148,14 @@
 		<FootprintRef1>FP-NDS04V-MFG</FootprintRef1>
 		<FootprintPath3>Footprints\.PcbLib</FootprintPath3>
 	</Part>
+	<Part>
+		<PartNumber>Button_DIP_12x12</PartNumber>
+		<Description>Тактовая кнопка, DIP 12 x 12 мм</Description>
+		<Comment>Button_DIP_12x12</Comment>
+		<LibraryPath>Schematic\Tact_button.SchLib</LibraryPath>
+		<LibraryRef>Tact_button</LibraryRef>
+		<FootprintPath1>Footprints\Buttons\Button_DIP_12x12.PcbLib</FootprintPath1>
+		<FootprintRef1>Button_DIP_12x12</FootprintRef1>
+		<FootprintPath3>Footprints\.PcbLib</FootprintPath3>
+	</Part>
 </Other>
