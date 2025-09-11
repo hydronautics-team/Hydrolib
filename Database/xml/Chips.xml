@@ -420,8 +420,8 @@
 		<Comment>TS951ILT</Comment>
 		<LibraryPath>Schematic\TS951ILT.SchLib</LibraryPath>
 		<LibraryRef>TS951ILT</LibraryRef>
-		<FootprintPath1>Footprints\SOt23-5.PcbLib</FootprintPath1>
-		<FootprintRef1>SOt23-5</FootprintRef1>
+		<FootprintPath1>Footprints\SOT23-5.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-5</FootprintRef1>
 	</Part>
 	<Part>
 		<PartNumber>AP63200</PartNumber>
@@ -431,5 +431,14 @@
 		<LibraryRef>AP63200</LibraryRef>
 		<FootprintPath1>Footprints\TSOT26.PcbLib</FootprintPath1>
 		<FootprintRef1>TSOT26</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>74HC74D,653</PartNumber>
+		<Description>Два триггера D-типа</Description>
+		<Comment>74HC74D,653</Comment>
+		<LibraryPath>Schematic\74HC74D,653.SchLib</LibraryPath>
+		<LibraryRef>74HC74D,653</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-14.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-14</FootprintRef1>
 	</Part>
 </Chips>
