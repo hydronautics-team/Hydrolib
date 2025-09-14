@@ -441,4 +441,13 @@
 		<FootprintPath1>Footprints\SOIC-14.PcbLib</FootprintPath1>
 		<FootprintRef1>SOIC-14</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>AP63203</PartNumber>
+		<Description>DC-DC понижающий преобразователь, Vin: 3.8 - 40 В; 3,3 В; 2 А</Description>
+		<Comment>AP63203</Comment>
+		<LibraryPath>Schematic\AP63203.SchLib</LibraryPath>
+		<LibraryRef>AP63203</LibraryRef>
+		<FootprintPath1>Footprints\TSOT26.PcbLib</FootprintPath1>
+		<FootprintRef1>TSOT26</FootprintRef1>
+	</Part>
 </Chips>
