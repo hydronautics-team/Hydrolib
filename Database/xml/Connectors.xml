@@ -476,4 +476,13 @@
 		<FootprintPath1>Footprints\Connectors\M80-4001042_govnodelie.PcbLib</FootprintPath1>
 		<FootprintRef1>M80-4001042_govnodelie</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>signal_PAD</PartNumber>
+		<Description>контактная площадка под пайку тонких проводов</Description>
+		<Comment>signal_PAD</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_1pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_1pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\SS_PAD.PcbLib</FootprintPath1>
+		<FootprintRef1>SS_PAD</FootprintRef1>
+	</Part>
 </Connectors>
