@@ -485,4 +485,31 @@
 		<FootprintPath1>Footprints\Connectors\SS_PAD.PcbLib</FootprintPath1>
 		<FootprintRef1>SS_PAD</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>JK0-0136NL</PartNumber>
+		<Description>Модульный разъем (с трансформатором) Cat5/6, RJ45, Гнездо,  1 порт</Description>
+		<Comment>JK0-0136NL</Comment>
+		<LibraryPath>Schematic\Connectors\JK0-0136NL.SchLib</LibraryPath>
+		<LibraryRef>JK0-0136NL</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\JK00136NL.PcbLib</FootprintPath1>
+		<FootprintRef1>JK00136NL</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>DIN41612_48_3row_straight_female</PartNumber>
+		<Description>DIN41612R (DS1120-48F0V13), Разъем (розетка) тип B 48pin (3х16), шаг 2.54мм трехрядный прямой (ряд АBC)</Description>
+		<Comment>DIN41612_48_3row_straight_female</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_48pin_3row.SchLib</LibraryPath>
+		<LibraryRef>Conn_48pin_3row</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\DIN41612_48_3row_straight_female.PcbLib</FootprintPath1>
+		<FootprintRef1>DIN41612_48_3row_straight_female</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>DIN41612_48_3row_right_angle_male</PartNumber>
+		<Description>DIN41612R (DS1120-48M0R13), Разъем (вилка) тип B 48pin (3х16), шаг 2.54мм трехрядный угловой (ряд АВC)</Description>
+		<Comment>DIN41612_48_3row_right_angle_male</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_48pin_3row.SchLib</LibraryPath>
+		<LibraryRef>Conn_48pin_3row</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\DIN41612_48_3row_right_angle_male.PcbLib</FootprintPath1>
+		<FootprintRef1>DIN41612_48_3row_right_angle_male</FootprintRef1>
+	</Part>
 </Connectors>
