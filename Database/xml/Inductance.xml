@@ -214,4 +214,30 @@
 		<Current>1.3</Current>
 		<Value>15 мк</Value>
 	</Part>
+	<Part>
+		<PartNumber>B82472G6472M</PartNumber>
+		<Description>Индуктивность на 4,7 мкГн, номинальный ток 2,5 А</Description>
+		<Comment>B82472G6472M</Comment>
+		<FootprintPath1>Footprints\Inductance\B82462G4.PcbLib</FootprintPath1>
+		<FootprintRef1>B82462G4</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Inductance>4.7</Inductance>
+		<Current>2.5</Current>
+		<Value>4,7 мк</Value>
+	</Part>
+	<Part>
+		<PartNumber>CDRH6D12NP-2R2NC</PartNumber>
+		<Description>Индуктивность на 2,2 мкГн, номинальный ток 2,5 А</Description>
+		<Comment>CDRH6D12NP-2R2NC</Comment>
+		<FootprintPath1>Footprints\Inductance\CDRH6D12.PcbLib</FootprintPath1>
+		<FootprintRef1>CDRH6D12</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Inductance>2.2</Inductance>
+		<Current>2.5</Current>
+		<Value>2,2 мк</Value>
+	</Part>
 </Inductance>
