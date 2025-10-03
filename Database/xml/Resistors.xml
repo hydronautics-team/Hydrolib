@@ -1980,4 +1980,15 @@
 		<FootprintPath1>Footprints/Resistors/2512R.PcbLib</FootprintPath1>
 		<FootprintRef1>2512R</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>RC0603FR-072K49L</PartNumber>
+		<Description>0.1Вт 0603 2.49 кОм, 1%, Чип резистор</Description>
+		<Comment>RC0603FR-072K49L</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>2,49 к</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/0603R.PcbLib</FootprintPath1>
+		<FootprintRef1>0603R</FootprintRef1>
+	</Part>
 </Resistors>
