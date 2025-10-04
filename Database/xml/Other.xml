@@ -158,4 +158,14 @@
 		<FootprintRef1>Button_DIP_12x12</FootprintRef1>
 		<FootprintPath3>Footprints\.PcbLib</FootprintPath3>
 	</Part>
+	<Part>
+		<PartNumber>X322525MOB4SI</PartNumber>
+		<Description>Кварцевый резонатор SMD 25 МГц ±10ppm SMD-3225_4P</Description>
+		<Comment>X322525MOB4SI</Comment>
+		<LibraryPath>Schematic\XTAL_1-3_GND.SchLib</LibraryPath>
+		<LibraryRef>XTAL_1-3_GND</LibraryRef>
+		<FootprintPath1>Footprints\XTAL\X322525MOB4SI.PcbLib</FootprintPath1>
+		<FootprintRef1>X322525MOB4SI</FootprintRef1>
+		<FootprintPath3>Footprints\.PcbLib</FootprintPath3>
+	</Part>
 </Other>

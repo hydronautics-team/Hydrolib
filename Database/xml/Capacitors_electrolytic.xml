@@ -364,4 +364,17 @@
 		<FootprintRef1>ECAP_SMD_6,6x6,6</FootprintRef1>
 		<Capacity>100</Capacity>
 	</Part>
+	<Part>
+		<PartNumber>CK016M471G10PKKKV00R</PartNumber>
+		<Description>Конденсатор алюминиевый электролитический 470мкФ 16В ±20% (10х10)мм SMD 460мА 2000часов 105°C</Description>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>470 мк</Value>
+		<Tolerance>20</Tolerance>
+		<Voltage>16</Voltage>
+		<Type>SMD Aluminum</Type>
+		<FootprintPath1>Footprints\Capacitors\ECAP_SMD_10,3x10,3.PcbLib</FootprintPath1>
+		<FootprintRef1>ECAP_SMD_10,3x10,3</FootprintRef1>
+		<Capacity>470</Capacity>
+	</Part>
 </Capacitors_electrolytic>
