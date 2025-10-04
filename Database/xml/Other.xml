@@ -168,4 +168,13 @@
 		<FootprintRef1>X322525MOB4SI</FootprintRef1>
 		<FootprintPath3>Footprints\.PcbLib</FootprintPath3>
 	</Part>
+	<Part>
+		<PartNumber>TSS-TD-19XA-XTR</PartNumber>
+		<Description>Тактовая кнопка</Description>
+		<Comment>TSS-TD-19XA-XTR</Comment>
+		<LibraryPath>Schematic\Tact_button.SchLib</LibraryPath>
+		<LibraryRef>Tact_button</LibraryRef>
+		<FootprintPath1>Footprints\Buttons\TSS-TD-19XA-XTR.PcbLib</FootprintPath1>
+		<FootprintRef1>TSS-TD-19XA-XTR</FootprintRef1>
+	</Part>
 </Other>
