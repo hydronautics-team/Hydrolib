@@ -2013,15 +2013,4 @@
 		<FootprintPath1>Footprints/Resistors/0402R.PcbLib</FootprintPath1>
 		<FootprintRef1>0402R</FootprintRef1>
 	</Part>
-	<Part>
-		<PartNumber>Resistor_120_1_1206</PartNumber>
-		<Description>Резистор номиналом 120 Ом, в корпусе 1206 1%</Description>
-		<Comment>Resistor</Comment>
-		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
-		<LibraryRef>Resistor</LibraryRef>
-		<Value>120</Value>
-		<Tolerance>0.01</Tolerance>
-		<FootprintPath1>Footprints/Resistors/1206R.PcbLib</FootprintPath1>
-		<FootprintRef1>1206R</FootprintRef1>
-	</Part>
 </Resistors>
