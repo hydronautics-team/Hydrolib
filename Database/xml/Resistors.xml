@@ -1991,4 +1991,37 @@
 		<FootprintPath1>Footprints/Resistors/0603R.PcbLib</FootprintPath1>
 		<FootprintRef1>0603R</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>Resistor_1.0k_1_0402</PartNumber>
+		<Description>Резистор номиналом 1,0 кОм 1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1,0 к</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/0402R.PcbLib</FootprintPath1>
+		<FootprintRef1>0402R</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_4.7k_1_0402</PartNumber>
+		<Description>Резистор номиналом 4,7 кОм 1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>4,7 к</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/0402R.PcbLib</FootprintPath1>
+		<FootprintRef1>0402R</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_120_1_1206</PartNumber>
+		<Description>Резистор номиналом 120 Ом, в корпусе 1206 1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>120</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/1206R.PcbLib</FootprintPath1>
+		<FootprintRef1>1206R</FootprintRef1>
+	</Part>
 </Resistors>
