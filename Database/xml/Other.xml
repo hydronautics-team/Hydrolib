@@ -177,4 +177,13 @@
 		<FootprintPath1>Footprints\Buttons\TSS-TD-19XA-XTR.PcbLib</FootprintPath1>
 		<FootprintRef1>TSS-TD-19XA-XTR</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>SMT-NUT-M2H1.5</PartNumber>
+		<Description>Стойка под пайку, М2, высота 1.5 мм, SMT spacer nut - ключевые слова, Hangzhou WildChip Tech Co., Ltd. Store магазин на алике</Description>
+		<Comment>SMT-NUT-M2H1.5</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_1pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_1pin</LibraryRef>
+		<FootprintPath1>Footprints\SMT_spacer_nut.PcbLib</FootprintPath1>
+		<FootprintRef1>9774015243</FootprintRef1>
+	</Part>
 </Other>

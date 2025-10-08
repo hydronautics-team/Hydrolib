@@ -576,4 +576,16 @@
 		<FootprintRef1>NP0</FootprintRef1>
 		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
+	<Part>
+		<PartNumber>Capacitor_0,1u_10_16V_X7R_0603C</PartNumber>
+		<Description>Конденсатор 0402C ёмкостью 0,1 мк 10%, 16 В, X7R</Description>
+		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
+		<LibraryRef>Capacitor</LibraryRef>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>0,1 мк</Voltage>
+		<Dielectric>10%</Dielectric>
+		<FootprintPath1>16</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0402C.PcbLib</Capacity>
+	</Part>
 </Capacitors_ceramic>
