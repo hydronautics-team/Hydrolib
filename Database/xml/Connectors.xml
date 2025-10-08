@@ -512,4 +512,22 @@
 		<FootprintPath1>Footprints\Connectors\DIN41612_48_3row_right_angle_male.PcbLib</FootprintPath1>
 		<FootprintRef1>DIN41612_48_3row_right_angle_male</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>430450200</PartNumber>
+		<Description>Разъем типа провод-плата, угловой, 3 мм, 2 контакт(-ов), Штыревой Разъем, Серия Micro-Fit для монтажа в отверстия</Description>
+		<Comment>430450200</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_2pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_2pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\MOLEX_MICRO-FIT_430450200.PcbLib</FootprintPath1>
+		<FootprintRef1>MOLEX_MICRO-FIT_430450200</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>Akeys 5224-8P8C</PartNumber>
+		<Description>Модульный разъем, Cat3, RJ45, 8P8C, Гнездо, 8 контактов, 8 выводов, 2 порта</Description>
+		<Comment>Akeys 5224-8P8C</Comment>
+		<LibraryPath>Schematic\Connectors\Akeys 5224-8P8C.SchLib</LibraryPath>
+		<LibraryRef>Akeys 5224-8P8C</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\Akeys 5224-8P8C.PcbLib</FootprintPath1>
+		<FootprintRef1>Akeys 5224-8P8C</FootprintRef1>
+	</Part>
 </Connectors>
