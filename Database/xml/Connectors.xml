@@ -530,4 +530,13 @@
 		<FootprintPath1>Footprints\Connectors\Akeys 5224-8P8C.PcbLib</FootprintPath1>
 		<FootprintRef1>Akeys 5224-8P8C</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>1-406541-5-RJ45-8p8c</PartNumber>
+		<Description>Модульный разъем, Cat5, RJ45, Гнездо, 8 контакт(-ов), 8 вывод(-ов), 1 порт(-ов)</Description>
+		<Comment>1-406541-5</Comment>
+		<LibraryPath>Schematic\Connectors\RJ45-8p8c.SchLib</LibraryPath>
+		<LibraryRef>RJ45-8p8c</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\1-406541-5.PcbLib</FootprintPath1>
+		<FootprintRef1>1-406541-5</FootprintRef1>
+	</Part>
 </Connectors>
