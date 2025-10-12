@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=HydroJob.OutJob
 Description=
-TargetOutputMedium=Mechanical models
+TargetOutputMedium=BOM
 VariantName=01
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=NPI649482 (HP LaserJet M1536dnf MFP)
+TargetPrinter=\\MSK-IT-PCUT-01\1440_Print
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -62,7 +62,7 @@ Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowPr
 OutputType2=PCBDrawing
 OutputName2=Draftsman
 OutputCategory2=Documentation
-OutputDocumentPath2=vspyshka_assembly.PCBDwf
+OutputDocumentPath2=eth_witch_asm.PCBDwf
 OutputVariantName2=
 OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
@@ -78,7 +78,7 @@ PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType3=PCBDrawing
 OutputName3=Draftsman
 OutputCategory3=Documentation
-OutputDocumentPath3=vspyshka_fabrication.PCBDwf
+OutputDocumentPath3=eth_witch_fabr.PCBDwf
 OutputVariantName3=
 OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
@@ -94,9 +94,9 @@ PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType4=BOM_PartType
 OutputName4=Bill of Materials
 OutputCategory4=Report
-OutputDocumentPath4=Xenon_flash.BomDoc
+OutputDocumentPath4=[ActiveBOM Document]
 OutputVariantName4=
-OutputEnabled4=0
+OutputEnabled4=1
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=0
@@ -110,23 +110,23 @@ PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration4_Name1=ColumnNameFormat
 Configuration4_Item1=CaptionAsName
 Configuration4_Name2=General
-Configuration4_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration4_Item2=OpenExported=True|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\s.karmanov\Documents\Altium\Hydrolib\Templates\BOM ЕСКД.xls|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1346|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
 Configuration4_Name3=GroupOrder
 Configuration4_Item3=
 Configuration4_Name4=SortOrder
-Configuration4_Item4=Description=Up|Designator=Up
+Configuration4_Item4=Line #=Up
 Configuration4_Name5=VisibleOrder
-Configuration4_Item5=Line #=52|Comment=135|Description=100|Designator=79|Quantity=64|Manufacturer 1=97|Manufacturer Part Number 1=161|Manufacturer Lifecycle 1=141|Supplier 1=71|Supplier Part Number 1=135|Supplier Unit Price 1=121|Supplier Subtotal 1=114
+Configuration4_Item5=Line #=52|Comment=135|Description=100|Designator=79|Quantity=64|Part Number=100|Footprint=100|Value=100|Tolerance=100|Voltage (V)=100
 Configuration4_Name6=VisibleOrder_Base
-Configuration4_Item6=Line #=52|Comment=135|Description=100|Designator=79|Quantity=64|Manufacturer 1=97|Manufacturer Part Number 1=161|Manufacturer Lifecycle 1=141|Supplier 1=71|Supplier Part Number 1=135|Supplier Unit Price 1=121|Supplier Subtotal 1=114
+Configuration4_Item6=Line #=52|Comment=135|Description=100|Designator=79|Quantity=64|Part Number=100|Footprint=100|Value=100|Tolerance=100|Voltage (V)=100
 Configuration4_Name7=VisibleOrder_Consolidated
 Configuration4_Item7=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=97|Manufacturer Part Number 1=161|Manufacturer Lifecycle 1=141|Supplier 1=71|Supplier Part Number 1=135|Supplier Unit Price 1=121|Supplier Subtotal 1=114|Quantity@01=100|Price@01=100
 Configuration4_Name8=VisibleOrder_Flat
-Configuration4_Item8=Line #=100|Comment=100|Description=100|Designator=100|Manufacturer 1=97|Manufacturer Part Number 1=161|Manufacturer Lifecycle 1=141|Supplier 1=71|Supplier Part Number 1=135|Supplier Unit Price 1=121|Supplier Subtotal 1=114
+Configuration4_Item8=Line #=52|Comment=135|Description=100|Designator=79|Manufacturer 1=97|Manufacturer Part Number 1=161|Manufacturer Lifecycle 1=141|Supplier 1=71|Supplier Part Number 1=135|Supplier Unit Price 1=121|Supplier Subtotal 1=114
 OutputType5=PDF3D
 OutputName5=PDF3D
 OutputCategory5=Documentation
-OutputDocumentPath5=vspyshka.PcbDoc
+OutputDocumentPath5=
 OutputVariantName5=
 OutputEnabled5=0
 OutputEnabled5_OutputMedium1=0
@@ -144,7 +144,7 @@ Configuration5_Item1=Record=ExportPDF3DSetting|Version=110|Format=0|Flags=8158|S
 OutputType6=Gerber
 OutputName6=Gerber Files
 OutputCategory6=Fabrication
-OutputDocumentPath6=vspyshka.PcbDoc
+OutputDocumentPath6=
 OutputVariantName6=
 OutputEnabled6=0
 OutputEnabled6_OutputMedium1=0
@@ -161,7 +161,7 @@ Configuration6_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayer
 OutputType7=NC Drill
 OutputName7=NC Drill Files
 OutputCategory7=Fabrication
-OutputDocumentPath7=vspyshka.PcbDoc
+OutputDocumentPath7=
 OutputVariantName7=
 OutputEnabled7=0
 OutputEnabled7_OutputMedium1=0
@@ -178,9 +178,9 @@ Configuration7_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|Ge
 OutputType8=ExportSTEP
 OutputName8=Export STEP
 OutputCategory8=Export
-OutputDocumentPath8=vspyshka.PcbDoc
+OutputDocumentPath8=
 OutputVariantName8=
-OutputEnabled8=1
+OutputEnabled8=0
 OutputEnabled8_OutputMedium1=0
 OutputEnabled8_OutputMedium2=0
 OutputEnabled8_OutputMedium3=0
@@ -195,9 +195,9 @@ Configuration8_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModels
 OutputType9=AutoCAD dwg/dxf PCB
 OutputName9=AutoCAD dwg/dxf File PCB
 OutputCategory9=Export
-OutputDocumentPath9=vspyshka.PcbDoc
+OutputDocumentPath9=
 OutputVariantName9=
-OutputEnabled9=1
+OutputEnabled9=0
 OutputEnabled9_OutputMedium1=0
 OutputEnabled9_OutputMedium2=0
 OutputEnabled9_OutputMedium3=0
@@ -212,9 +212,9 @@ Configuration9_Item1=Record=ExportDXFView|ACadVersion=60|UseRoundedTracks=True|C
 OutputType10=ExportPARASOLID
 OutputName10=Export PARASOLID
 OutputCategory10=Export
-OutputDocumentPath10=vspyshka.PcbDoc
+OutputDocumentPath10=
 OutputVariantName10=
-OutputEnabled10=1
+OutputEnabled10=0
 OutputEnabled10_OutputMedium1=0
 OutputEnabled10_OutputMedium2=0
 OutputEnabled10_OutputMedium3=0
@@ -230,7 +230,7 @@ Configuration10_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModel
 [PublishSettings]
 OutputFilePath2=C:\Users\Public\Documents\Altium\Xenon_flash\Project Outputs for Xenon_flash\Документация\Job1.PDF
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for Xenon_flash
+OutputBasePath2=Project Outputs for Eth_switch_1gbit
 OutputPathMedia2=Документация
 OutputPathMediaValue2=Документация
 OutputPathOutputer2=[Output Type]
@@ -257,7 +257,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=C:\Users\Public\Documents\Altium\Xenon_flash\Project Outputs for Xenon_flash\Документация\#NAME_.PDF
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for Xenon_flash
+OutputBasePath3=Project Outputs for Eth_switch_1gbit
 OutputPathMedia3=Документация
 OutputPathMediaValue3=Документация
 OutputPathOutputer3=[Output Type]
@@ -284,7 +284,7 @@ PDFACompliance3=Disabled
 PDFVersion3=Default
 OutputFilePath4=C:\Users\Public\Documents\Altium\Xenon_flash\Project Outputs for Xenon_flash\ГИДР.123456.002-01.VariantName.PDF
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for Xenon_flash
+OutputBasePath4=Project Outputs for Eth_switch_1gbit
 OutputPathMedia4=Документация
 OutputPathMediaValue4=Документация
 OutputPathOutputer4=[Output Type]
@@ -311,7 +311,7 @@ PDFACompliance4=Disabled
 PDFVersion4=Default
 OutputFilePath5=C:\Users\Public\Documents\Altium\Xenon_flash\Project Outputs for Xenon_flash\HydroJob.PDF
 ReleaseManaged5=1
-OutputBasePath5=Project Outputs for Xenon_flash
+OutputBasePath5=Project Outputs for Eth_switch_1gbit
 OutputPathMedia5=Документация
 OutputPathMediaValue5=Документация
 OutputPathOutputer5=[Output Type]
@@ -338,7 +338,7 @@ PDFACompliance5=Disabled
 PDFVersion5=Default
 OutputFilePath6=C:\Users\Public\Documents\Altium\Xenon_flash\Project Outputs for Xenon_flash\
 ReleaseManaged6=1
-OutputBasePath6=Project Outputs for Xenon_flash
+OutputBasePath6=Project Outputs for Eth_switch_1gbit
 OutputPathMedia6=
 OutputPathMediaValue6=
 OutputPathOutputer6=[Output Custom]
@@ -349,9 +349,9 @@ OutputFileNameMulti6=
 UseOutputNameForMulti6=1
 OutputFileNameSpecial6=
 OpenOutput6=1
-OutputFilePath7=C:\Users\Public\Documents\Altium\Xenon_flash\Project Outputs for Xenon_flash\
+OutputFilePath7=C:\Users\s.karmanov\Documents\Altium\Eth_switch_1gbit\Project Outputs for Eth_switch_1gbit\
 ReleaseManaged7=1
-OutputBasePath7=Project Outputs for Xenon_flash
+OutputBasePath7=Project Outputs for Eth_switch_1gbit
 OutputPathMedia7=
 OutputPathMediaValue7=
 OutputPathOutputer7=[Output Custom]
@@ -364,7 +364,7 @@ OutputFileNameSpecial7=
 OpenOutput7=1
 OutputFilePath8=C:\Users\Public\Documents\Altium\Xenon_flash\Project Outputs for Xenon_flash\
 ReleaseManaged8=1
-OutputBasePath8=Project Outputs for Xenon_flash
+OutputBasePath8=Project Outputs for Eth_switch_1gbit
 OutputPathMedia8=Mechanical models
 OutputPathMediaValue8=Mechanical models
 OutputPathOutputer8=
@@ -395,7 +395,7 @@ OpenGerberOutput6=0
 OpenNCDrillOutput6=0
 OpenIPCOutput6=0
 EnableReload6=0
-RelativeOutputPath7=C:\Users\Public\Documents\Altium\Xenon_flash\Project Outputs for Xenon_flash\
+RelativeOutputPath7=C:\Users\s.karmanov\Documents\Altium\Eth_switch_1gbit\Project Outputs for Eth_switch_1gbit\
 OpenOutputs7=1
 AddToProject7=1
 TimestampFolder7=0
