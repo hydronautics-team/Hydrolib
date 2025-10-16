@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=HydroJob.OutJob
+Name=
 Description=
 TargetOutputMedium=BOM
 VariantName=01
@@ -110,7 +110,7 @@ PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration4_Name1=ColumnNameFormat
 Configuration4_Item1=CaptionAsName
 Configuration4_Name2=General
-Configuration4_Item2=OpenExported=True|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\s.karmanov\Documents\Altium\Hydrolib\Templates\BOM ЕСКД.xls|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1346|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
+Configuration4_Item2=OpenExported=True|AddToProject=True|ReportBOMViolationsInMessages=True|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\shustrik\Documents\Altium\Eth_switch_1gbit\BOM ЕСКД.xls|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1346|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
 Configuration4_Name3=GroupOrder
 Configuration4_Item3=
 Configuration4_Name4=SortOrder
@@ -358,7 +358,7 @@ OutputPathOutputer7=[Output Custom]
 OutputPathOutputerPrefix7=
 OutputPathOutputerValue7=Документация
 OutputFileName7=
-OutputFileNameMulti7==Decimal_Number_Shematic+'-'+Version+'.'+VariantName+' ПЭ3'
+OutputFileNameMulti7==Decimal_Number_Shematic+'-'+Version+'.'+VariantName
 UseOutputNameForMulti7=0
 OutputFileNameSpecial7=
 OpenOutput7=1
