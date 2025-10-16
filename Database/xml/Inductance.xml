@@ -20,17 +20,17 @@
 		<FootprintPath1>Footprints\Inductance\IHLP-4040.PcbLib</FootprintPath1>
 		<FootprintRef1>IHLP-4040</FootprintRef1>
 		<Inductance>33</Inductance>
-		<Current>4.4</Current>
+		<Current>4,4 А</Current>
 		<Value>33 мк</Value>
 	</Part>
 	<Part>
 		<PartNumber>B82472G6683M</PartNumber>
-		<Description>Индуктивность на 68 мкГн, номинальный ток 0,82 A</Description>
+		<Description>Индуктивность на 68 мкГн, номинальный ток 0,82 А A</Description>
 		<Comment>B82472G6683M</Comment>
 		<FootprintPath1>Footprints\Inductance\7.3x7.3.PcbLib</FootprintPath1>
 		<FootprintRef1>7.3x7.3</FootprintRef1>
 		<Inductance>68</Inductance>
-		<Current>0.82</Current>
+		<Current>0,82 А</Current>
 		<Value>68 мк</Value>
 	</Part>
 	<Part>
@@ -43,7 +43,7 @@
 		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
 		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
 		<Inductance>4.7</Inductance>
-		<Current>5.5</Current>
+		<Current>5,5 А</Current>
 		<Value>4,7 мк</Value>
 	</Part>
 	<Part>
@@ -56,7 +56,7 @@
 		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
 		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
 		<Inductance>22</Inductance>
-		<Current>5</Current>
+		<Current>5 А</Current>
 		<Value>22 мк</Value>
 	</Part>
 	<Part>
@@ -69,7 +69,7 @@
 		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
 		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
 		<Inductance>22</Inductance>
-		<Current>1,05</Current>
+		<Current>1,05 А</Current>
 		<Value>22 мк</Value>
 	</Part>
 	<Part>
@@ -82,12 +82,12 @@
 		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
 		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
 		<Inductance>0.33</Inductance>
-		<Current>15</Current>
+		<Current>15 А</Current>
 		<Value>0,33 мк</Value>
 	</Part>
 	<Part>
 		<PartNumber>B82477R4683M100</PartNumber>
-		<Description>Индуктивность на 68 мкГн, номинальный ток 2,65 A</Description>
+		<Description>Индуктивность на 68 мкГн, номинальный ток 2,65 А A</Description>
 		<Comment>B82477R4683M100</Comment>
 		<FootprintPath1>Footprints\Inductance\12.5x12.5.PcbLib</FootprintPath1>
 		<FootprintRef1>12.5x12.5</FootprintRef1>
@@ -95,12 +95,12 @@
 		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
 		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
 		<Inductance>68</Inductance>
-		<Current>2.65</Current>
+		<Current>2,65 А</Current>
 		<Value>68 мк</Value>
 	</Part>
 	<Part>
 		<PartNumber>SDR0403-120ML</PartNumber>
-		<Description>Индуктивность на 12 мкГн, номинальный ток 1,05 A</Description>
+		<Description>Индуктивность на 12 мкГн, номинальный ток 1,05 А A</Description>
 		<Comment>SDR0403-120ML</Comment>
 		<FootprintPath1>Footprints\Inductance\4.5x4_wired.PcbLib</FootprintPath1>
 		<FootprintRef1>4.5x4_wired</FootprintRef1>
@@ -108,7 +108,7 @@
 		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
 		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
 		<Inductance>12</Inductance>
-		<Current>1.05</Current>
+		<Current>1,05 А</Current>
 		<Value>12 мк</Value>
 	</Part>
 	<Part>
@@ -121,7 +121,7 @@
 		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
 		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
 		<Inductance>1.2</Inductance>
-		<Current>15</Current>
+		<Current>15 А</Current>
 		<Value>1.2 мк</Value>
 	</Part>
 	<Part>
@@ -134,7 +134,7 @@
 		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
 		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
 		<Inductance>47</Inductance>
-		<Current>3.3</Current>
+		<Current>3,3 А</Current>
 		<Value>47 мк</Value>
 	</Part>
 	<Part>
@@ -147,7 +147,7 @@
 		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
 		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
 		<Inductance>100</Inductance>
-		<Current>3.3</Current>
+		<Current>3,3 А</Current>
 		<Value>100 мк</Value>
 	</Part>
 	<Part>
@@ -159,7 +159,7 @@
 		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
 		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
 		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
-		<Current>10000</Current>
+		<Current>10000 А</Current>
 		<Value>0</Value>
 	</Part>
 	<Part>
@@ -172,12 +172,12 @@
 		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
 		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
 		<Inductance>15</Inductance>
-		<Current>8.4</Current>
+		<Current>8,4 А</Current>
 		<Value>15 мк</Value>
 	</Part>
 	<Part>
 		<PartNumber>CDSP43-1R0M</PartNumber>
-		<Description>Индуктивность на 1 мкГн, номинальный ток 4,3 A</Description>
+		<Description>Индуктивность на 1 мкГн, номинальный ток 4,3 А A</Description>
 		<Comment>CDSP43-1R0M</Comment>
 		<FootprintPath1>Footprints\Inductance\4.5x4_wired.PcbLib</FootprintPath1>
 		<FootprintRef1>4.5x4_wired</FootprintRef1>
@@ -185,12 +185,12 @@
 		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
 		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
 		<Inductance>1</Inductance>
-		<Current>4.3</Current>
+		<Current>4,3 А</Current>
 		<Value>1 мк</Value>
 	</Part>
 	<Part>
 		<PartNumber>CDSPRH127-331M</PartNumber>
-		<Description>Индуктивность на 330 мкГн, номинальный ток 1,79 A</Description>
+		<Description>Индуктивность на 330 мкГн, номинальный ток 1,79 А A</Description>
 		<Comment>CDSPRH127-331M</Comment>
 		<FootprintPath1>Footprints\Inductance\12.8x12.8.PcbLib</FootprintPath1>
 		<FootprintRef1>12.8x12.8</FootprintRef1>
@@ -198,7 +198,7 @@
 		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
 		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
 		<Inductance>330</Inductance>
-		<Current>1.79</Current>
+		<Current>1,79 А</Current>
 		<Value>330 мк</Value>
 	</Part>
 	<Part>
@@ -211,7 +211,7 @@
 		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
 		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
 		<Inductance>15</Inductance>
-		<Current>1.3</Current>
+		<Current>1,3 А</Current>
 		<Value>15 мк</Value>
 	</Part>
 	<Part>
@@ -224,7 +224,7 @@
 		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
 		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
 		<Inductance>4.7</Inductance>
-		<Current>2.5</Current>
+		<Current>2,5 А</Current>
 		<Value>4,7 мк</Value>
 	</Part>
 	<Part>
@@ -237,7 +237,7 @@
 		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
 		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
 		<Inductance>2.2</Inductance>
-		<Current>2.5</Current>
+		<Current>2,5 А</Current>
 		<Value>2,2 мк</Value>
 	</Part>
 </Inductance>

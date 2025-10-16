@@ -539,4 +539,13 @@
 		<FootprintPath1>Footprints\Connectors\1-406541-5.PcbLib</FootprintPath1>
 		<FootprintRef1>1-406541-5</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>HR911130A</PartNumber>
+		<Description>Однопортовый магнитный разъем RJ45 100/1000Base-T со встроенным трансформатором и светодиодами</Description>
+		<Comment>HR911130A</Comment>
+		<LibraryPath>Schematic\Connectors\HR911130A.SchLib</LibraryPath>
+		<LibraryRef>HR911130A</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\HR911130A.PcbLib</FootprintPath1>
+		<FootprintRef1>HR911130A</FootprintRef1>
+	</Part>
 </Connectors>

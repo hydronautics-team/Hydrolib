@@ -9,7 +9,7 @@
 		<FootprintPath1>Footprints\SOD-323.PcbLib</FootprintPath1>
 		<FootprintRef1>SOD-323</FootprintRef1>
 		<VoltageNominal>12</VoltageNominal>
-		<CurrentNominal>5</CurrentNominal>
+		<CurrentNominal>5 мА</CurrentNominal>
 		<Power>0.3</Power>
 		<Value>12 В</Value>
 	</Part>
@@ -22,7 +22,7 @@
 		<FootprintPath1>Footprints\mini_MELF_3.5mm.PcbLib</FootprintPath1>
 		<FootprintRef1>mini_MELF_3.5mm</FootprintRef1>
 		<VoltageNominal>2.4</VoltageNominal>
-		<CurrentNominal>5</CurrentNominal>
+		<CurrentNominal>5 мА</CurrentNominal>
 		<Power>0.5</Power>
 		<Value>2.4 В</Value>
 	</Part>
@@ -35,7 +35,7 @@
 		<FootprintPath1>Footprints\SOT23-3.PcbLib</FootprintPath1>
 		<FootprintRef1>SOT23-3</FootprintRef1>
 		<VoltageNominal>11</VoltageNominal>
-		<CurrentNominal>5</CurrentNominal>
+		<CurrentNominal>5 мА</CurrentNominal>
 		<Power>0.25</Power>
 		<Value>11 В</Value>
 	</Part>
@@ -48,7 +48,7 @@
 		<FootprintPath1>Footprints\mini_MELF_3.5mm.PcbLib</FootprintPath1>
 		<FootprintRef1>mini_MELF_3.5mm</FootprintRef1>
 		<VoltageNominal>12</VoltageNominal>
-		<CurrentNominal>5</CurrentNominal>
+		<CurrentNominal>5 мА</CurrentNominal>
 		<Power>0.5</Power>
 		<Value>12 В</Value>
 	</Part>
@@ -61,7 +61,7 @@
 		<FootprintPath1>Footprints\mini_MELF_3.5mm.PcbLib</FootprintPath1>
 		<FootprintRef1>mini_MELF_3.5mm</FootprintRef1>
 		<VoltageNominal>10</VoltageNominal>
-		<CurrentNominal>5</CurrentNominal>
+		<CurrentNominal>5 мА</CurrentNominal>
 		<Power>0.5</Power>
 		<Value>10 В</Value>
 	</Part>

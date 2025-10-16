@@ -184,6 +184,6 @@
 		<LibraryPath>Schematic\Connectors\Conn_1pin.SchLib</LibraryPath>
 		<LibraryRef>Conn_1pin</LibraryRef>
 		<FootprintPath1>Footprints\SMT_spacer_nut.PcbLib</FootprintPath1>
-		<FootprintRef1>9774015243</FootprintRef1>
+		<FootprintRef1>9774015151</FootprintRef1>
 	</Part>
 </Other>

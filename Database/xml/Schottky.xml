@@ -2,123 +2,123 @@
 <Schottky xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Part>
 		<PartNumber>SK33</PartNumber>
-		<Description>Диод шоттки на 30 В, ном. ток 3 А</Description>
+		<Description>Диод шоттки на 30 В, ном. ток 3 А А</Description>
 		<Comment>SK33</Comment>
 		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
 		<LibraryRef>Schottky_diode</LibraryRef>
 		<FootprintPath1>Footprints\SMC.PcbLib</FootprintPath1>
 		<FootprintRef1>SMC</FootprintRef1>
 		<VoltageNominal_V>30</VoltageNominal_V>
-		<Current_A>3</Current_A>
+		<Current_A>3 А</Current_A>
 	</Part>
 	<Part>
 		<PartNumber>SK32</PartNumber>
-		<Description>Диод шоттки на 20 В, ном. ток 3 А</Description>
+		<Description>Диод шоттки на 20 В, ном. ток 3 А А</Description>
 		<Comment>SK32</Comment>
 		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
 		<LibraryRef>Schottky_diode</LibraryRef>
 		<FootprintPath1>Footprints\SMC.PcbLib</FootprintPath1>
 		<FootprintRef1>SMC</FootprintRef1>
 		<VoltageNominal_V>20</VoltageNominal_V>
-		<Current_A>3</Current_A>
+		<Current_A>3 А</Current_A>
 	</Part>
 	<Part>
 		<PartNumber>BAT54WS</PartNumber>
-		<Description>Диод шоттки на 30 В, ном. ток 0,2 А</Description>
+		<Description>Диод шоттки на 30 В, ном. ток 0,2 А А</Description>
 		<Comment>BAT54WS</Comment>
 		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
 		<LibraryRef>Schottky_diode</LibraryRef>
 		<FootprintPath1>Footprints\SOD-323.PcbLib</FootprintPath1>
 		<FootprintRef1>SOD-323</FootprintRef1>
 		<VoltageNominal_V>30</VoltageNominal_V>
-		<Current_A>0.2</Current_A>
+		<Current_A>0,2 А</Current_A>
 	</Part>
 	<Part>
 		<PartNumber>10S45SP</PartNumber>
-		<Description>Диод шоттки на 45 В, ном. ток 10 А</Description>
+		<Description>Диод шоттки на 45 В, ном. ток 10 А А</Description>
 		<Comment>10S45SP</Comment>
 		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
 		<LibraryRef>Schottky_diode</LibraryRef>
 		<FootprintPath1>Footprints\TO-277.PcbLib</FootprintPath1>
 		<FootprintRef1>TO-277</FootprintRef1>
 		<VoltageNominal_V>45</VoltageNominal_V>
-		<Current_A>10</Current_A>
+		<Current_A>10 А</Current_A>
 	</Part>
 	<Part>
 		<PartNumber>SK810</PartNumber>
-		<Description>Диод шоттки на 100 В, ном. ток 8 А</Description>
+		<Description>Диод шоттки на 100 В, ном. ток 8 А А</Description>
 		<Comment>SK810</Comment>
 		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
 		<LibraryRef>Schottky_diode</LibraryRef>
 		<FootprintPath1>Footprints\SMC.PcbLib</FootprintPath1>
 		<FootprintRef1>SMC</FootprintRef1>
 		<VoltageNominal_V>100</VoltageNominal_V>
-		<Current_A>8</Current_A>
+		<Current_A>8 А</Current_A>
 	</Part>
 	<Part>
 		<PartNumber>15MQ040N</PartNumber>
-		<Description>Диод шоттки на 40 В, ном. ток 2,1 А</Description>
+		<Description>Диод шоттки на 40 В, ном. ток 2,1 А А</Description>
 		<Comment>15MQ040N</Comment>
 		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
 		<LibraryRef>Schottky_diode</LibraryRef>
 		<FootprintPath1>Footprints\SMA.PcbLib</FootprintPath1>
 		<FootprintRef1>SMA</FootprintRef1>
 		<VoltageNominal_V>40</VoltageNominal_V>
-		<Current_A>2.1</Current_A>
+		<Current_A>2,1 А</Current_A>
 	</Part>
 	<Part>
 		<PartNumber>BAS70-04-7-F</PartNumber>
-		<Description>Диод шоттки на 70 В, ном. ток 0,7 А</Description>
+		<Description>Диод шоттки на 70 В, ном. ток 0,7 А А</Description>
 		<Comment>BAS70-04-7-F</Comment>
 		<LibraryPath>Schematic\BAS70-04-7-F.schLib</LibraryPath>
 		<LibraryRef>BAS70-04-7-F</LibraryRef>
 		<FootprintPath1>Footprints\SOT23.PcbLib</FootprintPath1>
 		<FootprintRef1>SOT23</FootprintRef1>
 		<VoltageNominal_V>70</VoltageNominal_V>
-		<Current_A>0.7</Current_A>
+		<Current_A>0,7 А</Current_A>
 	</Part>
 	<Part>
 		<PartNumber>SK56</PartNumber>
-		<Description>Диод шоттки на 60 В, ном. ток 5 А</Description>
+		<Description>Диод шоттки на 60 В, ном. ток 5 А А</Description>
 		<Comment>SK56</Comment>
 		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
 		<LibraryRef>Schottky_diode</LibraryRef>
 		<FootprintPath1>Footprints\SMC.PcbLib</FootprintPath1>
 		<FootprintRef1>SMC</FootprintRef1>
 		<VoltageNominal_V>60</VoltageNominal_V>
-		<Current_A>5</Current_A>
+		<Current_A>5 А</Current_A>
 	</Part>
 	<Part>
 		<PartNumber>SK54</PartNumber>
-		<Description>Диод шоттки на 40 В, ном. ток 5 А</Description>
+		<Description>Диод шоттки на 40 В, ном. ток 5 А А</Description>
 		<Comment>SK54</Comment>
 		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
 		<LibraryRef>Schottky_diode</LibraryRef>
 		<FootprintPath1>Footprints\SMC.PcbLib</FootprintPath1>
 		<FootprintRef1>SMC</FootprintRef1>
 		<VoltageNominal_V>40</VoltageNominal_V>
-		<Current_A>5</Current_A>
+		<Current_A>5 А</Current_A>
 	</Part>
 	<Part>
 		<PartNumber>B550C</PartNumber>
-		<Description>Диод шоттки на 50 В, ном. ток 5 А</Description>
+		<Description>Диод шоттки на 50 В, ном. ток 5 А А</Description>
 		<Comment>B550C</Comment>
 		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
 		<LibraryRef>Schottky_diode</LibraryRef>
 		<FootprintPath1>Footprints\SMC.PcbLib</FootprintPath1>
 		<FootprintRef1>SMC</FootprintRef1>
 		<VoltageNominal_V>50</VoltageNominal_V>
-		<Current_A>5</Current_A>
+		<Current_A>5 А</Current_A>
 	</Part>
 	<Part>
 		<PartNumber>20MQ100</PartNumber>
-		<Description>Диод шоттки на 100 В, ном. ток 2 А</Description>
+		<Description>Диод шоттки на 100 В, ном. ток 2 А А</Description>
 		<Comment>20MQ100</Comment>
 		<LibraryPath>Schematic\Schottky_diode.schLib</LibraryPath>
 		<LibraryRef>Schottky_diode</LibraryRef>
 		<FootprintPath1>Footprints\SMA.PcbLib</FootprintPath1>
 		<FootprintRef1>SMA</FootprintRef1>
 		<VoltageNominal_V>100</VoltageNominal_V>
-		<Current_A>2</Current_A>
+		<Current_A>2 А</Current_A>
 	</Part>
 </Schottky>
