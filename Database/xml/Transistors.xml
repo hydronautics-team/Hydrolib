@@ -132,4 +132,22 @@
 		<FootprintPath1>Footprints\DPAK.PcbLib</FootprintPath1>
 		<FootprintRef1>DPAK</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>BC857BS</PartNumber>
+		<Description>Сборка из биполярных транзисторов, 2 pnp, 45 В,  0.1А</Description>
+		<Comment>BC857BS</Comment>
+		<LibraryPath>Schematic\2pnp.SchLib</LibraryPath>
+		<LibraryRef>2pnp</LibraryRef>
+		<FootprintPath1>Footprints\SOT-363.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT-363</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>IRF9310TR</PartNumber>
+		<Description>P-канальный MOSFET, 30 В, 20 А</Description>
+		<Comment>IRF9310TR</Comment>
+		<LibraryPath>Schematic\MOSFET_P-channel_8pin.SchLib</LibraryPath>
+		<LibraryRef>MOSFET_P-channel_8pin</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-8</FootprintRef1>
+	</Part>
 </Transistors>
