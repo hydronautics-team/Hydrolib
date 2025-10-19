@@ -140,6 +140,8 @@
 		<LibraryRef>2pnp</LibraryRef>
 		<FootprintPath1>Footprints\SOT-363.PcbLib</FootprintPath1>
 		<FootprintRef1>SOT-363</FootprintRef1>
+		<FootprintPath2>Footprints\SOT-363_35um.PcbLib</FootprintPath2>
+		<FootprintRef2>SOT-363_35um</FootprintRef2>
 	</Part>
 	<Part>
 		<PartNumber>IRF9310TR</PartNumber>
