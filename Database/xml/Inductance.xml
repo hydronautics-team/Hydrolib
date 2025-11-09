@@ -240,4 +240,17 @@
 		<Current>2,5 А</Current>
 		<Value>2,2 мк</Value>
 	</Part>
+	<Part>
+		<PartNumber>GP2426SR</PartNumber>
+		<Description>Телекоммуникационный трансформатор 100/1000 Base-T +POE+, 1CT:1CT, DCR=1.5Ohm MAX, изоляция 1500В, 24SMD</Description>
+		<Comment>GP2426SR</Comment>
+		<FootprintPath1>Footprints\Inductance\GP2426SR.PcbLib</FootprintPath1>
+		<FootprintRef1>GP2426SR</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Inductance>0</Inductance>
+		<Current>0,0 А</Current>
+		<Value>350 мк</Value>
+	</Part>
 </Inductance>
