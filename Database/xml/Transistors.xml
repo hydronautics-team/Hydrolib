@@ -152,4 +152,13 @@
 		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
 		<FootprintRef1>SOIC-8</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>IRFH3702</PartNumber>
+		<Description>N-канальный MOSFET, 30 В, 16 А</Description>
+		<Comment>IRFH3702</Comment>
+		<LibraryPath>Schematic\MOSFET_N-channel_8pin.SchLib</LibraryPath>
+		<LibraryRef>MOSFET_N-channel_8pin</LibraryRef>
+		<FootprintPath1>Footprints\PQFN_3x3.PcbLib</FootprintPath1>
+		<FootprintRef1>PQFN_3x3</FootprintRef1>
+	</Part>
 </Transistors>
