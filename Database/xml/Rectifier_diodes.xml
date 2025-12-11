@@ -22,8 +22,4 @@
 		<RepetitivePeakReverseVoltage>200</RepetitivePeakReverseVoltage>
 		<Current>1 А</Current>
 	</Part>
-	<Part>
-		<PartNumber>1N4007WS</PartNumber>
-		<Description>Диод 1А 1000</Description>
-	</Part>
 </Rectifier_diodes>
