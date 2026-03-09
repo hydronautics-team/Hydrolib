@@ -17,14 +17,14 @@ ________________________________
 - 7  плата Octopus
 - 8  плата PS_SAUVC26
 - 9  схема PS_SAUVC26
-- 10 плата SAUVC26_PCB (материнка)
-- 11 схема SAUVC26_PCB (материнка)
+- 10 плата SAUVC26_PCB (материнка 3 и 4, ветка fixes и eth)
+- 11 схема SAUVC26_PCB (материнка 3 и 4, ветка fixes и eth)
 - 12 плата VMA_SAUVC26_PCB
 - 12 схема Eth_switch_1gbit
 - 13 схема VMA_SAUVC26_PCB
 - 13 плата Eth_switch_1gbit
 - 14 DCDC_SAUVC26_PCB
-- 15 PowerBoard_SAUVC2026_PCB
+- 15 PowerBoard_SAUVC2026_PCB 
 - 16 
 - 17 
 - 18 
