@@ -186,4 +186,50 @@
 		<FootprintPath1>Footprints\SMT_spacer_nut.PcbLib</FootprintPath1>
 		<FootprintRef1>9774015151</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>LED 0603 RED</PartNumber>
+		<Description>Светодиод 0603 Красный</Description>
+		<Comment>LED 0603 RED</Comment>
+		<LibraryPath>Schematic\LED.SchLib</LibraryPath>
+		<LibraryRef>LED</LibraryRef>
+		<FootprintPath1>Footprints\0603D_red.PcbLib</FootprintPath1>
+		<FootprintRef1>0603D_red</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>LED 0603 BLUE</PartNumber>
+		<Description>Светодиод 0603 Синий</Description>
+		<Comment>LED 0603 BLUE</Comment>
+		<LibraryPath>Schematic\LED.SchLib</LibraryPath>
+		<LibraryRef>LED</LibraryRef>
+		<FootprintPath1>Footprints\0603D_blue.PcbLib</FootprintPath1>
+		<FootprintRef1>0603D_blue</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>LED 0603 YELLOW</PartNumber>
+		<Description>Светодиод 0603 Жёлтый</Description>
+		<Comment>LED 0603 YELLOW</Comment>
+		<LibraryPath>Schematic\LED.SchLib</LibraryPath>
+		<LibraryRef>LED</LibraryRef>
+		<FootprintPath1>Footprints\0603D_yellow.PcbLib</FootprintPath1>
+		<FootprintRef1>0603D_yellow</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>LED 0603 GREEN</PartNumber>
+		<Description>Светодиод 0603 Зелёный</Description>
+		<Comment>LED 0603 GREEN</Comment>
+		<LibraryPath>Schematic\LED.SchLib</LibraryPath>
+		<LibraryRef>LED</LibraryRef>
+		<FootprintPath1>Footprints\0603D_green.PcbLib</FootprintPath1>
+		<FootprintRef1>0603D_green</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>ASEK-32.768KHZ-LRT</PartNumber>
+		<Description>Генератор кварцевый керамика 32.768кГц ±25ppm/°С -40°C....+85В°C SMT</Description>
+		<Comment>ASEK-32.768KHZ-LRT</Comment>
+		<LibraryPath>Schematic\ASEK-32.768KHZ-LRT.SchLib</LibraryPath>
+		<LibraryRef>ASEK-32.768KHZ-LRT</LibraryRef>
+		<FootprintPath1>Footprints\XTAL\XTAL_ASEK-32.768KHZ-LRT.PcbLib</FootprintPath1>
+		<FootprintRef1>XTAL_ASEK-32.768KHZ-LRT</FootprintRef1>
+		<FootprintPath3>Footprints\.PcbLib</FootprintPath3>
+	</Part>
 </Other>
