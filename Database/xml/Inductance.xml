@@ -253,4 +253,43 @@
 		<Current>0,0 А</Current>
 		<Value>350 мк</Value>
 	</Part>
+	<Part>
+		<PartNumber>CDSP43-2R2M</PartNumber>
+		<Description>Катушка индуктивности SMD 2.2мкГн ±10%, 3.95A, ,не экранированная 4.5*4.3*3.2мм</Description>
+		<Comment>CDSP43-2R2M</Comment>
+		<FootprintPath1>Footprints\Inductance\4.5x4_wired.PcbLib</FootprintPath1>
+		<FootprintRef1>4.5x4_wired</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Inductance>2.2</Inductance>
+		<Current>4,2 А</Current>
+		<Value>2,2 мк</Value>
+	</Part>
+	<Part>
+		<PartNumber>IHLP2020BZER2R2M01</PartNumber>
+		<Description>Катушка индуктивности SMD экранированная 2,2мкГн ±20% 4,2A 50,1мОм 2020 лента на катушке</Description>
+		<Comment>IHLP2020BZER2R2M01</Comment>
+		<FootprintPath1>Footprints\Inductance\IHLP-2020.PcbLib</FootprintPath1>
+		<FootprintRef1>IHLP-2020</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Inductance>2.2</Inductance>
+		<Current>4,5 А</Current>
+		<Value>2,2 мк</Value>
+	</Part>
+	<Part>
+		<PartNumber>B78476A8065A003</PartNumber>
+		<Description>Телекоммуникационный трансформатор, 10/100Base-T 1CT:1CT, 16 выводов, 12.7x6.9x5.6mm</Description>
+		<Comment>B78476A8065A003</Comment>
+		<FootprintPath1>Footprints\Inductance\B78476A8065A003.PcbLib</FootprintPath1>
+		<FootprintRef1>B78476A8065A003</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Inductance>0</Inductance>
+		<Current>0,0 А</Current>
+		<Value>350 мк</Value>
+	</Part>
 </Inductance>

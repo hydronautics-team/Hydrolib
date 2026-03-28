@@ -342,11 +342,11 @@
 		<FootprintRef1>USB_3.0</FootprintRef1>
 	</Part>
 	<Part>
-		<PartNumber>PCIe M2</PartNumber>
-		<Description>PCIe M.2 Connectors, Storage and Server Connector, P=0.5mm, H=3.2mm, Key M,Gold Plating</Description>
-		<Comment>M2 M key</Comment>
-		<LibraryPath>Schematic\M2.SchLib</LibraryPath>
-		<LibraryRef>PCIe M2</LibraryRef>
+		<PartNumber>123A-30M00</PartNumber>
+		<Description>Разъем: M.2 (NGFF); горизонтальный; SMT; gold flash; PIN: 67; 0,5А</Description>
+		<Comment>123A-30M00</Comment>
+		<LibraryPath>Schematic\Connectors\M2.SchLib</LibraryPath>
+		<LibraryRef>M2</LibraryRef>
 		<FootprintPath1>Footprints\M2.PcbLib</FootprintPath1>
 		<FootprintRef1>PCIe M2</FootprintRef1>
 	</Part>
@@ -547,5 +547,41 @@
 		<LibraryRef>HR911130A</LibraryRef>
 		<FootprintPath1>Footprints\Connectors\HR911130A.PcbLib</FootprintPath1>
 		<FootprintRef1>HR911130A</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>USB_type_C_16PF-026</PartNumber>
+		<Description>USB2.0 TYPE-C 16PF-026, Разъём USB TYPE-C - розетка в плату</Description>
+		<Comment>USB_type_C_16PF-026</Comment>
+		<LibraryPath>Schematic\Connectors\USB_type_C_16PF-026.SchLib</LibraryPath>
+		<LibraryRef>USB_type_C_16PF-026</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\16PF-026.PcbLib</FootprintPath1>
+		<FootprintRef1>16PF-026</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>467650001_microHDMI</PartNumber>
+		<Description>Разъем Micro HDMI с шагом контактов 0,40 мм, угловой разъем, для поверхностного монтажа, 19 контактов</Description>
+		<Comment>467650001</Comment>
+		<LibraryPath>Schematic\Connectors\467650001.SchLib</LibraryPath>
+		<LibraryRef>467650001</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\467650001.PcbLib</FootprintPath1>
+		<FootprintRef1>467650001</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>USB 3.0A DS1095-05</PartNumber>
+		<Description>Разъем USB 3.0 тип A, 9 контактов, мама, угловой.</Description>
+		<Comment>USB 3.0A DS1095-05</Comment>
+		<LibraryPath>Schematic\Connectors\USB3.0A_DS1095-05.SchLib</LibraryPath>
+		<LibraryRef>USB3.0A_DS1095-05</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\USB3.0A_DS1095-05.PcbLib</FootprintPath1>
+		<FootprintRef1>USB3.0A_DS1095-05</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>DM3AT-SF-PEJM5</PartNumber>
+		<Description>Разъем для microSD карты памяти угл.8к.1.1мм SMT</Description>
+		<Comment>DM3AT-SF-PEJM5</Comment>
+		<LibraryPath>Schematic\Connectors\DM3AT-SF-PEJM5.SchLib</LibraryPath>
+		<LibraryRef>DM3AT-SF-PEJM5</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\DM3AT-SF-PEJM5.PcbLib</FootprintPath1>
+		<FootprintRef1>DM3AT-SF-PEJM5</FootprintRef1>
 	</Part>
 </Connectors>

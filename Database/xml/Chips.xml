@@ -110,7 +110,7 @@
 	</Part>
 	<Part>
 		<PartNumber>RT8279GSP</PartNumber>
-		<Description>Преобразователь постоянного тока понижающий подстраиваемый выход 5А </Description>
+		<Description>Преобразователь постоянного тока понижающий подстраиваемый выход 5А НЕ РЕКОМЕНДОВАНО ДЛЯ НОВЫХ ДИЗАЙНОВ</Description>
 		<Comment>RT8279GSP</Comment>
 		<LibraryPath>Schematic\RT8279GSP.SchLib</LibraryPath>
 		<LibraryRef>RT8279GSP</LibraryRef>
@@ -456,6 +456,42 @@
 		<Comment>IRS21867</Comment>
 		<LibraryPath>Schematic\IRS21867.SchLib</LibraryPath>
 		<LibraryRef>IRS21867</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>CM5116000</PartNumber>
+		<Description>Raspberry-Pi Cm5 16Gb RAM, 0Gb eMMC, Wifibt </Description>
+		<Comment>CM5116000</Comment>
+		<LibraryPath>Schematic\CM5116000.SchLib</LibraryPath>
+		<LibraryRef>CM5116000</LibraryRef>
+		<FootprintPath1>Footprints\CM5116000.PcbLib</FootprintPath1>
+		<FootprintRef1>CM5116000</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>ST1S40IPUR</PartNumber>
+		<Description>Преобразователь постоянного тока понижающий синхронный подстраиваемый 3А</Description>
+		<Comment>ST1S40IPUR</Comment>
+		<LibraryPath>Schematic\ST1S40IPUR.SchLib</LibraryPath>
+		<LibraryRef>ST1S40IPUR</LibraryRef>
+		<FootprintPath1>Footprints\VFQFPN8-4X4.PcbLib</FootprintPath1>
+		<FootprintRef1>VFQFPN8-4X4</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>MT9700</PartNumber>
+		<Description>Силовой ключ с настраиваемым ограничением тока, 2А(max), SOT-23-5</Description>
+		<Comment>MT9700</Comment>
+		<LibraryPath>Schematic\MT9700.SchLib</LibraryPath>
+		<LibraryRef>MT9700</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-5.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-5</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>NSi8100NC</PartNumber>
+		<Description>Цифровой двунаравленный изолятор 2 канала</Description>
+		<Comment>NSi8100NC</Comment>
+		<LibraryPath>Schematic\NSi8100NC.SchLib</LibraryPath>
+		<LibraryRef>NSi8100NC</LibraryRef>
 		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
 		<FootprintRef1>SOIC-8</FootprintRef1>
 	</Part>
