@@ -2024,4 +2024,59 @@
 		<FootprintPath1>Footprints/Resistors/0402R.PcbLib</FootprintPath1>
 		<FootprintRef1>0402R</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>Resistor_68_1_2512</PartNumber>
+		<Description>Резистор номиналом 68 Ом 1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>68</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/2512R.PcbLib</FootprintPath1>
+		<FootprintRef1>2512R</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_33_1_2512</PartNumber>
+		<Description>Резистор номиналом 33 Ом 1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>33</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/2512R.PcbLib</FootprintPath1>
+		<FootprintRef1>2512R</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_47_1_0805</PartNumber>
+		<Description>Резистор номиналом 47 Ом 1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>47</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/0805R.PcbLib</FootprintPath1>
+		<FootprintRef1>0805R</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_1k_0805</PartNumber>
+		<Description>Резистор номиналом 1 кОм 1%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>1 к</Value>
+		<Tolerance>0.01</Tolerance>
+		<FootprintPath1>Footprints/Resistors/0805R.PcbLib</FootprintPath1>
+		<FootprintRef1>0805R</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>Resistor_0_5_0603</PartNumber>
+		<Description>Резистор номиналом 0 Ом 5%</Description>
+		<Comment>Resistor</Comment>
+		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
+		<LibraryRef>Resistor</LibraryRef>
+		<Value>0</Value>
+		<Tolerance>0.05</Tolerance>
+		<FootprintPath1>Footprints/Resistors/0603R.PcbLib</FootprintPath1>
+		<FootprintRef1>0603R</FootprintRef1>
+	</Part>
 </Resistors>

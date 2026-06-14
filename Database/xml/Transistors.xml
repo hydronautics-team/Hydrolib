@@ -161,4 +161,22 @@
 		<FootprintPath1>Footprints\PQFN_3x3.PcbLib</FootprintPath1>
 		<FootprintRef1>PQFN_3x3</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>NVMFS5C673NL</PartNumber>
+		<Description>N-канальный MOSFET, 60 В, 50 А</Description>
+		<Comment>NVMFS5C673NL</Comment>
+		<LibraryPath>Schematic\MOSFET_N-channel_5pin.SchLib</LibraryPath>
+		<LibraryRef>MOSFET_N-channel_5pin</LibraryRef>
+		<FootprintPath1>Footprints\DFN5_5x6.PcbLib</FootprintPath1>
+		<FootprintRef1>DFN5_5x6</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>CSD18534Q5A</PartNumber>
+		<Description>N-канальный MOSFET, 60 В, 50 А</Description>
+		<Comment>CSD18534Q5A</Comment>
+		<LibraryPath>Schematic\MOSFET_N-channel_5pin.SchLib</LibraryPath>
+		<LibraryRef>MOSFET_N-channel_5pin</LibraryRef>
+		<FootprintPath1>Footprints\SON-8_5x6.PcbLib</FootprintPath1>
+		<FootprintRef1>SON-8_5x6</FootprintRef1>
+	</Part>
 </Transistors>

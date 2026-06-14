@@ -292,4 +292,74 @@
 		<Current>0,0 А</Current>
 		<Value>350 мк</Value>
 	</Part>
+	<Part>
+		<PartNumber>MPXV1D1250L150</PartNumber>
+		<Description>Катушка индуктивности 15мкГн ±20% 8.2A 30.8мОм</Description>
+		<Comment>MPXV1D1250L150</Comment>
+		<FootprintPath1>Footprints\Inductance\MPXV1D1250.PcbLib</FootprintPath1>
+		<FootprintRef1>MPXV1D1250</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Inductance>15</Inductance>
+		<Current>8,2 А</Current>
+		<Value>15 мк</Value>
+	</Part>
+	<Part>
+		<PartNumber>H5120NLT</PartNumber>
+		<Description>Телекоммуникационный трансформатор 10/100/1000 Base-T, 1CT:1CT, изоляция 1500В</Description>
+		<Comment>H5120NLT</Comment>
+		<FootprintPath1>Footprints\Inductance\H5120NLT.PcbLib</FootprintPath1>
+		<FootprintRef1>H5120NLT</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Inductance>0</Inductance>
+		<Current>0,0 А</Current>
+		<Value>350 мк</Value>
+	</Part>
+	<Part>
+		<PartNumber>IHLP4040DZER150M11</PartNumber>
+		<Description>Катушка индуктивности SMD экранированная 15мкГн ±20% 6,25A 45мОм</Description>
+		<Comment>IHLP4040DZER150M11</Comment>
+		<FootprintPath1>Footprints\Inductance\IHLP-4040.PcbLib</FootprintPath1>
+		<FootprintRef1>IHLP-4040</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Inductance>15</Inductance>
+		<Current>6,25 А</Current>
+		<Value>15 мк</Value>
+	</Part>
+	<Part>
+		<PartNumber>Transformer_RM8</PartNumber>
+		<Description>Трансформатор на сердечнике RM8</Description>
+		<Comment>Transformer_RM8</Comment>
+		<FootprintPath1>Footprints\Inductance\RM8_trans.PcbLib</FootprintPath1>
+		<FootprintRef1>RM8_trans</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+	</Part>
+	<Part>
+		<PartNumber>Inductance_RM8</PartNumber>
+		<Description>Индуктивность на сердечнике RM8</Description>
+		<Comment>Inductance_RM8</Comment>
+		<FootprintPath1>Footprints\Inductance\RM8_trans.PcbLib</FootprintPath1>
+		<FootprintRef1>RM8_trans</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Value>0</Value>
+	</Part>
+	<Part>
+		<PartNumber>BLM18AG102SN1D</PartNumber>
+		<Description>Дроссель подавления ЭМП</Description>
+		<Comment>BLM18AG102SN1D</Comment>
+		<FootprintPath1>Footprints\Inductance\0603L.PcbLib</FootprintPath1>
+		<FootprintRef1>0603L</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+	</Part>
 </Inductance>
