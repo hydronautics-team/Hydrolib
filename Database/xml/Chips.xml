@@ -409,8 +409,8 @@
 		<PartNumber>RTL8367RB-VB</PartNumber>
 		<Description>Управляемый коммутатор второго уровня на 5+2 порта 10/100/1000M</Description>
 		<Comment>RTL8367RB-VB</Comment>
-		<LibraryPath>Schematic\RTL8367RB-VB.SchLib</LibraryPath>
-		<LibraryRef>RTL8367RB-VB</LibraryRef>
+		<LibraryPath>Schematic\RTL8367RB-VB_gost.SchLib</LibraryPath>
+		<LibraryRef>RTL8367RB-VB_gost</LibraryRef>
 		<FootprintPath1>Footprints\LQFP128_14x14_exposed_pad.PcbLib</FootprintPath1>
 		<FootprintRef1>LQFP128_14x14_exposed_pad</FootprintRef1>
 	</Part>
@@ -494,5 +494,68 @@
 		<LibraryRef>NSi8100NC</LibraryRef>
 		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
 		<FootprintRef1>SOIC-8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>UCC27211</PartNumber>
+		<Description>Полумостовой драйвер затвора для mosfet транзисторов</Description>
+		<Comment>UCC27211</Comment>
+		<LibraryPath>Schematic\UCC27211.SchLib</LibraryPath>
+		<LibraryRef>UCC27211</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>AD8656</PartNumber>
+		<Description>Операционный усилитель 28МГц, CMOS, 2-канала, Rail-to-Rail</Description>
+		<Comment>AD8656</Comment>
+		<LibraryPath>Schematic\AD8656.SchLib</LibraryPath>
+		<LibraryRef>AD8656</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>STM32H743VIT6</PartNumber>
+		<Description>Микроконтроллер, 32-Бит, Cortex-M7, 480МГц, 2Мб Flash, 1Мб SRAM, 82 I/O</Description>
+		<Comment>STM32H743VIT6</Comment>
+		<LibraryPath>Schematic\STM32H743VIT6.SchLib</LibraryPath>
+		<LibraryRef>STM32H743VIT6</LibraryRef>
+		<FootprintPath1>Footprints\LQFP100.PcbLib</FootprintPath1>
+		<FootprintRef1>LQFP100</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>AD8031</PartNumber>
+		<Description>Операционный усилитель, 80МГц, 1-канал, 35В/мкс, Voltage Feedback, Rail-to-Rail</Description>
+		<Comment>AD8031</Comment>
+		<LibraryPath>Schematic\AD8031.SchLib</LibraryPath>
+		<LibraryRef>AD8031</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-5.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-5</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>AP63205</PartNumber>
+		<Description>DC-DC понижающий преобразователь, Vin: 3.8 - 40 В; 5 В; 2 А</Description>
+		<Comment>AP63205</Comment>
+		<LibraryPath>Schematic\AP63205.SchLib</LibraryPath>
+		<LibraryRef>AP63205</LibraryRef>
+		<FootprintPath1>Footprints\TSOT26.PcbLib</FootprintPath1>
+		<FootprintRef1>TSOT26</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>ADP150AUJZ-3.3</PartNumber>
+		<Description>Стабилизатор напряжения 3.3В 150мА </Description>
+		<Comment>ADP150AUJZ-3.3</Comment>
+		<LibraryPath>Schematic\ADP150AUJZ-3.3.SchLib</LibraryPath>
+		<LibraryRef>ADP150AUJZ-3.3</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-5.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-5</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>REF3030AIDBZR</PartNumber>
+		<Description>Источник опорного напряжения, 3В</Description>
+		<Comment>REF3030AIDBZR</Comment>
+		<LibraryPath>Schematic\REF3030AIDBZR.SchLib</LibraryPath>
+		<LibraryRef>REF3030AIDBZR</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-3.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-3</FootprintRef1>
 	</Part>
 </Chips>

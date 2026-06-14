@@ -584,4 +584,13 @@
 		<FootprintPath1>Footprints\Connectors\DM3AT-SF-PEJM5.PcbLib</FootprintPath1>
 		<FootprintRef1>DM3AT-SF-PEJM5</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>BM04B-SRSS-TB</PartNumber>
+		<Description>Разъем штыревой на плату, поверхностый монтаж, вертикальный, 4 контакта, шаг 1 мм</Description>
+		<Comment>BM04B-SRSS-TB</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_4pin_sh.SchLib</LibraryPath>
+		<LibraryRef>Conn_4pin_sh</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\BM04B-SRSS-TB.PcbLib</FootprintPath1>
+		<FootprintRef1>BM04B-SRSS-TB</FootprintRef1>
+	</Part>
 </Connectors>

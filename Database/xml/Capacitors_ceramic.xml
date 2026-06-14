@@ -481,14 +481,14 @@
 		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 	<Part>
-		<PartNumber>Capacitor_1u_10_50V_X7R_0603C</PartNumber>
-		<Description>Конденсатор 0603C ёмкостью 1 мк 10%, 50 В, X7R</Description>
+		<PartNumber>Capacitor_1u_10_25V_X7R_0603C</PartNumber>
+		<Description>Конденсатор 0603C ёмкостью 1 мк 10%, 25 В, X7R</Description>
 		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
 		<LibraryRef>Capacitor</LibraryRef>
 		<Tolerance>Capacitor</Tolerance>
 		<Voltage>1 мк</Voltage>
 		<Dielectric>10%</Dielectric>
-		<FootprintPath1>50</FootprintPath1>
+		<FootprintPath1>25</FootprintPath1>
 		<FootprintRef1>X7R</FootprintRef1>
 		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
@@ -587,5 +587,89 @@
 		<FootprintPath1>16</FootprintPath1>
 		<FootprintRef1>X7R</FootprintRef1>
 		<Capacity>Footprints\Capacitors\0402C.PcbLib</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>CC1210MKX5R7BB107</PartNumber>
+		<Description>Конденсатор 1210C ёмкостью 100 мк 20%, 16 В, X5R</Description>
+		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
+		<LibraryRef>CC1210MKX5R7BB107</LibraryRef>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>100 мк</Voltage>
+		<Dielectric>20%</Dielectric>
+		<FootprintPath1>16</FootprintPath1>
+		<FootprintRef1>X5R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\1210C.PcbLib</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>GRM31CR61E476ME44L</PartNumber>
+		<Description>Конденсатор 1206C ёмкостью 47 мк 20%, 25 В, X5R</Description>
+		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
+		<LibraryRef>GRM31CR61E476ME44L</LibraryRef>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>47 мк</Voltage>
+		<Dielectric>20%</Dielectric>
+		<FootprintPath1>25</FootprintPath1>
+		<FootprintRef1>X5R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\1206C.PcbLib</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_1n_5_50V_NP0_0603C</PartNumber>
+		<Description>Конденсатор 0603C ёмкостью 1 н 5%, 50 В, NP0</Description>
+		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
+		<LibraryRef>Capacitor</LibraryRef>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>1 н</Voltage>
+		<Dielectric>5%</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>NP0</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_3.3n_5_50V_NP0_0603C</PartNumber>
+		<Description>Конденсатор 0603C ёмкостью 3,3 н 5%, 50 В, NP0</Description>
+		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
+		<LibraryRef>Capacitor</LibraryRef>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>3,3 н</Voltage>
+		<Dielectric>5%</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>NP0</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_10u_10_10V_X7R_0603C</PartNumber>
+		<Description>Конденсатор 0603C ёмкостью 10 мк 10%, 10 В, X7R</Description>
+		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
+		<LibraryRef>Capacitor</LibraryRef>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>10 мк</Voltage>
+		<Dielectric>10%</Dielectric>
+		<FootprintPath1>10</FootprintPath1>
+		<FootprintRef1>X7R</FootprintRef1>
+		<Capacity>Footprints\Capacitors\1210C.PcbLib</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_12p_5_50V_NP0_0603C</PartNumber>
+		<Description>Конденсатор 0603C ёмкостью 12 п 5%, 50 В, NP0</Description>
+		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
+		<LibraryRef>Capacitor</LibraryRef>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>12 п</Voltage>
+		<Dielectric>5%</Dielectric>
+		<FootprintPath1>50</FootprintPath1>
+		<FootprintRef1>NP0</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_100p_5_630V_NP0_1206C</PartNumber>
+		<Description>Конденсатор 1206C ёмкостью 100 п 5%, 630 В, NP0</Description>
+		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
+		<LibraryRef>Capacitor</LibraryRef>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>100 п</Voltage>
+		<Dielectric>5%</Dielectric>
+		<FootprintPath1>630</FootprintPath1>
+		<FootprintRef1>NP0</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
 </Capacitors_ceramic>

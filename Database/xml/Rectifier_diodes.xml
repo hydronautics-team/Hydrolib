@@ -22,4 +22,37 @@
 		<RepetitivePeakReverseVoltage>200</RepetitivePeakReverseVoltage>
 		<Current>1 А</Current>
 	</Part>
+	<Part>
+		<PartNumber>S1GFL</PartNumber>
+		<Description>Диод 400В 1A [SOD-123F]</Description>
+		<Comment>S1GFL</Comment>
+		<LibraryPath>Schematic\Rectifier_diode.schLib</LibraryPath>
+		<LibraryRef>Rectifier_diode</LibraryRef>
+		<FootprintPath1>Footprints\SOD-123F.PcbLib</FootprintPath1>
+		<FootprintRef1>SOD-123F</FootprintRef1>
+		<RepetitivePeakReverseVoltage>400</RepetitivePeakReverseVoltage>
+		<Current>1 А</Current>
+	</Part>
+	<Part>
+		<PartNumber>SMA4007</PartNumber>
+		<Description>Выпрямительный диод на 1000 В, ном. ток 1 А А</Description>
+		<Comment>SMA4007</Comment>
+		<LibraryPath>Schematic\Rectifier_diode.schLib</LibraryPath>
+		<LibraryRef>Rectifier_diode</LibraryRef>
+		<FootprintPath1>Footprints\SMA.PcbLib</FootprintPath1>
+		<FootprintRef1>SMA</FootprintRef1>
+		<RepetitivePeakReverseVoltage>1000</RepetitivePeakReverseVoltage>
+		<Current>1 А</Current>
+	</Part>
+	<Part>
+		<PartNumber>BAV99</PartNumber>
+		<Description>Диод импульсный, 2 х 0.2А, 70В, последовательное включение</Description>
+		<Comment>BAV99</Comment>
+		<LibraryPath>Schematic\Rectifier_diode_2.schLib</LibraryPath>
+		<LibraryRef>Rectifier_diode_2</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-3.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-3</FootprintRef1>
+		<RepetitivePeakReverseVoltage>70</RepetitivePeakReverseVoltage>
+		<Current>0.2</Current>
+	</Part>
 </Rectifier_diodes>
