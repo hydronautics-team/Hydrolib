@@ -232,4 +232,13 @@
 		<FootprintRef1>XTAL_ASEK-32.768KHZ-LRT</FootprintRef1>
 		<FootprintPath3>Footprints\.PcbLib</FootprintPath3>
 	</Part>
+	<Part>
+		<PartNumber>MF-FSMF010X-2</PartNumber>
+		<Description>Предохранитель самовосстанавливающийся 0,1А 15В</Description>
+		<Comment>MF-FSMF010X-2</Comment>
+		<LibraryPath>Schematic\MF-FSMF010X-2.SchLib</LibraryPath>
+		<LibraryRef>MF-FSMF010X-2</LibraryRef>
+		<FootprintPath1>Footprints/Resistors/0603R.PcbLib</FootprintPath1>
+		<FootprintPath3>Footprints\.PcbLib</FootprintPath3>
+	</Part>
 </Other>
