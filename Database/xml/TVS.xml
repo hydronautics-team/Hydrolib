@@ -142,4 +142,15 @@
 		<Power>400</Power>
 		<Value>12 В</Value>
 	</Part>
+	<Part>
+		<PartNumber>PESD1CAN,215</PartNumber>
+		<Description>Защитный диод для линии CAN</Description>
+		<Comment>PESD1CAN,215</Comment>
+		<LibraryPath>Schematic\TVS\TVS_2_2dir.SchLib</LibraryPath>
+		<LibraryRef>TVS_2_2dir</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-3.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-3</FootprintRef1>
+		<Value> В</Value>
+		<Inteface>CAN</Inteface>
+	</Part>
 </TVS>

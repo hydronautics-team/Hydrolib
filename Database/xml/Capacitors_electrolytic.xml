@@ -377,4 +377,32 @@
 		<FootprintRef1>ECAP_SMD_10,3x10,3</FootprintRef1>
 		<Capacity>470</Capacity>
 	</Part>
+	<Part>
+		<PartNumber>35SVPF120M</PartNumber>
+		<Description>Полимерный алюминиевый конденсатор 120мкФ 35В 10x12,6мм 4400мА 5000часов 105°C</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>120 мк</Value>
+		<Tolerance>20</Tolerance>
+		<Voltage>35</Voltage>
+		<Type>SMD Aluminum</Type>
+		<FootprintPath1>Footprints\Capacitors\CAP_SMD_10x12,7.PcbLib</FootprintPath1>
+		<FootprintRef1>CAP_SMD_10x12,7</FootprintRef1>
+		<Capacity>120</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>50SVPF68M</PartNumber>
+		<Description>Конденсатор алюминиевый полимерный 68мкФ 50В ±20% (10х12.6мм) для поверхностного монтажа 0.02Ом 4300мА 5000час 105°С</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
+		<LibraryRef>Capacitor_polar</LibraryRef>
+		<Value>68 мк</Value>
+		<Tolerance>20</Tolerance>
+		<Voltage>50</Voltage>
+		<Type>SMD Aluminum</Type>
+		<FootprintPath1>Footprints\Capacitors\CAP_SMD_10x12,7.PcbLib</FootprintPath1>
+		<FootprintRef1>CAP_SMD_10x12,7</FootprintRef1>
+		<Capacity>68</Capacity>
+	</Part>
 </Capacitors_electrolytic>

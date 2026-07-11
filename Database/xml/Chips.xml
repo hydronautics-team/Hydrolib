@@ -558,4 +558,13 @@
 		<FootprintPath1>Footprints\SOT23-3.PcbLib</FootprintPath1>
 		<FootprintRef1>SOT23-3</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>MAX3051EKA+T</PartNumber>
+		<Description>CAN трансивер 1Mbps +3.3В</Description>
+		<Comment>MAX3051EKA+T</Comment>
+		<LibraryPath>Schematic\MAX3051EKA+T.SchLib</LibraryPath>
+		<LibraryRef>MAX3051EKA+T</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-8</FootprintRef1>
+	</Part>
 </Chips>
