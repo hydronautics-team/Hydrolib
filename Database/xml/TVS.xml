@@ -153,4 +153,28 @@
 		<Value> В</Value>
 		<Inteface>CAN</Inteface>
 	</Part>
+	<Part>
+		<PartNumber>PTVS3V3S1UR</PartNumber>
+		<Description>Защитный диод на 3,3 В, рассеиваемая мощность 400 Вт</Description>
+		<Comment>PTVS3V3S1UR</Comment>
+		<LibraryPath>Schematic\TVS\TVS_1_1dir.SchLib</LibraryPath>
+		<LibraryRef>TVS_1_1dir</LibraryRef>
+		<FootprintPath1>Footprints\SOD-123W.PcbLib</FootprintPath1>
+		<FootprintRef1>SOD-123W</FootprintRef1>
+		<VoltageNominal>3.3</VoltageNominal>
+		<Power>400</Power>
+		<Value>3,3 В</Value>
+	</Part>
+	<Part>
+		<PartNumber>SMAJ5.0A-TR</PartNumber>
+		<Description>Защитный диод на 5 В, рассеиваемая мощность 400 Вт</Description>
+		<Comment>SMAJ5.0A-TR</Comment>
+		<LibraryPath>Schematic\TVS\TVS_1_1dir.SchLib</LibraryPath>
+		<LibraryRef>TVS_1_1dir</LibraryRef>
+		<FootprintPath1>Footprints\SMA.PcbLib</FootprintPath1>
+		<FootprintRef1>SMA</FootprintRef1>
+		<VoltageNominal>5</VoltageNominal>
+		<Power>400</Power>
+		<Value>5 В</Value>
+	</Part>
 </TVS>
