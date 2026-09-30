@@ -612,4 +612,31 @@
 		<FootprintPath1>Footprints\LED_RGB_5MM.PcbLib</FootprintPath1>
 		<FootprintRef1>LED_RGB_5MM</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>ADR02BUJZ</PartNumber>
+		<Description>Источник опорного напряжения, 5В</Description>
+		<Comment>ADR02BUJZ</Comment>
+		<LibraryPath>Schematic\ADR02BUJZ.SchLib</LibraryPath>
+		<LibraryRef>ADR02BUJZ</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-5.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-5</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>ADS1220IPWR</PartNumber>
+		<Description>24-Бит Sigma-Delta аналого-цифровой преобразователь</Description>
+		<Comment>ADS1220IPWR</Comment>
+		<LibraryPath>Schematic\ADS1220IPWR.SchLib</LibraryPath>
+		<LibraryRef>ADS1220IPWR</LibraryRef>
+		<FootprintPath1>Footprints\TSSOP-16.PcbLib</FootprintPath1>
+		<FootprintRef1>TSSOP-16</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>AP63203WU-7</PartNumber>
+		<Description>DC-DC Преобразователь</Description>
+		<Comment>MAX3051EKA+T</Comment>
+		<LibraryPath>Schematic\MAX3051EKA+T.SchLib</LibraryPath>
+		<LibraryRef>MAX3051EKA+T</LibraryRef>
+		<FootprintPath1>Footprints\SOT-23-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT-23-8</FootprintRef1>
+	</Part>
 </Chips>
