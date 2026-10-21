@@ -612,4 +612,13 @@
 		<FootprintPath1>Footprints\LED_RGB_5MM.PcbLib</FootprintPath1>
 		<FootprintRef1>LED_RGB_5MM</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>URB2405YMD-15WR3</PartNumber>
+		<Description>DC-DC понижающий преобразователь, Vin: 9-36 В; 5 В; 3 А</Description>
+		<Comment>URB2405YMD-15WR3</Comment>
+		<LibraryPath>Schematic\URB2405YMD-15WR3.SchLib</LibraryPath>
+		<LibraryRef>URB2405YMD-15WR3</LibraryRef>
+		<FootprintPath1>Footprints\URB2405YMD-15WR3.PcbLib</FootprintPath1>
+		<FootprintRef1>URB2405YMD-15WR3</FootprintRef1>
+	</Part>
 </Chips>
