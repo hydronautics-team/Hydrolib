@@ -611,4 +611,12 @@
 		<FootprintPath1>Footprints\Connectors\AMPHENOL_10018783-11111TLF.PcbLib</FootprintPath1>
 		<FootprintRef1>AMPHENOL_10018783-11111TLF</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>PCI-E(4X)</PartNumber>
+		<Comment>PCI-E(4X)</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_64pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_64pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\PCIexpress_x4_full.PcbLib</FootprintPath1>
+		<FootprintRef1>PCIexpress_x4_full</FootprintRef1>
+	</Part>
 </Connectors>
