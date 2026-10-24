@@ -621,4 +621,31 @@
 		<FootprintPath1>Footprints\URB2405YMD-15WR3.PcbLib</FootprintPath1>
 		<FootprintRef1>URB2405YMD-15WR3</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>ADR02BUJZ</PartNumber>
+		<Description>Источник опорного напряжения, 5В</Description>
+		<Comment>ADR02BUJZ</Comment>
+		<LibraryPath>Schematic\ADR02BUJZ.SchLib</LibraryPath>
+		<LibraryRef>ADR02BUJZ</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-5.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-5</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>ADS1220IPWR</PartNumber>
+		<Description>24-Бит Sigma-Delta аналого-цифровой преобразователь</Description>
+		<Comment>ADS1220IPWR</Comment>
+		<LibraryPath>Schematic\ADS1220IPWR.SchLib</LibraryPath>
+		<LibraryRef>ADS1220IPWR</LibraryRef>
+		<FootprintPath1>Footprints\TSSOP-16.PcbLib</FootprintPath1>
+		<FootprintRef1>TSSOP-16</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>AP63203WU-7</PartNumber>
+		<Description>DC-DC Преобразователь</Description>
+		<Comment>0</Comment>
+		<LibraryPath>Schematic\.SchLib</LibraryPath>
+		<LibraryRef>AP63203WU-7</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-8</FootprintRef1>
+	</Part>
 </Chips>

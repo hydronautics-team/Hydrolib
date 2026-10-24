@@ -611,4 +611,18 @@
 		<FootprintPath1>Footprints\Connectors\AMPHENOL_10018783-11111TLF.PcbLib</FootprintPath1>
 		<FootprintRef1>AMPHENOL_10018783-11111TLF</FootprintRef1>
 	</Part>
+	<Part>
+		<Comment>Picoblade_532610371</Comment>
+		<LibraryPath>Picoblade 3-pin разъем</LibraryPath>
+		<LibraryRef>Picoblade_532610371</LibraryRef>
+		<FootprintPath1>Schematic\Connectors\Picoblade_532610371.SchLib</FootprintPath1>
+		<FootprintRef1>Conn_3pin_2shield</FootprintRef1>
+	</Part>
+	<Part>
+		<Comment>PicoBlade_53398-0471</Comment>
+		<LibraryPath>Разъем PicoBlade 1.25 мм, 4pin</LibraryPath>
+		<LibraryRef>PicoBlade_53398-0471</LibraryRef>
+		<FootprintPath1>Schematic\Connectors\PicoBlade_53398-0471.SchLib</FootprintPath1>
+		<FootprintRef1>Conn_4pin_2shield</FootprintRef1>
+	</Part>
 </Connectors>
