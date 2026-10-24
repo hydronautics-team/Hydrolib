@@ -613,6 +613,7 @@
 		<FootprintRef1>LED_RGB_5MM</FootprintRef1>
 	</Part>
 	<Part>
+<<<<<<< HEAD
 		<PartNumber>ADR02BUJZ</PartNumber>
 		<Description>Источник опорного напряжения, 5В</Description>
 		<Comment>ADR02BUJZ</Comment>
@@ -638,5 +639,14 @@
 		<LibraryRef>MAX3051EKA+T</LibraryRef>
 		<FootprintPath1>Footprints\SOT-23-8.PcbLib</FootprintPath1>
 		<FootprintRef1>SOT-23-8</FootprintRef1>
+=======
+		<PartNumber>URB2405YMD-15WR3</PartNumber>
+		<Description>DC-DC понижающий преобразователь, Vin: 9-36 В; 5 В; 3 А</Description>
+		<Comment>URB2405YMD-15WR3</Comment>
+		<LibraryPath>Schematic\URB2405YMD-15WR3.SchLib</LibraryPath>
+		<LibraryRef>URB2405YMD-15WR3</LibraryRef>
+		<FootprintPath1>Footprints\URB2405YMD-15WR3.PcbLib</FootprintPath1>
+		<FootprintRef1>URB2405YMD-15WR3</FootprintRef1>
+>>>>>>> upstream/master
 	</Part>
 </Chips>
