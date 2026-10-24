@@ -613,6 +613,15 @@
 		<FootprintRef1>LED_RGB_5MM</FootprintRef1>
 	</Part>
 	<Part>
+		<PartNumber>ICM-42688-P</PartNumber>
+		<Description>Датчик положения ICM-42688-P </Description>
+		<Comment>ICM-42688-P</Comment>
+		<LibraryPath>Schematic\ICM-42688-P.SchLib</LibraryPath>
+		<LibraryRef>ICM-42688-P</LibraryRef>
+		<FootprintPath1>Footprints\ICM-42688-P.PcbLib</FootprintPath1>
+		<FootprintRef1>ICM-42688-P</FootprintRef1>
+	</Part>
+	<Part>
 		<PartNumber>URB2405YMD-15WR3</PartNumber>
 		<Description>DC-DC понижающий преобразователь, Vin: 9-36 В; 5 В; 3 А</Description>
 		<Comment>URB2405YMD-15WR3</Comment>

@@ -52,6 +52,15 @@
 		<FootprintRef2>DPAK_termopad</FootprintRef2>
 	</Part>
 	<Part>
+		<PartNumber>UMW AO4485</PartNumber>
+		<Description>P-канальный MOSFET</Description>
+		<Comment>UMW AO4485</Comment>
+		<LibraryPath>Schematic\MOSFET P-channel.SchLib</LibraryPath>
+		<LibraryRef>MOSFET P-channel 1</LibraryRef>
+		<FootprintPath1>Footprints\AO4485.PcbLib</FootprintPath1>
+		<FootprintRef1>AO4485</FootprintRef1>
+	</Part>
+	<Part>
 		<PartNumber>AO4411</PartNumber>
 		<Description>P-канальный MOSFET</Description>
 		<Comment>AO4411</Comment>
