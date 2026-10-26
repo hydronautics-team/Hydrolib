@@ -1,0 +1,52 @@
+name: Update PR with XLSM merge
+on:
+  workflow_dispatch:
+    inputs:
+      pr_number:
+        description: 'Номер PR (ветка должна находиться в этом репозитории)'
+        required: true
+        type: string
+      conflict_side:
+        description: 'Сторона для спорных полей: ours = ветка PR, theirs = целевая ветка; manual = индивидуальный выбор'
+        required: true
+        type: choice
+        default: ours
+        options:
+          - ours
+          - theirs
+          - manual
+      resolutions_json:
+        description: 'Дополнительно: JSON с индивидуальными решениями; обычно оставьте пустым'
+        required: false
+        type: string
+permissions:
+  contents: write
+  pull-requests: read
+concurrency:
+  group: xlsm-update-${{ inputs.pr_number }}
+  cancel-in-progress: false
+jobs:
+  update:
+    # Only use trusted default-branch code for this write-enabled job.
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r tools/xlsm_merge/requirements.txt
+      - run: python -m unittest discover -s tests -p 'test_xlsm*.py'
+      - run: python tools/xlsm_merge/ci.py --apply
+        env:
+          PR_NUMBER: ${{ inputs.pr_number }}
+          GH_TOKEN: ${{ github.token }}
+          CONFLICT_SIDE: ${{ inputs.conflict_side }}
+          RESOLUTIONS_JSON: ${{ inputs.resolutions_json }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: xlsm-merge-result
+          path: xlsm-artifacts/
