@@ -1,0 +1,60 @@
+name: Update PR with XLSM merge
+on:
+  workflow_dispatch:
+    inputs:
+      pr_number:
+        description: 'Номер PR, включая PR из личного форка'
+        required: true
+        type: string
+      conflict_side:
+        description: 'Спорные данные и VBA: ours = ветка PR, theirs = целевая ветка; VBA выбирается целиком; manual = индивидуально'
+        required: true
+        type: choice
+        default: ours
+        options:
+          - ours
+          - theirs
+          - manual
+      resolutions_json:
+        description: 'Дополнительно: JSON с индивидуальными решениями; обычно оставьте пустым'
+        required: false
+        type: string
+permissions:
+  contents: write
+  pull-requests: write
+concurrency:
+  group: xlsm-update-${{ inputs.pr_number }}
+  cancel-in-progress: false
+jobs:
+  update:
+    # Only use trusted default-branch code for this write-enabled job.
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r tools/xlsm_merge/requirements.txt
+      - run: python -m unittest discover -s tests -p 'test_xlsm*.py'
+      - id: merge
+        name: Проверить и объединить данные XLSM
+        run: python tools/xlsm_merge/ci.py --apply
+        env:
+          PR_NUMBER: ${{ inputs.pr_number }}
+          GH_TOKEN: ${{ github.token }}
+          CONFLICT_SIDE: ${{ inputs.conflict_side }}
+          RESOLUTIONS_JSON: ${{ inputs.resolutions_json }}
+      - name: Показать результат и дальнейшие действия
+        if: always()
+        run: python tools/xlsm_merge/summary.py
+        env:
+          MERGE_OUTCOME: ${{ steps.merge.outcome }}
+          PR_NUMBER: ${{ github.event.pull_request.number || inputs.pr_number }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: xlsm-merge-result
+          path: xlsm-artifacts/

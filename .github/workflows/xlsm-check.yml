@@ -1,0 +1,51 @@
+name: XLSM merge check
+on:
+  workflow_dispatch:
+    inputs:
+      pr_number:
+        description: 'Номер PR для проверки (без изменения веток)'
+        required: true
+        type: string
+  # Run even when the workbook has a Git merge conflict.
+  # Execute trusted default-branch code; PR workbooks are read only as data.
+  pull_request_target:
+    types: [opened, synchronize, reopened, ready_for_review, edited]
+permissions:
+  contents: read
+  pull-requests: read
+concurrency:
+  group: xlsm-check-${{ github.event.pull_request.number || inputs.pr_number }}
+  cancel-in-progress: true
+jobs:
+  check:
+    # Manual checks execute trusted code from the default branch only.
+    if: github.event_name != 'workflow_dispatch' || github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    steps:
+      # Both triggers use trusted default-branch code, never a PR head or merge ref.
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r tools/xlsm_merge/requirements.txt
+      - run: python -m unittest discover -s tests -p 'test_xlsm*.py'
+      - id: merge
+        name: Проверить и объединить данные XLSM
+        run: python tools/xlsm_merge/ci.py
+        env:
+          PR_NUMBER: ${{ github.event.pull_request.number || inputs.pr_number }}
+          GH_TOKEN: ${{ github.token }}
+      - name: Показать результат и дальнейшие действия
+        if: always()
+        run: python tools/xlsm_merge/summary.py
+        env:
+          MERGE_OUTCOME: ${{ steps.merge.outcome }}
+          PR_NUMBER: ${{ github.event.pull_request.number || inputs.pr_number }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: xlsm-merge-report
+          path: xlsm-artifacts/
