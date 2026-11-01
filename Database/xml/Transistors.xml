@@ -55,10 +55,10 @@
 		<PartNumber>UMW AO4485</PartNumber>
 		<Description>P-канальный MOSFET</Description>
 		<Comment>UMW AO4485</Comment>
-		<LibraryPath>Schematic\MOSFET P-channel.SchLib</LibraryPath>
-		<LibraryRef>MOSFET P-channel 1</LibraryRef>
-		<FootprintPath1>Footprints\AO4485.PcbLib</FootprintPath1>
-		<FootprintRef1>AO4485</FootprintRef1>
+		<LibraryPath>Schematic\MOSFET_P-channel_8pin.SchLib</LibraryPath>
+		<LibraryRef>MOSFET_P-channel_8pin</LibraryRef>
+		<FootprintPath1>Footprints\SOP8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOP8</FootprintRef1>
 	</Part>
 	<Part>
 		<PartNumber>AO4411</PartNumber>

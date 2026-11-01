@@ -619,4 +619,27 @@
 		<FootprintPath1>Footprints\Connectors\PCIexpress_x4_full.PcbLib</FootprintPath1>
 		<FootprintRef1>PCIexpress_x4_full</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>PLS4-90</PartNumber>
+		<Description>Гребенка 4 пина</Description>
+		<Comment>PLS-4</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_4pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_4pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\PLS_PLD_PBS_PBD_and_others\PLS_ALL.PcbLib</FootprintPath1>
+		<FootprintRef1>PLS4-90</FootprintRef1>
+	</Part>
+	<Part/>
+	<Part/>
+	<Part/>
+	<Part/>
+	<Part/>
+	<Part/>
+	<Part/>
+	<Part/>
+	<Part/>
+	<Part/>
+	<Part/>
+	<Part/>
+	<Part/>
+	<Part/>
 </Connectors>

@@ -28,8 +28,8 @@
 		<Comment>SMBJ26CA</Comment>
 		<LibraryPath>Schematic\TVS\TVS_1_2dir.SchLib</LibraryPath>
 		<LibraryRef>TVS_1_2dir</LibraryRef>
-		<FootprintPath1>Footprints\SMBJ26CA.PcbLib</FootprintPath1>
-		<FootprintRef1>SMBJ26CA</FootprintRef1>
+		<FootprintPath1>Footprints\SMB.PcbLib</FootprintPath1>
+		<FootprintRef1>SMB</FootprintRef1>
 		<VoltageNominal>26</VoltageNominal>
 		<Power>600</Power>
 		<Value>26 В</Value>
