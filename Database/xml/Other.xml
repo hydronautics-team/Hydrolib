@@ -261,4 +261,49 @@
 		<FootprintRef1>L-KLS5-CR2032-03</FootprintRef1>
 		<FootprintPath3>Footprints\.PcbLib</FootprintPath3>
 	</Part>
+	<Part>
+		<PartNumber>01543.15DR</PartNumber>
+		<Description>01543.15DR, SMD Предохранитель + Держатель Очень быстродействующий 3,15А (8051399152)</Description>
+		<Comment>01543.15DR</Comment>
+		<LibraryPath>Schematic\fuse.SchLib</LibraryPath>
+		<LibraryRef>fuse</LibraryRef>
+		<FootprintPath1>Footprints\01543.15DR.PcbLib</FootprintPath1>
+		<FootprintRef1>01543.15DR</FootprintRef1>
+		<FootprintPath3>Footprints\.PcbLib</FootprintPath3>
+	</Part>
+	<Part>
+		<Comment>0</Comment>
+		<LibraryPath>Schematic\.SchLib</LibraryPath>
+		<LibraryRef>0</LibraryRef>
+		<FootprintPath1>Footprints\.PcbLib</FootprintPath1>
+		<FootprintPath3>Footprints\.PcbLib</FootprintPath3>
+	</Part>
+	<Part>
+		<Comment>0</Comment>
+		<LibraryPath>Schematic\.SchLib</LibraryPath>
+		<LibraryRef>0</LibraryRef>
+		<FootprintPath1>Footprints\.PcbLib</FootprintPath1>
+		<FootprintPath3>Footprints\.PcbLib</FootprintPath3>
+	</Part>
+	<Part>
+		<Comment>0</Comment>
+		<LibraryPath>Schematic\.SchLib</LibraryPath>
+		<LibraryRef>0</LibraryRef>
+		<FootprintPath1>Footprints\.PcbLib</FootprintPath1>
+		<FootprintPath3>Footprints\.PcbLib</FootprintPath3>
+	</Part>
+	<Part>
+		<Comment>0</Comment>
+		<LibraryPath>Schematic\.SchLib</LibraryPath>
+		<LibraryRef>0</LibraryRef>
+		<FootprintPath1>Footprints\.PcbLib</FootprintPath1>
+		<FootprintPath3>Footprints\.PcbLib</FootprintPath3>
+	</Part>
+	<Part>
+		<Comment>0</Comment>
+		<LibraryPath>Schematic\.SchLib</LibraryPath>
+		<LibraryRef>0</LibraryRef>
+		<FootprintPath1>Footprints\.PcbLib</FootprintPath1>
+		<FootprintPath3>Footprints\.PcbLib</FootprintPath3>
+	</Part>
 </Other>

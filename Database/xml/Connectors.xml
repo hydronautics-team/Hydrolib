@@ -612,17 +612,34 @@
 		<FootprintRef1>AMPHENOL_10018783-11111TLF</FootprintRef1>
 	</Part>
 	<Part>
-		<Comment>Picoblade_532610371</Comment>
-		<LibraryPath>Picoblade 3-pin разъем</LibraryPath>
-		<LibraryRef>Picoblade_532610371</LibraryRef>
-		<FootprintPath1>Schematic\Connectors\Picoblade_532610371.SchLib</FootprintPath1>
-		<FootprintRef1>Conn_3pin_2shield</FootprintRef1>
+		<PartNumber>PCI-E(4X)</PartNumber>
+		<Comment>PCI-E(4X)</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_64pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_64pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\PCIexpress_x4_full.PcbLib</FootprintPath1>
+		<FootprintRef1>PCIexpress_x4_full</FootprintRef1>
 	</Part>
 	<Part>
-		<Comment>PicoBlade_53398-0471</Comment>
-		<LibraryPath>Разъем PicoBlade 1.25 мм, 4pin</LibraryPath>
-		<LibraryRef>PicoBlade_53398-0471</LibraryRef>
-		<FootprintPath1>Schematic\Connectors\PicoBlade_53398-0471.SchLib</FootprintPath1>
-		<FootprintRef1>Conn_4pin_2shield</FootprintRef1>
+		<PartNumber>PLS4-90</PartNumber>
+		<Description>Гребенка 4 пина</Description>
+		<Comment>PLS-4</Comment>
+		<LibraryPath>Schematic\Connectors\Conn_4pin.SchLib</LibraryPath>
+		<LibraryRef>Conn_4pin</LibraryRef>
+		<FootprintPath1>Footprints\Connectors\PLS_PLD_PBS_PBD_and_others\PLS_ALL.PcbLib</FootprintPath1>
+		<FootprintRef1>PLS4-90</FootprintRef1>
 	</Part>
+	<Part/>
+	<Part/>
+	<Part/>
+	<Part/>
+	<Part/>
+	<Part/>
+	<Part/>
+	<Part/>
+	<Part/>
+	<Part/>
+	<Part/>
+	<Part/>
+	<Part/>
+	<Part/>
 </Connectors>

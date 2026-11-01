@@ -362,4 +362,14 @@
 		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
 		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
 	</Part>
+	<Part>
+		<PartNumber>B82464A4103M000</PartNumber>
+		<Description>Индуктивность на 10 мкГн, номинальный ток 2,5 А</Description>
+		<Comment>B82464A4103M000</Comment>
+		<FootprintPath1>Footprints\Inductance\.PcbLib</FootprintPath1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Value>10 мк</Value>
+	</Part>
 </Inductance>
